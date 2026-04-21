@@ -1,0 +1,90 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getCollection } from 'astro:content';
+import { getPostPath } from '../utils/posts';
+
+const posts = (await getCollection('blog'))
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+	.slice(0, 10);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<style>
+			main {
+				width: 960px;
+			}
+			.intro {
+				margin-bottom: 2rem;
+			}
+			ul.post-list {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			ul.post-list li {
+				margin-bottom: 1rem;
+				padding-bottom: 1rem;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			ul.post-list li:last-child {
+				border-bottom: none;
+			}
+			ul.post-list a {
+				text-decoration: none;
+			}
+			ul.post-list .title {
+				margin: 0;
+				color: rgb(var(--black));
+				line-height: 1.4;
+			}
+			ul.post-list .date {
+				margin: 0;
+				color: rgb(var(--gray));
+				font-size: 0.875rem;
+			}
+			ul.post-list a:hover .title {
+				color: rgb(var(--accent));
+			}
+			.all-posts {
+				margin-top: 1rem;
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section class="intro">
+				<p>{SITE_DESCRIPTION}</p>
+			</section>
+			<section>
+				<h2>Recent Posts</h2>
+				<ul class="post-list">
+					{
+						posts.map((post) => (
+							<li>
+								<a href={getPostPath(post)}>
+									<h4 class="title">{post.data.title}</h4>
+									<p class="date">
+										<FormattedDate date={post.data.pubDate} />
+									</p>
+								</a>
+							</li>
+						))
+					}
+				</ul>
+				<p class="all-posts">
+					<a href="/blog/">View all posts &rarr;</a>
+				</p>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>

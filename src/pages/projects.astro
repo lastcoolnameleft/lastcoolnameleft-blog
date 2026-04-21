@@ -1,0 +1,78 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+
+const projects = [
+	{
+		name: 'Punkin Chunkin',
+		status: 'Active',
+		date: 'October 2014',
+		description:
+			'Do you like pumpkins? I hate them! I want to see them smashed! So I worked with some friends to build their trebuchet, I built my own and then it grew from there!',
+		technologies: 'Woodworking, Engineering, Powertools',
+		url: 'https://www.dfwtrebuchet.com',
+	},
+	{
+		name: 'Disco Kilt',
+		status: 'Semi-active',
+		date: 'September 2025',
+		description:
+			"I love kilts. I love disco. Two great tastes that go great together...right? Right?! RIGHT?!?!?",
+		technologies: 'Sewing, LED',
+		url: '/2025/10/disco-kilt-a-journey-of-sparkles-leds-and-scottish-pride/',
+	},
+	{
+		name: 'LED Lanyard',
+		status: 'Active',
+		date: 'June 2019',
+		description:
+			'I got bored of regular conference lanyards. So, I decided to make my own.',
+		technologies: 'Electronics, LED, Python',
+		url: 'https://www.ledlanyard.com',
+	},
+	{
+		name: 'Robo-Clippy',
+		status: 'Archived',
+		date: 'April 2019',
+		description:
+			'Think Big Mouth Billy Bass, but connected to Azure. And a lot creepier.',
+		technologies: 'LEGO, Azure, IoT',
+		url: 'https://github.com/lastcoolnameleft/robo-clippy',
+	},
+];
+---
+
+<Layout
+	title="Projects"
+	description="Maker projects by Tommy Falgout"
+	pubDate={new Date('2014-10-01')}
+>
+	<p>Here's a collection of technical projects I've worked on, documenting my exploration of various technologies and problem-solving approaches.</p>
+
+	{
+		projects.map((project) => (
+			<div class="project">
+				<h3><a href={project.url}>{project.name}</a></h3>
+				<p>
+					<strong>Status:</strong> {project.status} &middot;
+					<strong>Started:</strong> {project.date}
+				</p>
+				<p>{project.description}</p>
+				<p><strong>Technologies:</strong> {project.technologies}</p>
+			</div>
+		))
+	}
+</Layout>
+
+<style>
+	.project {
+		margin-bottom: 2rem;
+		padding-bottom: 1rem;
+		border-bottom: 1px solid rgb(var(--gray-light));
+	}
+	.project:last-child {
+		border-bottom: none;
+	}
+	.project h3 {
+		margin-bottom: 0.25rem;
+	}
+</style>
