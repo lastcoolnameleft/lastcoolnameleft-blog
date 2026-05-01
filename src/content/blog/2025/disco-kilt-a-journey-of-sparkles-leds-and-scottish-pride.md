@@ -1,9 +1,23 @@
 ---
+draft: false
+featured: "3"
+authors:
+  - Tommy Falgout
 title: "Disco Kilt: A Journey of Sparkles, LEDs, and Scottish Pride"
-description: ""
-pubDate: '2025-10-16T21:15:07.000Z'
-categories:
-  - Work Related Stuff
+description: Tommy combines kilts, disco, sewing, and LEDs into a DragonCon-ready showpiece.
+pubDate: 2025-10-16T00:00:00.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - maker
+  - sewing
+  - leds
+  - disco
+  - kilt
+image:
+  src: https://i.imgur.com/qEEldh5.jpeg
+  alt: Tommy wearing the finished disco kilt.
+ogImage:
+  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 
 ## Where Heritage Meets the Dance Floor
@@ -62,7 +76,7 @@ By the time I finished, I'd added over [15 feet of LEDs](https://amzn.to/42LdTbI
 
 ![LED](https://i.imgur.com/I1YBj5U.gif)
 
-I also created an LED sporran to accentuate the overall effect. 
+I also created an LED sporran to accentuate the overall effect.
 
 ![](https://i.imgur.com/REpoQcH.jpeg)
 
