@@ -1,25 +1,20 @@
 ---
 draft: false
-featured: "3"
+featured: "none"
+title: "Disco Kilt: A Journey of Sparkles, LEDs, and Scottish Pride"
+description: "A post by Tommy Falgout"
 authors:
   - Tommy Falgout
-title: "Disco Kilt: A Journey of Sparkles, LEDs, and Scottish Pride"
-description: Tommy combines kilts, disco, sewing, and LEDs into a DragonCon-ready showpiece.
-pubDate: 2025-10-16T00:00:00.000Z
+pubDate: 2025-10-16T21:15:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - maker
-  - sewing
-  - leds
-  - disco
-  - kilt
+  - life
 image:
   src: https://i.imgur.com/qEEldh5.jpeg
-  alt: Tommy wearing the finished disco kilt.
+  alt: "Post image"
 ogImage:
   src: https://i.imgur.com/qEEldh5.jpeg
 ---
-
 ## Where Heritage Meets the Dance Floor
 
 I love kilts. I now own six of them, which feels appropriate given that I'm a quarter Scottish. But I also love disco. For over 25 years, I've been swing, blues, and disco dancing, even creating an alter ego called Disco Stu that once won me a $500 costume contest for my outfit and dance moves. So when I was discussing the idea with some friends about combining these two passions, I knew I had to make it happen.
@@ -76,7 +71,7 @@ By the time I finished, I'd added over [15 feet of LEDs](https://amzn.to/42LdTbI
 
 ![LED](https://i.imgur.com/I1YBj5U.gif)
 
-I also created an LED sporran to accentuate the overall effect.
+I also created an LED sporran to accentuate the overall effect. 
 
 ![](https://i.imgur.com/REpoQcH.jpeg)
 
