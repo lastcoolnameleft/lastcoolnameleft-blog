@@ -92,6 +92,8 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
             crossorigin="anonymous"></script>
 
         <script src="../utils/overlay.ts"></script>
+
+        <slot name="head" />
     </head>
 
     <body

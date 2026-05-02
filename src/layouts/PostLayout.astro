@@ -24,6 +24,18 @@ const allPostsInCollection = await getCollection("blog");
 const postIndex = allPostsInCollection.findIndex((e) => e.id === entry.id);
 const prevPost = allPostsInCollection[postIndex + 1];
 const nextPost = allPostsInCollection[postIndex - 1];
+
+const jsonLd = JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    headline: entry.data.title,
+    description: entry.data.description,
+    datePublished: entry.data.pubDate.toISOString(),
+    ...(entry.data.updatedDate && { dateModified: entry.data.updatedDate.toISOString() }),
+    ...(entry.data.image && { image: new URL(entry.data.image.src, Astro.site).href }),
+    author: entry.data.authors.map((name: string) => ({ "@type": "Person", name })),
+    url: new URL(Astro.url.pathname, Astro.site).href,
+});
 ---
 
 <BaseLayout
@@ -31,6 +43,7 @@ const nextPost = allPostsInCollection[postIndex - 1];
     description={entry.data.description}
     ogImage={entry.data.ogImage?.src}
 >
+    <script type="application/ld+json" set:html={jsonLd} slot="head" />
     <MediumZoom />
 
     {

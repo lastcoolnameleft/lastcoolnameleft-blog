@@ -12,7 +12,7 @@ tags:
 ---
 [//build](https://build.microsoft.com/) is a developer-centric conference Microsoft hosts every year.  Since [I never expected to work for Microsoft](http://www.lastcoolnameleft.com/2016/12/i-work-for-microsoft/), I wasn't even aware of //build.  So, when my manager asked me if I was excited to attend and I told him no, I now know why that was the naive answer.
 
-[![](/wp-content/uploads/2017/05/IMG_0461.jpg)](/wp-content/uploads/2017/05/IMG_0461.jpg)
+[![](/images/2017/IMG_0461.jpg)](/images/2017/IMG_0461.jpg)
 
 
 
@@ -31,12 +31,12 @@ However, CosmosDB goes far beyond those two models and introduces 3 more that ar
 As a data guy, this is impressive to say the least.  Not just because I work here, but because this is a new level of choice that I haven't seen before and am excited about.
 
 
-[![](/wp-content/uploads/2017/05/IMG_0357.jpg)](/wp-content/uploads/2017/05/IMG_0357.jpg)
+[![](/images/2017/IMG_0357.jpg)](/images/2017/IMG_0357.jpg)
 
 - Speaking of being a data guy, offering Postgres and MySQL as a service made me giddier than it probably should.  That said, AWS has had it for a while, so I'm more excited that we're catching up.
 
 
-[![](/wp-content/uploads/2017/05/IMG_0363.jpg)](/wp-content/uploads/2017/05/IMG_0363.jpg)
+[![](/images/2017/IMG_0363.jpg)](/images/2017/IMG_0363.jpg)
 
 
 
@@ -52,7 +52,7 @@ As a data guy, this is impressive to say the least.  Not just because I work her
 - Fluent Design: I'm color blind, so visual design is often lost on me.  Other people seemed excited about it.  So, that's nice.
 
 
-[![](/wp-content/uploads/2017/05/IMG_0472-1.jpg)](/wp-content/uploads/2017/05/IMG_0472-1.jpg)
+[![](/images/2017/IMG_0472-1.jpg)](/images/2017/IMG_0472-1.jpg)
 
 
 
@@ -61,13 +61,13 @@ As a data guy, this is impressive to say the least.  Not just because I work her
 
 Hololens:  Microsoft's current Hololens is very neat, but costs ~$3000.  Microsoft announced is a $399 model from Acer, which will be available in time for the holidays.  Microsoft's Hololens uses a transparent screen in front of your eyes to overlay augmented reality, and the Acer model provides a complete-view screen with cameras on the side to augment.  There were 19 mixed reality experiences (vendors/partners) attending //build.  
 
-[![](/wp-content/uploads/2017/05/IMG_0375.jpg)](/wp-content/uploads/2017/05/IMG_0375.jpg)
+[![](/images/2017/IMG_0375.jpg)](/images/2017/IMG_0375.jpg)
 
 The parties:  Microsoft spared no expense in ensuring that the guests enjoyed themselves.  My highlight was walking around CenturyLink Field (home of the Seattle Seahawks) and screaming "[Who Dat](http://www.neworleanssaints.com/)!".  Rock-aoke (Karaoke with a live-band) was a huge hit too.
 
-[![](/wp-content/uploads/2017/05/IMG_0425-1.jpg)](/wp-content/uploads/2017/05/IMG_0425-1.jpg)
+[![](/images/2017/IMG_0425-1.jpg)](/images/2017/IMG_0425-1.jpg)
 
-[![](/wp-content/uploads/2017/05/IMG_0451.jpg)](/wp-content/uploads/2017/05/IMG_0451.jpg)
+[![](/images/2017/IMG_0451.jpg)](/images/2017/IMG_0451.jpg)
 
 
 
@@ -76,4 +76,4 @@ Want to pretend you were there from experiencing my photos?  [Now you can!](http
 
 See you next year!
 
-[![](/wp-content/uploads/2017/05/IMG_0487.jpg)](/wp-content/uploads/2017/05/IMG_0487.jpg)
+[![](/images/2017/IMG_0487.jpg)](/images/2017/IMG_0487.jpg)
