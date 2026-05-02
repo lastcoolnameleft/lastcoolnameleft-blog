@@ -1,11 +1,15 @@
 ---
-title: Coincidence?!
-description: ""
-pubDate: '2003-04-09T07:19:44.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Coincidence?!"
+description: "WARNING: This post links to some pretty graphic stuff. Don't say I didn't warn you. A while back, a friend of mine, Matt Musselman told an interesting…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-04-09T07:19:44.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 WARNING:  This post links to some pretty graphic stuff.  Don't say I didn't warn you.
 
 A while back, a friend of mine, [Matt Musselman ](http://www.onomatopoeia.org/)told an interesting story about how he was searching through some porn one day and came across one of his X-girlfriends.  Pretty shocking, mind you.  Well, I got curious enough that I asked him if I could see it  "Do a [Google on 132991.jpg](http://www.google.com/search?sourceid=navclient&q=132991%2Ejpg).  She's the one in the middle."

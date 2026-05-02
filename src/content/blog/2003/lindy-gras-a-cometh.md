@@ -1,11 +1,15 @@
 ---
-title: Lindy Gras a cometh
-description: ""
-pubDate: '2003-02-14T06:27:01.000Z'
-categories:
-  - Work Related Stuff
+draft: false
+featured: "none"
+title: "Lindy Gras a cometh"
+description: "For those still not aware of my new habit of going to Lindy Exchanges, get used to me mentioning them. I should be hitting quite a few this year. The…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-02-14T06:27:01.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 For those still not aware of my new habit of going to Lindy Exchanges, get used to me mentioning them.  I should be hitting quite a few this year.  The latest one which I am preparing myself for tonight is [Lindy Gras](http://www.danceneworleans.com/lindygras), hosted in one of my old neigborhoods of [New Orleans](http://www.nola.com).
 
 Most of the dances will be right by alma-mater, [Tulane](http://www.tulane.edu).  I’m really looking forward to it.  Although the drive (Yes, I’m driving there instead of flying), will be quite an 8 hour hike which I’m not looking forward to.  Thankfully, I’ve got [Greg ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album14&id=IMG_0517&op=modload&name=gallery&file=index&include=view_photo.php)to keep me busy. Plus, I just found all of my missing MP3 CD's!  Yea!  Each CD is about 11 hours of music, so we’ll never run out of music.  Yarrr!

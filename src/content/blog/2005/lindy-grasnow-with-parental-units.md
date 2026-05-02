@@ -1,11 +1,15 @@
 ---
-title: Lindy Gras...now with Parental Units!
-description: ""
-pubDate: '2005-01-28T02:27:36.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+draft: false
+featured: "none"
+title: "Lindy Gras...now with Parental Units!"
+description: "Of course, thanks for everyone who helped organize this wonderous event. It kicked much arse! Unforunately, I had too much fun and my body's making me pay…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-01-28T02:27:36.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Of course, thanks for everyone who helped organize this wonderous event.  It kicked much arse!  Unforunately, I had too much fun and my body's making me pay for it now by being sick and stuff.
 
 Some of my favorite highlights were:

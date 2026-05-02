@@ -1,11 +1,15 @@
 ---
-title: London Lindy Exchange
-description: ""
-pubDate: '2007-04-15T13:54:09.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "London Lindy Exchange"
+description: "My second International Exchange has been a great adventure. Although, there are some differences which struck me as odd. One I wish I would have learned…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-15T13:54:09.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 My second International Exchange has been a great adventure.  Although, there are some differences which struck me as odd.
 
 One I wish I would have learned before coming is that it's common to dance with the same partner for two consecutive dances.  This was a bit of an ego deflator as I thought I was so good that all these girls asked me for a 2nd dance, but it's just the way that they roll here.  There's a bunch of good dancers here, so it wasn't a problem, but so many times I found myself finishing the dance with one girl, hearing the next song come on and then wanting to find another follow to dance with, but sticking with the same one.  Not a complaint, mind you.  Just different.

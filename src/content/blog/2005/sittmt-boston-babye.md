@@ -1,12 +1,16 @@
 ---
+draft: false
+featured: "none"
 title: "SittMT: Boston, babye!"
-description: ""
-pubDate: '2005-08-18T08:31:50.000Z'
-categories:
-  - Uncategorized
+description: "Boston Chowda Originally uploaded by SnoopyKiss. After a long train ride, it's always great to be greated by a welcoming female. Who's hot. And a redhead.…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-08-18T08:31:50.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://photos22.flickr.com/34742592_15d7ad9182_m.jpg)](http://www.flickr.com/photos/snoopykiss/34742592/)
+[![](/images/2005/34742592_15d7ad9182_m.jpg)](http://www.flickr.com/photos/snoopykiss/34742592/)
 
 [Boston Chowda](http://www.flickr.com/photos/snoopykiss/34742592/)
 

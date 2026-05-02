@@ -1,11 +1,15 @@
 ---
-title: All Aboard...the Night Train!
-description: ""
-pubDate: '2007-04-22T17:14:40.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "All Aboard...the Night Train!"
+description: "After spending the night with my newfound Dutch friend, Henk, I learned how perfect Ikea fits into the European home. Amsterdam is a beautiful and…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-22T17:14:40.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 After spending the night with my newfound Dutch friend, Henk, I learned how perfect Ikea fits into the European home.  Amsterdam is a beautiful and decadent city with sightseeing in the morning for the grey-hairs and enough sex toys and shops to make my mom blush.  Not that it would take much.
 
 Speaking of Momma Falgout, I met up with her, Uncle Bill and Aunt Bobby in Amsterdam and we were off to the Van Gogh museum, Anne Frank house, mini-boat tour and the always International, Hard Rock Cafe.  They just finished an Old People's Cruise seeing the blooming Tulips.  Now before you wonder why you'd cross-country travel just to see flowers, trust me.  Even I was impressed by these flowers.  This coming from someone who won't grow anything unless you can eat it.

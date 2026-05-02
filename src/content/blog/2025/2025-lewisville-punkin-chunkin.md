@@ -1,11 +1,21 @@
 ---
-title: 2025 Lewisville Punkin Chunkin
-description: ""
-pubDate: '2025-11-30T23:55:34.000Z'
-categories:
-  - Work Related Stuff
+draft: false
+featured: "1"
+title: "2025 Lewisville Punkin Chunkin"
+description: "A Day of Flying Pumpkins and Flying Fun What do you get when you combine medieval siege engines, autumn gourds, and a beautiful lakeside setting? The 2025…"
+authors:
+  - Tommy Falgout
+pubDate: 2025-11-30T23:55:34.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
+  - project
+image:
+  src: /images/2025/gieqdvc.jpeg
+  alt: "Punkin Chunkin"
+ogImage:
+  src: /images/2025/gieqdvc.jpeg
 ---
-
 # A Day of Flying Pumpkins and Flying Fun
 
 What do you get when you combine medieval siege engines, autumn gourds, and a beautiful lakeside setting? The 2025 Lewisville Punkin Chunkin, that's what! This year's event marked a special milestone - our 7th DFW Trebuchet event and the 2nd annual Punkin Chunkin partnership with the City of Lewisville. And what a day it was!
@@ -18,25 +28,25 @@ Working with the City of Lewisville, and especially Miranda Maloy, has been noth
 
 This year we had five teams bringing nine trebuchets to the field, each with their own unique design and personality:
 
-![](https://i.imgur.com/uEvqyfP.jpeg)
+![](/images/2025/uevqyfp.jpeg)
 
 **Knights Who Say Yeet** (that's me!) brought Sir Yeets-a-Lot, a walking arm trebuchet. Small but mighty, this compact design proved that you don't need to be the biggest to make an impact.
 
 **The Big Trebowski**, led by Matt Weyandt and Shawn Porter, featured "The Dude Abides", a whipper that definitely abided by the laws of physics in spectacular fashion.
 
-![](https://i.imgur.com/yb5KiCA.jpeg)
+![](/images/2025/yb5kica.jpeg)
 
 **Texas Trebuchet**, organized by Robert Townsend and Steven Larson, brought not one, not two, but THREE whippers of varying sizes. I affectionately dubbed them Papa Bear, Momma Bear, and Baby Bear based on their dimensions. (Robert also runs the fantastic [Texas Trebuchet Facebook group](https://www.facebook.com/groups/404259739587758) if you're interested in joining the community!)
 
-![](https://i.imgur.com/gIeQDVc.jpeg)
+![](/images/2025/gieqdvc.jpeg)
 
 **The Flugelhorns**, the Weis family creation, showcased "Chunk Mangione", a hinged counterweight trebuchet with a name that's pure gold.
 
-![](https://i.imgur.com/ZDMbfpe.jpeg)
+![](/images/2025/zdmbfpe.jpeg)
 
 **Wile E's Pumpkin Express**, JJ Bleu's new team with her brother, featured a MURLIN (Multi-Radius Linear Nodes) design using an anvil as counterweight. Talk about creative engineering!
 
-![](https://i.imgur.com/JiaUYgl.jpeg)
+![](/images/2025/jiauygl.jpeg)
 
 ## Going the Distance
 
@@ -83,7 +93,7 @@ Special thanks to:
 
 - **Shea Johns** - for creating the awesome awards!
 
-![](https://i.imgur.com/IINc9oD.jpeg)
+![](/images/2025/iinc9od.jpeg)
 
 And of course, huge appreciation to our competing teams who were the real stars of the show:
 
@@ -95,16 +105,16 @@ And of course, huge appreciation to our competing teams who were the real stars 
 
 - The Big Trebowski - Matt Weyandt and Shawn Porter
 
-![](https://i.imgur.com/shhmh2o.jpeg)
+![](/images/2025/shhmh2o.jpeg)
 
 ## Until Next Year
 
 As I watched pumpkin carcasses bob in Lake Lewisville and listened to the excited chatter of spectators heading home, I couldn't help but feel proud of what we've built together. Seven events deep, and the DFW Trebuchet community keeps growing stronger. Here's to more flying pumpkins, creative engineering, and the pure joy of launching things really, really far.
 
-![](https://i.imgur.com/yR4knlG.jpeg)
+![](/images/2025/yr4knlg.jpeg)
 
 See you next year, Lewisville!
 
 *Sir Yeets-a-Lot has left the field.*
 
-![](https://i.imgur.com/e3dHz3I.jpeg)
+![](/images/2025/e3dhz3i.jpeg)

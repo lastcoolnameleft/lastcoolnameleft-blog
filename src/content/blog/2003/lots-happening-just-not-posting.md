@@ -1,11 +1,15 @@
 ---
-title: Lots happening.  Just not posting.
-description: ""
-pubDate: '2003-03-28T07:52:06.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Lots happening.  Just not posting."
+description: "Bonsoir tout la monde, A heck of a lot has been going on since last I posted. US has gone into war, Melissa and I took a vacation around Texas, my B-day,…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-03-28T07:52:06.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Bonsoir tout la monde,
 
 A heck of a lot has been going on since last I posted.  US has gone into war, Melissa and I took a vacation around Texas, my B-day, lotsa lotsa working.  I could write about it all for a while, and I might but I've been trying to take care of the basics.

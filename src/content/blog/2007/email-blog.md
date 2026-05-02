@@ -1,11 +1,15 @@
 ---
-title: Email -> Blog
-description: ""
-pubDate: '2007-04-12T21:33:52.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Email -> Blog"
+description: "I've had a few people ask me what I thought about the different cultures. Here's a compilation of their questions/answers: --What do you see about…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-12T21:33:52.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I've had a few people ask me what I thought about the different cultures.  Here's a compilation of their questions/answers:
 
 --What do you see about different cultural conversations?

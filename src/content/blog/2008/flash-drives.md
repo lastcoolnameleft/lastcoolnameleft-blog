@@ -1,12 +1,15 @@
 ---
-title: Flash Drives
-description: ""
-pubDate: '2008-11-13T00:46:57.000Z'
-categories:
-  - Blah Blah Blah
-  - Misc
+draft: false
+featured: "none"
+title: "Flash Drives"
+description: "On Monday, for the first time ever, I bought a flash drive. Considering that I also still don't have a DVD burner, many of my friends could consider this…"
+authors:
+  - Tommy Falgout
+pubDate: 2008-11-13T00:46:57.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 On Monday, for the first time ever, I bought a flash drive.  Considering that I also still don't have a DVD burner, many of my friends could consider this as being "behind the times".  Instead, I think of this as being far ahead of the times.  I've never needed one.
 
 Anything small enough to fit on one could be emailed and anything bigger than that could be found on a torrent.  I found that people usually used them to share Word Docs, MP3's and/or pr0n.  If you were on a computer that had those, you were probably already close enough to email them.

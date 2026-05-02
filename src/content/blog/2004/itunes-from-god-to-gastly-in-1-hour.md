@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "iTunes:  From God to Gastly in 1 hour"
-description: ""
-pubDate: '2004-04-29T09:15:37.000Z'
-categories:
-  - Blah Blah Blah
+description: "Since I still hadn't conquered my blues, I thought, \"Hey! Maybe if I buy stuff, I'll feel better.\" I've heard women do that, so I decided to try it out…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-04-29T09:15:37.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Since I still hadn't conquered my blues, I thought, "Hey!  Maybe if I buy stuff, I'll feel better."  I've heard women do that, so I decided to try it out for myself.
 
 Here's my progression:

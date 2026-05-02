@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Ok, now it's funny."
-description: ""
-pubDate: '2004-05-06T09:50:34.000Z'
-categories:
-  - Home related stuff
+description: "The weekend that kept getting wackier still lives! It started with seeing an X and getting insanely jealous. That was later calmed down by attending The…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-05-06T09:50:34.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 The weekend that kept getting wackier still lives!
 
 It started with seeing an X and getting insanely jealous.  That was later calmed down by attending The Angry Asian's "Stereotypical Party", where you come dressed up as the worst stereotype of your race.  I was about to go home and mope until I was told that I couldn't until I went to see "Madame Wong".  Boy, that was a good idea.

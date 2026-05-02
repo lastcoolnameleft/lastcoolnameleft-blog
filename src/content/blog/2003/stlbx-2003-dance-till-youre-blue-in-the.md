@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "STLBX 2003 - Dance till you're blue in the..."
-description: ""
-pubDate: '2003-09-30T21:21:00.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+description: "Apparently, it was that time of the month for me. I was a bit late; however, that was ok; because I was able to resolve some personal issues since the…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-09-30T21:21:00.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Apparently, it was that time of the month for me.  I was a bit late; however, that was ok; because I was able to resolve some personal issues since the last time.  And once it happened, it was a big relief for me.  I was starting to get really worried.
 
 The [St Louis Blues Exchange](http://www.stlbx.com/index.html) proved to be an amazing time.  It ended on a bad note for me, (i.e. sick as a dog) but I have never has such high spirits with so low of an immune system.  For this exchange, I joined forces with some of the other Dallas-ites (Greg, Helen (Yes, even though she lives in Ft. Worth, she's considered a Dallas-ite.) and Andre) going to STLBX.

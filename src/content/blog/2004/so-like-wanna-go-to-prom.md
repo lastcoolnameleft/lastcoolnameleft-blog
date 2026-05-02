@@ -1,11 +1,15 @@
 ---
-title: So, like, wanna go to Prom?
-description: ""
-pubDate: '2004-06-22T09:19:22.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+draft: false
+featured: "none"
+title: "So, like, wanna go to Prom?"
+description: "High school. 4 tortureous years, drenched in loneliness, angst and depression. Something I never wish to repeat. Amidst the teenage awkwardness, there's…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-06-22T09:19:22.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 High school.  4 tortureous years, drenched in loneliness, angst and depression.  Something I never wish to repeat.  Amidst the teenage awkwardness, there's supposed to be a night of freedom, a time of youthful revelry.  This so-called Prom.
 
 A lot has happened in 10 years, and I've gained the ability to put the past where it belongs and live life fully.  So, when these opprotunities to dredge up the past arise, it becomes a challenge to face my life nose to nose.

@@ -1,18 +1,22 @@
 ---
-title: Kubecon-CloudNativeCon - Take me to the river
-description: ""
-pubDate: '2017-12-11T02:53:59.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Kubecon-CloudNativeCon - Take me to the river"
+description: "Emerging civilizations naturally gravitate towards beds of water. Growing up in lower Louisiana, the Mighty Mississippi was where my ancestry settled. It…"
+authors:
+  - Tommy Falgout
+pubDate: 2017-12-11T02:53:59.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Emerging civilizations naturally gravitate towards beds of water.  Growing up in lower Louisiana, the Mighty Mississippi was where my ancestry settled.  It was a source of commerce, livelihood and fisheries which provided sustainability that allowed the surrounding areas to flourish to the ecosystem it is now.
 
 Technology mimics this cultural expansion and KubeCon/CloudNativeCon is the riverbed where developers and operators around the world arrive to ship and receive containers from the Kubernetes dock.
 
 I was fortunate enough to join 50+ other Microsoft'ers and 4000+ others KubeCon/CloudNativeCon on Dec 5-8th.  This hotbed of activity has flourished from the internal foundational work that Google created to a vibrant open source community.  This small stream has gathered enough momentum to be undeniable in the development and operations community.
 
-[![Untitled](https://farm5.staticflickr.com/4687/38914935562_ecd53b5766_z.jpg)](https://www.flickr.com/photos/snoopykiss/38914935562/in/dateposted/)
+[![Untitled](/images/2017/38914935562_ecd53b5766_z.jpg)](https://www.flickr.com/photos/snoopykiss/38914935562/in/dateposted/)
 
 Kubernetes is software that makes it easier to run your software.  Software development is hard, not just because you have to worry about your code, but you also have to worry about monitoring, maintaining, updating, scaling and more.  Kubernetes was the pilot program for a larger organization called the Cloud Native Compute Foundation.  The CNCF was designed to be stewards for this and other projects with the intention of making software easier to develop and operate.
 
@@ -21,7 +25,7 @@ If you missed the event, and want to vicariously live through my notes, you're i
 
 This year was the year of the Service Mesh and socks.
 
-[![Untitled](https://farm5.staticflickr.com/4597/38937335862_d0d06a1887_z.jpg)](https://www.flickr.com/photos/snoopykiss/38937335862/in/dateposted/)
+[![Untitled](/images/2017/38937335862_d0d06a1887_z.jpg)](https://www.flickr.com/photos/snoopykiss/38937335862/in/dateposted/)
 
 The week was not just an opportunity to learn from other experts, but to be at the forefront of new announcements from my favorite cloud.
 
@@ -42,7 +46,7 @@ Azure Announcements:
 
 
 
-[![Untitled](https://farm5.staticflickr.com/4585/38951151851_d6e41fc31e_z.jpg)](https://www.flickr.com/photos/snoopykiss/38951151851/in/photostream/)
+[![Untitled](/images/2017/38951151851_d6e41fc31e_z.jpg)](https://www.flickr.com/photos/snoopykiss/38951151851/in/photostream/)
 
 Other notable announcements:
 
@@ -65,6 +69,6 @@ Codefresh announces support for Helm Charts in Kubernetes
 
 Oh, and it snowed in Austin.  It was a KubeCon Miracle!
 
-[![Untitled](https://farm5.staticflickr.com/4575/24109519917_08ee947c6a_z.jpg)](https://www.flickr.com/photos/snoopykiss/24109519917/in/dateposted/)
+[![Untitled](/images/2017/24109519917_08ee947c6a_z.jpg)](https://www.flickr.com/photos/snoopykiss/24109519917/in/dateposted/)
 
 P.S.  A special shout-out to my travel/seminar buddies, Al Wolchesky, Kevin Hillinger, [Nick Eberts](https://twitter.com/NickNac718), [Brian Redmond](https://twitter.com/chzbrgr71) and [Eddie Villalba](https://twitter.com/evill_genius).

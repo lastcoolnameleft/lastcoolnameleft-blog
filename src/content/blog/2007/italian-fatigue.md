@@ -1,11 +1,15 @@
 ---
-title: Italian Fatigue
-description: ""
-pubDate: '2007-05-01T22:36:35.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Italian Fatigue"
+description: "Cinque Terra deserves all of the underground praise that it gets. It's 5 coastal cities, originally settled by monks, which provide stunning views of the…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-05-01T22:36:35.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Cinque Terra deserves all of the underground praise that it gets.  It's 5 coastal cities, originally settled by monks, which provide stunning views of the Mediterranean Sea.  And if you know anything about European monks, they were the original "Kings of the Hill".
 
 I got to Monterosso, the first of the Five Cities, and decided to do some exploring.  And using my trusty axiom, "When in Europe, always go up."  I came across a very old cathedral and a spooky graveyard.  Normally, I'm a huge fan of graveyards, but since it was close to midnight and I started reading Bram Stoker's "Dracula" that day, I high-tailed it back to the main city.

@@ -1,11 +1,15 @@
 ---
-title: No Pant Muse
-description: ""
-pubDate: '2007-08-27T05:35:48.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "No Pant Muse"
+description: "It's dang near impossible to go two years of living without noticing some changes to your habits/lifestyle. Oddly enough, I realized one of these updates…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-08-27T05:35:48.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 It's dang near impossible to go two years of living without noticing some changes to your habits/lifestyle.  Oddly enough, I realized one of these updates is the deep desire to live a life free of pants and the restrictions they impose.
 
 I believe in every man's right to drop trow and say, "I'm sick and tired of these things!  I have long enough, tolerated the inequities of my balls stuck on right!  Or your left, if your left-balled.  Or even if you're ambi-sac-trous.  Regardless!  We should not have to deal with the tyrannies of britches!"

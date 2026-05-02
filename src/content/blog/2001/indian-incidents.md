@@ -1,11 +1,15 @@
 ---
-title: Indian Incidents
-description: ""
-pubDate: '2001-10-13T01:31:40.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Indian Incidents"
+description: "Yesterday was definitely and interesting day, worthy of a story. Check out: Indian Incidents for more info. On the train ride to work today, I realized…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-13T01:31:40.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Yesterday was definitely and interesting day, worthy of a story. Check out: [Indian Incidents](http://www.lastcoolnameleft.com/modules.php?name=News&file=article&sid=39) for more info.
 
 On the train ride to work today, I realized that one month ago today,

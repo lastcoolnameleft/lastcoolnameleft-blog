@@ -1,11 +1,15 @@
 ---
-title: Yup!
-description: ""
-pubDate: '2008-10-14T04:33:45.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Yup!"
+description: "Yes. I'm married. It happened. It's become obvious to me that a number of people still relate to me as my old party/bachelor-esque lifestyle. \"I thought…"
+authors:
+  - Tommy Falgout
+pubDate: 2008-10-14T04:33:45.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Yes.  I'm married.  It happened.
 
 It's become obvious to me that a number of people still relate to me as my old party/bachelor-esque lifestyle.

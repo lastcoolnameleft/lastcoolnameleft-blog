@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Hey!  That's my uncle!!!"
-description: ""
-pubDate: '2003-09-20T20:50:48.000Z'
-categories:
-  - Home related stuff
+description: "http://www.msnbc.com/news/967824.asp?0cl=c3&cp1=1 Imagine my shock when I got a short message from my mom with the above link asking me to check it out…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-09-20T20:50:48.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 [http://www.msnbc.com/news/967824.asp?0cl=c3&cp1=1](http://www.msnbc.com/news/967824.asp?0cl=c3&cp1=1)
 
 Imagine my shock when I got a short message from my mom with the above link asking me to check it out for a surprise. 

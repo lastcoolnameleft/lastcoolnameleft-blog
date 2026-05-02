@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Still haven't found what I'm looking for."
-description: ""
-pubDate: '2005-01-12T04:35:28.000Z'
-categories:
-  - Blah Blah Blah
+description: "My life always seems to play itself out in themes. The current theme seem to be \"Recovery.\" Unfortunately, my week long excursion with the Lovely Miss Aya…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-01-12T04:35:28.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 My life always seems to play itself out in themes.  The current theme seem to be "Recovery."  Unfortunately, my week long excursion with the Lovely Miss Aya did not work out as I hoped it would.  This coupled with a previous chagrin, has had me seek the Great Geek Wisdom of Ernst Leland Gibson IV, who replied:  "Red Warrior Needs Time to Self Badly."
 
 So, after some much needed reflection time, I decided it's time to rally up some old friends and go out dancing.  This is as far as I got:

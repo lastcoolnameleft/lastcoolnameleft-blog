@@ -1,11 +1,15 @@
 ---
-title: My Car!!! (Toga Party)
-description: ""
-pubDate: '2002-08-26T02:28:55.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "My Car!!! (Toga Party)"
+description: "So many events...so little time that it happened in...I'll try to be as brief as possible, but good Gaud!...So much happened. It started off with a…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-08-26T02:28:55.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 So many events...so little time that it happened in...I'll try to be as brief as possible, but good Gaud!...So much happened.
 
 It started off with a Birthday Party invitation from my friend Suzyn, who was throwing a Toga party with another friend [Celena A. Diamond](http://www.celenart.com/).  Determined to not make the drive by myself and to brind my favorite partying and travel companion, I informed [Lee](http://moofie.lastcoolnameleft.com/)

@@ -1,12 +1,16 @@
 ---
-title: Air Guitar Champ
-description: ""
-pubDate: '2007-09-22T22:40:45.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Air Guitar Champ"
+description: "Air Guitar Champ Originally uploaded by Strange Muse Air Guitar Nation. Simply a beautiful movie about the spirit of humanity through the hidden bedroom…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-09-22T22:40:45.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://farm1.static.flickr.com/51/170818064_4dcbcda97e_m.jpg)](http://www.flickr.com/photos/davidbanks/170818064/)
+[![](/images/2007/170818064_4dcbcda97e_m.jpg)](http://www.flickr.com/photos/davidbanks/170818064/)
 
 [Air Guitar Champ](http://www.flickr.com/photos/davidbanks/170818064/)
 

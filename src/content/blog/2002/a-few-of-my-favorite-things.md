@@ -1,11 +1,15 @@
 ---
-title: A few of my favorite things...
-description: ""
-pubDate: '2002-11-16T09:53:30.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "A few of my favorite things..."
+description: "Jean Reno and Luc Besson. You put these two guys together and you know only good will come of it. The latest installment of their blessing to the rest of…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-11-16T09:53:30.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 [Jean Reno ](http://us.imdb.com/Name?Reno,+Jean)and [Luc Besson](http://us.imdb.com/Name?Besson,+Luc).
 
 You put these two guys together and you know only good will come of it.  The latest installment of their blessing to the rest of us people is the movie "[Wasabi](http://www.wasabi-lefilm.com/)."  As is typical with my latest set of favorite movies (About a Boy, Attack the Gas Station, Amelie, etc.), this is a foreign (French) comedy.  I used to think that I would never be interested in foreign comedy, because very little of it actually made me laugh.  However, this one really got me good.  What also makes this movie especially great was that I kept seeing pictures for it while I was in France and wanted to see it, but the whole "Non-English-Subtitles" part kept me away.  So, when my friend [Lee ](http://moofie.lastcoolnameleft.com)said that he scored two free tickets to it, I knew that my time had come.

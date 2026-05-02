@@ -1,11 +1,15 @@
 ---
-title: German Pigeonholes
-description: ""
-pubDate: '2007-05-01T22:30:18.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "German Pigeonholes"
+description: "As you can imagine, Germans are quite concerned with their image. Their BMW and Mercedes-Benz are beautiful pieces of machinery that are known for their…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-05-01T22:30:18.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As you can imagine, Germans are quite concerned with their image.  Their BMW and Mercedes-Benz are beautiful pieces of machinery that are known for their style and precision.  Many Germans are also frustrated with one of the typecasts.  But it's not what you're thinking.
 
 You can't do a tour without here without touching some piece of Nazi, WWI or WWII past.  Strangely enough, there are still some historic locations which has a Swastika-ish mark a door or someplace hidden.  But even those are being removed as part of a strong image reconstruction by the gov't and the people.

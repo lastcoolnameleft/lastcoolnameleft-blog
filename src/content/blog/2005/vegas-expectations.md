@@ -1,11 +1,15 @@
 ---
-title: Vegas Expectations
-description: ""
-pubDate: '2005-03-11T06:02:20.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Vegas Expectations"
+description: "I love it when my expectations of things get thrown away and then replaced by even mo'betta things. Like going to see the Stratosphere in Las Vegas.…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-03-11T06:02:20.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I love it when my expectations of things get thrown away and then replaced by even mo'betta things.
 
 Like going to see the Stratosphere in Las Vegas.  Beautiful view of the city with a rollercoaster on top!  How could you possibly have a better adventure than that?  What if your cab driver opens up the coversation about how far your seat is with, "So, how's your nuts?" And then proceeds to barely miss running over every pedestrian that gets in the way.

@@ -1,11 +1,15 @@
 ---
-title: Sometimes, France Piss Me Off
-description: ""
-pubDate: '2007-05-05T15:42:39.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Sometimes, France Piss Me Off"
+description: "If you want to see a beautiful city with centuries of culture and history, Paris is your place. Last night, Kathy and I went to see the Eiffel Tower at…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-05-05T15:42:39.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 If you want to see a beautiful city with centuries of culture and history, Paris is your place.  Last night, Kathy and I went to see the Eiffel Tower at night and were surprised with a colorful lights display of the tower as well.  I even gave in and splurged on a French meal.  It was actually good, but not as good as ours.  We went to sleep, present to the undeniable romance of the city.
 
 However, the next morning was filled with anxiety as we body-checked a local, jump turnstiles, and snook on the train because the line to get our free tickets to the airport was too long and only one person working the entire booth.

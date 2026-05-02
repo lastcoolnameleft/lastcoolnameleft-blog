@@ -1,11 +1,15 @@
 ---
-title: Would you like an apple pie with that?
-description: ""
-pubDate: '2004-04-20T02:16:43.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Would you like an apple pie with that?"
+description: "I've got so many great taglines to use in my jorunals, but so little content. This latest one sparked my imagination after a fairly reenactment of this…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-04-20T02:16:43.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I've got so many great taglines to use in my jorunals, but so little content.  This latest one sparked my imagination after a fairly reenactment of [this ](http://www.nata2.info/humor/flash/burgerking.swf) happened at the BK near my work.
 
 Few things put me me in the holiday sprit.  That's one of them.

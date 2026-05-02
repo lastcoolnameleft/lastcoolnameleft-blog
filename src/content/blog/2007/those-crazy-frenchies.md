@@ -1,11 +1,15 @@
 ---
-title: Those Crazy Frenchies
-description: ""
-pubDate: '2007-04-06T03:48:35.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Those Crazy Frenchies"
+description: "I arrived in Glasgow (Still in Scotland) after finding a hostel w/ wireless Internet (Yea modern world!). The walk there proved to me that Scotland does…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-06T03:48:35.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I arrived in Glasgow (Still in Scotland) after finding a hostel w/ wireless Internet (Yea modern world!).
 
 The walk there proved to me that Scotland does have a modern city with a drag, complete with a KFC, women wearing too much makeup and a sidewalk band...Singing the blues.  With a Scottish Accent.  And a touque.  *snicker*  Yeah, it was pretty funny.

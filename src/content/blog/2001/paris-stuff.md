@@ -1,11 +1,15 @@
 ---
-title: Paris stuff
-description: ""
-pubDate: '2001-10-20T01:35:46.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Paris stuff"
+description: "Last night, I had dinner with some friends who went exploring Rome at the same time Hemang and I went exploring Siena. On Tuesday morning, we had heard…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-20T01:35:46.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Last
 night, I had dinner with some friends who went exploring Rome at the same
 time Hemang and I went exploring Siena.  On Tuesday morning, we had heard

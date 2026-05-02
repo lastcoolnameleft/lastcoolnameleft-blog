@@ -1,11 +1,15 @@
 ---
-title: Studio 54 Party...total success!
-description: ""
-pubDate: '2002-11-03T12:17:58.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Studio 54 Party...total success!"
+description: "I'll write about the amazing Halloween event later, but I've gotta get the Studio 54 party out on paper (be it electronic, or whatnot) while it's still…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-11-03T12:17:58.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 [](http://http://www.lastcoolnameleft.com/modules/gallery/album08/P1010002)[](http://www.lastcoolnameleft.com/modules/gallery/album08/P1010034)I'll write about the amazing Halloween event later, but I've gotta get the Studio 54 party out on paper (be it electronic, or whatnot) while it's still fresh in my head.
 
 Before the party started, I had a TOTALLY crappy beginning, as I did some poor planning and scheduled the party 2 HOURS after finishing a course at [Landmark](http://www.landmarkeducation.com).  Well, the class took a bit longer and then when I rushed to my car, I found out that my car battery had died and wasn't going to easily let me leave the parking lot it was so comfortable at.  After some panicy actions, I finally got my car started thanks to my good friend, Cliff.

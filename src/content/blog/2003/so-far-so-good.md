@@ -1,11 +1,15 @@
 ---
-title: So far, So good
-description: ""
-pubDate: '2003-01-03T08:04:25.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "So far, So good"
+description: "New Years are always interesting times. Finding out that Dick Clark is still alive, people are coming off of the X-mas hussle and bussle, there are more…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-01-03T08:04:25.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 New Years are always interesting times.  Finding out that [Dick Clark ](http://www.dickclarkproductions.com/)is [still alive](http://www.cullenfamily.ca/2000_jul_dec.htm), people are coming off of the X-mas hussle and bussle, there are more drunks on the road, people are cheerier than X-mas, and of course, the opprotunity to clear off the slate and start new.
 
 Interestingly enough, the gathering I was at for NYE didn't turn on the TV until the very last minute of 2002 and ended up counting down the seconds in Spanish, because we didn't have time to change the channel.  Afterwards, they had a Spanish Ska band which was interest capturing.

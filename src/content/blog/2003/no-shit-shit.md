@@ -1,11 +1,15 @@
 ---
-title: No shit?! ... Shit
-description: ""
-pubDate: '2003-02-08T01:58:28.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "No shit?! ... Shit"
+description: "The above conversation was an excerpt from a conversation I had with a drunk kid one recent Sunday morning when I told him that I told him I graduated…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-02-08T01:58:28.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 The above conversation was an excerpt from a conversation I had with a drunk kid one recent Sunday morning when I told him that I told him I graduated from Tulane. (where he was studying)  I then told him that he was a long way from home.
 
 Drunk people amuse me. At least the ones you find at Denny's and IHOP at 1-2 AM. Having had a relative killed by a drunk driver, that is about the extent of my tollerance of them. Oh yeah, and then there was that time where Evil Roommate Steve was so drunk that he got me laughing because he was so loony. At one point he turned to me as he was sprawled out on the couch and said, Hey Tommy. What? 

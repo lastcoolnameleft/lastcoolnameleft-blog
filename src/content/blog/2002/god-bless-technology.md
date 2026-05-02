@@ -1,11 +1,15 @@
 ---
-title: God Bless Technology
-description: ""
-pubDate: '2002-07-16T02:23:51.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "God Bless Technology"
+description: "I keep telling people that I haven't been up to much lately; however, as I've just finished writing an email to a good old friend of mine, Tino Dai, I…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-07-16T02:23:51.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I
 keep telling people that I haven't been up to much lately; however, as I've
 just finished writing an email to a good old friend of mine, Tino Dai, I

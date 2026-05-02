@@ -1,11 +1,15 @@
 ---
-title: The world will miss you, Bill Jemison IV
-description: ""
-pubDate: '2001-10-17T01:33:24.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "The world will miss you, Bill Jemison IV"
+description: "Yesterday, I discovered my favorite part of this buisness trip so far: The laundry service. Hemang and I are planning to go to Italy this weekend, so he…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-17T01:33:24.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Yesterday, I discovered my favorite part of this buisness trip so far: The laundry service.
 
 Hemang and I are planning to go to Italy this weekend, so he recommended

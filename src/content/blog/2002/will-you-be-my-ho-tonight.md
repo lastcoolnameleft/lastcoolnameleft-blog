@@ -1,11 +1,15 @@
 ---
-title: Will you be my HO tonight?
-description: ""
-pubDate: '2002-10-27T11:31:29.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+draft: false
+featured: "none"
+title: "Will you be my HO tonight?"
+description: "First off, the title is the beginning of a very interesting story that goes against everything mom brought me up learning. It started off with me going…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-10-27T11:31:29.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 First off, the title is the beginning of a very interesting story that goes against everything mom brought me up learning.
 
 It started off with me going swing dancing at the [Sammon Center for the Arts ](http://www.dsds.org/events/EventsInfo/Sammons/Sammons.htm)where there was going to be a costume contest.  Some of the people there [looked really good](http://www.lastcoolnameleft.com/modules/gallery/album06/P1010003) while some [looked really evil](http://www.lastcoolnameleft.com/modules/gallery/album06/P1010002). (The front of her T-shirt says, "Evil" in blood read.)  Of course, I got decked out as Disco Stu and [rocked the casba](http://www.lastcoolnameleft.com/modules/gallery/album06/P1010015).  My friend [Andre ](http://www.lastcoolnameleft.com/modules/gallery/album06/P1010011)then approached me about heading out to the [Lizard Lounge ](http://www.thelizardlounge.com/intro/index.html)for some good happy time at a "Pimp and Ho Costume Contest"  Never turning down an opprotunity to shake my groove thang, I happily joined him and his girlfriend.  But I was lacking one essential piece of the puzzle.  

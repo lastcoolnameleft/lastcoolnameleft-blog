@@ -1,11 +1,15 @@
 ---
-title: Saturn adventures.
-description: ""
-pubDate: '2002-11-19T08:47:08.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Saturn adventures."
+description: "As many of you know, I own a Saturn Sports car, and love it profusely. I've been through a lot with it, and still hold it, like all things I care for,…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-11-19T08:47:08.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As many of you know, I own a [Saturn Sports car](http://saturn.thenetlab.net/sc1/), and love it profusely.  I've [been through a lot with it](http://www.ofoto.com/PhotoView.jsp?collid=66620055503&photoid=48572055503&UV=577276846124_45849087603&US=0&refreshkey=1037688006780), and still hold it, like all things I care for, dear to my heart.
 
 I took it to get checked out and as soon realized that I hadn't eaten in a long time.  After talking to one of the salesmen I asked if there was any place to eat in walking distance he offered to take me for a "test drive" and then we could go pick something up.  Highly honored by this request, I still declined.  He later came to me and said that they had "copious amounts of [Wendy's Chili](http://www.wendys.com/w-4-2-20.shtml)" in the back.  Not turning down FREE food, I went to the back and chilled out with the [Saturn folk ](http://www.saturn.com/company/employment/team_jobs/)and saw my future car.  

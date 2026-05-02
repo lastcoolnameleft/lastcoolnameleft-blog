@@ -1,11 +1,15 @@
 ---
-title: Dating.
-description: ""
-pubDate: '2002-08-25T02:27:37.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Dating."
+description: "It's been a while since I've updated this place. Not much has happened, except for an occasional date. Which brings me up to an topic: Dating... Growing…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-08-25T02:27:37.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 It's
 been a while since I've updated this place.  Not much has happened, except
 for an occasional date.  Which brings me up to an topic:

@@ -1,11 +1,15 @@
 ---
-title: I know Kung Fu
-description: ""
-pubDate: '2005-02-04T00:35:14.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "I know Kung Fu"
+description: "Ok, not yet, but I'm getting there. I signed up at Master Lee's White Leopard School where they teach Kung Fu and Tai Chi. And I'll have to admit, I'm a…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-02-04T00:35:14.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Ok, not yet, but I'm getting there.
 
 I signed up at [Master Lee's White Leopard School](http://www.leeswhiteleopardkungfu.com/) where they teach Kung Fu and Tai Chi.  And I'll have to admit, I'm a little nervous.  I'm not interested in learning a way to defend myself as I've learned how to avoid most of these situations through general awareness of my surroundings.  Instead, I'm looking for to gain some mental and physical conditioning.

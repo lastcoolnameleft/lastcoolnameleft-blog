@@ -1,11 +1,15 @@
 ---
-title: DefensiveDrinking.com
-description: ""
-pubDate: '2004-04-27T07:58:30.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "DefensiveDrinking.com"
+description: "The process for getting the absurd speeding ticket (65 on the Tollway) has been stretched out to the point where if these were gym shorts, they would no…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-04-27T07:58:30.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 The process for getting the absurd speeding ticket (65 on the Tollway) has been stretched out to the point where if these were gym shorts, they would no longer fit.  I've failed to see any humor in the situation until I realized how much I loved the Internet, and how it was my friend.
 
 If you're from Texas, you've probably heard the ads for [defensivedriving.com](http://www.defensivedriving.com).  I decided to take a risk and try it.  There's the occasional question to make sure you're paying attention.

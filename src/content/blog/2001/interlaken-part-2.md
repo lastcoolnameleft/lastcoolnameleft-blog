@@ -1,11 +1,15 @@
 ---
-title: Interlaken Part 2
-description: ""
-pubDate: '2001-12-04T02:06:11.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Interlaken Part 2"
+description: "NOTE: Pictures are not up yet. Check back in a few days. That's also why the entry is short, because I use the pictures to remember what I've done. My dad…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-12-04T02:06:11.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 NOTE: 
 Pictures are not up yet.  Check back in a few days.  That's also why the
 entry is short, because I use the pictures to remember what I've done.

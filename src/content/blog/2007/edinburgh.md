@@ -1,11 +1,15 @@
 ---
-title: Edinburgh
-description: ""
-pubDate: '2007-03-31T08:29:55.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Edinburgh"
+description: "Edinburgh is gorgeous. Although, a bit cold, even for this Coonass who likes it like that. Backpacking is an amazing experience where you get to learn a…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-03-31T08:29:55.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Edinburgh is gorgeous.  Although, a bit cold, even for this Coonass who likes it like that.  Backpacking is an amazing experience where you get to learn a lot about yourself and other people.  However, it does get a bit...well...lonely.
 
 So, I went up to the bartender and told him about my problem:  I'm here to visit Ireland and Scotland, but...I don't drink beer.  After a few shocked looks, and having to indeed verify that I was a Texan, he eased me into a decent cider.

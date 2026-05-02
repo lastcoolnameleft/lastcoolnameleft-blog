@@ -1,11 +1,15 @@
 ---
-title: Belgium
-description: ""
-pubDate: '2001-11-27T02:01:51.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Belgium"
+description: "Once again, I decided to make game of this crazy world and venture off into the unknown by myself. I had the best time going by myself to a hostel, so I…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-11-27T02:01:51.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Once
 again, I decided to make game of this crazy world and venture off into the
 unknown by myself.  I had the best time going by myself to a hostel, so I

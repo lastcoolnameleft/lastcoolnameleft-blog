@@ -1,11 +1,15 @@
 ---
-title: No Beer for Me
-description: ""
-pubDate: '2007-04-12T01:55:52.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "No Beer for Me"
+description: "If 10 years of Texas hadn't converted me to a beer drinker, then I figured 2 weeks of Ireland and Scotland, would be my last shot. Nope. At least I got…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-12T01:55:52.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 If 10 years of Texas hadn't converted me to a beer drinker, then I figured  2 weeks of Ireland and Scotland, would be my last shot.  Nope.  At least I got into Ciders; so it's not a complete loss.  Kathy's not disappointed tho, as she still got someone to drink fruity drinks with.  I did refrain from ordering a Smirnoff Ice tho.  It was like being in the Garden of Eden!
 
 Speaking of running around naked, I didn't walk around in a Kilt and/or tromp around the Highlands of Scotland in the buff.  It was freggin' cold.  Maybe next time.  I'm definitely coming back and bringing my...well, lack of inhibition.

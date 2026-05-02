@@ -1,11 +1,15 @@
 ---
-title: It happened again!
-description: ""
-pubDate: '2005-04-01T02:25:17.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "It happened again!"
+description: "I'm starting to wonder if guys have just started taking multi-tasking (peeing and giving directions) to a whole new level. I'll keep my those actions…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-04-01T02:25:17.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I'm starting to wonder if guys have just started taking multi-tasking ([peeing and giving directions](http://www.lastcoolnameleft.com/archives/2005/03/urinal_noise.html)) to a whole new level.  I'll keep my those actions separate, thank you very much.
 
 Meanwhile, I had the following dream:

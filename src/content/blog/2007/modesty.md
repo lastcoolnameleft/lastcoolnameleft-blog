@@ -1,11 +1,15 @@
 ---
-title: Modesty
-description: ""
-pubDate: '2007-04-14T13:53:16.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Modesty"
+description: "Even inside Europe, there seems to be different levels of modesty. Currently, I'm sharing a room with an English woman and a guy from Amsterdam, Hank.…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-14T13:53:16.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Even inside Europe, there seems to be different levels of modesty.  Currently, I'm sharing a room with an English woman and a guy from Amsterdam, Hank.  Needless to say, I was quite surprised to see Hank walking around in nothing but his tidy blackies and no shame.  He's a pretty fit guy, so I respect that.  I don't think our English host would be caught dead like that.  And the night before, I shared a hostel room with 2 middle-aged women from Sweden.  One just wore a pair of undies and I got flashed some post-prime boobies.  I think it was accidental.  I HOPE it was accidental because she also invited me to stay at her place if I went through Sweden.
 
 I also had an interesting conversation with an Australian regarding American and it's Sexual Confusion.  Case in point:  More often than not, if a couple has been together for a while, they've had sex.  It's pretty much a given in this day and age.  However, there is still a social stigma on living together.

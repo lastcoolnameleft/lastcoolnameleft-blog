@@ -1,11 +1,15 @@
 ---
-title: 21 and Gay
-description: ""
-pubDate: '2005-02-06T09:36:19.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "21 and Gay"
+description: "Have I stressed enough how much I love my friends? My very diverse set of friends. Well, at least as diverse one can be while living in a city pretty much…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-02-06T09:36:19.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Have I stressed enough how much I love my friends?  My very diverse set of friends.  Well, at least as diverse one can be while living in a city pretty much comprised of computer geeks?
 
 My good friend Mark had his 30th B-day party, and I was excited to see him and his husband, Dave, and their new house.  It was a surprise theme where everyone was supposed to come dressed up in their favorite Rocky Horror or Disco outfit.  I figured I was going to be the only straight guy there, but this would not be an unfamiliar situation to me.  Regardless, Disco Stu made an appearance.

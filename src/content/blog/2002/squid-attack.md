@@ -1,11 +1,15 @@
 ---
-title: Squid Attack!
-description: ""
-pubDate: '2002-05-26T02:21:39.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Squid Attack!"
+description: "So, it's been a while since I've played a prank on anyone, and tonight was the night to make up for the lost time. Matt Mussleman (No really, that's his…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-05-26T02:21:39.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 So,
 it's been a while since I've played a prank on anyone, and tonight was the
 night to make up for the lost time.  Matt Mussleman (No really, that's his

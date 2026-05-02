@@ -1,11 +1,15 @@
 ---
-title: Any party that lasts 20 hours, is a good party.
-description: ""
-pubDate: '2003-07-07T07:16:49.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Any party that lasts 20 hours, is a good party."
+description: "You know, I really wish that I could say that I had full control of the God and Goddess party yesterday, but I'll have to admit...there was no holding it…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-07-07T07:16:49.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 You know, I really wish that I could say that I had full control of the God and Goddess party yesterday, but I'll have to admit...there was no holding it back.  "It turned that knob to 11."  Oh yeah, when I woke up, there was an [octopus in my sink](http://www.lastcoolnameleft.com/modules.php?set_albumName=album34&id=IMG_0252&op=modload&name=gallery&file=index&include=view_photo.php).  That's how you know it was a good party.  We also did have a cop come by, but thankfully the God of Bad Instructions waved to him with his beer bottle and he waved back and drove off.
 
 The party went till about 2PM, [the next day ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album34&id=IMG_0246&op=modload&name=gallery&file=index&include=view_photo.php)as some of the hard-core partiers (read:  People too tired/drunk to drive home) went to the Original Pancake House for doilies and good grub.  

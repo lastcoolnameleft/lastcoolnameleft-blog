@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Mary's Married."
-description: ""
-pubDate: '2002-03-04T02:11:52.000Z'
-categories:
-  - Social Events
+description: "You can find my picture album for this, here. The prize winning photograph. Yesterday, along with about 70 other people, I witnessed the marriage of…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-03-04T02:11:52.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 You can find my picture album for this, [here](http://www.ofoto.com/BrowsePhotos.jsp?UV=629551262916_44890265303&US=0&collid=93329165303).
 
 [The prize winning photograph.](http://www.ofoto.com/PhotoView.jsp?UV=629551262916_44890265303&US=0&collid=93329165303&photoid=81179165303)  

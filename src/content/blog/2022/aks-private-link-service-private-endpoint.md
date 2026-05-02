@@ -1,11 +1,15 @@
 ---
-title: AKS + Private Link Service + Private Endpoint
-description: ""
-pubDate: '2022-03-11T18:44:47.000Z'
-categories:
-  - Work Related Stuff
+draft: false
+featured: "none"
+title: "AKS + Private Link Service + Private Endpoint"
+description: "This walkthrough shows how to setup a Private Link Service with an AKS cluster and create a Private Endpoint in a separate Vnet. While many tutorials…"
+authors:
+  - Tommy Falgout
+pubDate: 2022-03-11T18:44:47.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 This walkthrough shows how to setup a Private Link Service with an AKS cluster and create a Private Endpoint in a separate Vnet.
 
 While many tutorials might give you a full ARM template, this is designed as a walkthrough which completely uses the CLI so you can understand what's happening at every step of the process.
@@ -171,7 +175,7 @@ $ curl 10.0.0.5:9898
 "version": "6.0.3",
 "revision": "",
 "color": "#34577c",
-"logo": "https://raw.githubusercontent.com/stefanprodan/podinfo/gh-pages/cuddle_clap.gif",
+"logo": "/images/2022/cuddle_clap.gif",
 "message": "podinfo-internal-lb",
 "goos": "linux",
 "goarch": "amd64",

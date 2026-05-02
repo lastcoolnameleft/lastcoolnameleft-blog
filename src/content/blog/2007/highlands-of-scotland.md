@@ -1,11 +1,15 @@
 ---
-title: Highlands of Scotland
-description: ""
-pubDate: '2007-04-01T04:21:38.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Highlands of Scotland"
+description: "Nothing brings people together like being confined in a small environment, all with the same goal. Korean, Russian, Romanian, Canadian, and even a Texan…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-01T04:21:38.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Nothing brings people together like being confined in a small environment, all with the same goal.  Korean, Russian, Romanian, Canadian, and even a Texan Coonass.
 
 Things I learned today:

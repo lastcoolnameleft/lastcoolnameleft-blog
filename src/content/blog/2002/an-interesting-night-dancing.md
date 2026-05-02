@@ -1,11 +1,15 @@
 ---
-title: An Interesting Night Dancing.
-description: ""
-pubDate: '2002-12-06T09:23:18.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "An Interesting Night Dancing."
+description: "As of yesterday, it had been way too long since I had been dancing. And I was itching to change that. SO! I donned my new chapeau, which I picked up at…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-12-06T09:23:18.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As of yesterday, it had been way too long since I had been dancing.  And I was itching to change that.
 
 SO!  I donned my new chapeau, which I picked up at [Hot Topic ](http://www.hottopic.com)and headed off to [Sons of Hermann Hall](http://www.sonsofhermann.com).  I caught up with a few friends of mine I hadn't seen in some time, and just had a freggin' blast.  I also heard the best Pirate Joke ever.  It would lose it's interpretation over the Internet, so next time you see me, demand that I tell it to you.  [YARR](http://www.weebl.jolt.co.uk/yarr.htm)!!!

@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Lots o' Stuff"
-description: ""
-pubDate: '2003-05-05T09:02:22.000Z'
-categories:
-  - Social Events
+description: "So, I've realized that I haven't posted here in a while, and I think that's because I usually spend a lot of time working on getting all sorts of links in…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-05-05T09:02:22.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 So, I've realized that I haven't posted here in a while, and I think that's because I usually spend a lot of time working on getting all sorts of links in with my stories, which takes a considerable amount of time.  However, since I want this to be more of an online journal and less of a online link-fest, I'm now resolving myself to posting more often but less links.  Except for really cool ones.
 
 As I'm sure most of you know two weekends ago was the [Dallas Lindy Exchange](http://www.dallaslindyx.com/).  I was one of the team leads and had a freggin' blast.  It wasn't until the Saturday night dance that I finally got my groove on, but once I did, I was ready to jet.  [Lots, and lots of pictures ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album25&op=modload&name=gallery&file=index&include=view_album.php)and even three different albums!  (Thanks [Greg ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album26&op=modload&name=gallery&file=index&include=view_album.php)and [Jerry](http://www.lastcoolnameleft.com/modules.php?set_albumName=DLX-2003-Jerrys-Photos&op=modload&name=gallery&file=index&include=view_album.php)!)

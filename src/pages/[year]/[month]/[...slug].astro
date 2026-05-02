@@ -1,27 +1,37 @@
 ---
-import { type CollectionEntry, getCollection, render } from 'astro:content';
-import BlogPost from '../../../layouts/BlogPost.astro';
-import { getPostSlug } from '../../../utils/posts';
+import { getCollection } from "astro:content";
 
 export async function getStaticPaths() {
-	const posts = await getCollection('blog');
-	return posts.map((post) => {
-		const date = post.data.pubDate;
-		const year = String(date.getFullYear());
-		const month = String(date.getMonth() + 1).padStart(2, '0');
-		return {
-			params: { year, month, slug: getPostSlug(post) },
-			props: post,
-		};
-	});
+    const posts = await getCollection("blog", ({ data }) => !data.draft);
+
+    return posts.map((post) => {
+        const pubDate = post.data.pubDate;
+        const year = pubDate.getFullYear().toString();
+        const month = (pubDate.getMonth() + 1).toString().padStart(2, "0");
+        // post.id is like "2025/2025-lewisville-punkin-chunkin"
+        // The slug portion is everything after the year folder
+        const slugParts = post.id.split("/");
+        const slug = slugParts.slice(1).join("/");
+
+        return {
+            params: { year, month, slug },
+            props: { redirectTo: `/blog/${post.id}/` },
+        };
+    });
 }
 
-type Props = CollectionEntry<'blog'>;
-
-const post = Astro.props;
-const { Content } = await render(post);
+const { redirectTo } = Astro.props;
+const canonicalURL = new URL(redirectTo, Astro.site);
 ---
 
-<BlogPost {...post.data}>
-	<Content />
-</BlogPost>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <link rel="canonical" href={canonicalURL.href} />
+    <meta http-equiv="refresh" content={`0;url=${redirectTo}`} />
+</head>
+<body>
+    <p>This page has moved. <a href={redirectTo}>Click here</a> if not redirected.</p>
+</body>
+</html>

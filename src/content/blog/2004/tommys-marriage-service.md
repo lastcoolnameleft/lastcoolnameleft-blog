@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Tommy's Marriage Service"
-description: ""
-pubDate: '2004-06-12T19:17:50.000Z'
-categories:
-  - Home related stuff
+description: "It's always great to learn something about yourself. Especially when it deals with your impact on other people. I just had a theory of mine soundly…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-06-12T19:17:50.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 It's always great to learn something about yourself.  Especially when it deals with your impact on other people.  I just had a theory of mine soundly reinforced the other day:  "If you want to get married, date me.  Chances are, you'll marry the next guy you date."
 
 Thankfully, I end all of my relationships on good terms so I'm able to share the joy and encourage them on their way.

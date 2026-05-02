@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Now I don't feel as bad about 2 years."
-description: ""
-pubDate: '2007-04-22T21:47:22.000Z'
-categories:
-  - "Backpack:  Check."
+description: "In talking to the Sweed in my night sleeper, I found out some very interesting factoids about Swedish couplehood. We talked for a while and he mentioned…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-22T21:47:22.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 In talking to the Sweed in my night sleeper, I found out some very interesting factoids about Swedish couplehood.  We talked for a while and he mentioned his wife.  And a bit later, he mentioned his girlfriend.  Ah ha!  So the Sweeds DO get to have it all.  The beautiful scenery, the beautiful women, and multiples of each!
 
 But no.  He called her his wife because they've been together for 13 years and have 3 kids together.  But they're not married.

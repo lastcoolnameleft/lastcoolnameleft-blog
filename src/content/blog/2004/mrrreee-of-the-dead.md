@@ -1,11 +1,15 @@
 ---
-title: Mrrreee of the Dead
-description: ""
-pubDate: '2004-11-01T20:33:39.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "Mrrreee of the Dead"
+description: "After a 3-4 week Movie Night hiatus, we started the holiday season off right with Amityville last week and then Dawn of the Dead this week. This post is…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-11-01T20:33:39.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 After a 3-4 week Movie Night hiatus, we started the holiday season off right with Amityville last week and then [Dawn of the Dead](http://www.dawnofthedeadmovie.net/) this week.  This post is mostly about Dawn of the Dead, because it was a fine movie, and it also led to an extremely horrifying experience.
 
 I was impressed with the movie because it wasted no time jumping right to the action.  And then it didn't let go.  Thankfully, we waited to watch the movie until all of the Trick-o-Treaters who apparently drove in from other suburbs were done.  (We ended up cutting the front porch light off so that they would leave us alone, but they were relentless.)  But no plan of mine ever goes w/o a hitch, and my doorbell acted up again.  It is known to go off on it's own and then is left in this buzzing state.  Half dead, half alive.

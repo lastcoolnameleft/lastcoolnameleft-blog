@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "That's me in the closet."
-description: ""
-pubDate: '2003-12-12T07:04:42.000Z'
-categories:
-  - Blah Blah Blah
+description: "Too many things have happened since I've last posted for me to describe in any great length, so here's the 5 minute ramblings: Most of the Falgout Family…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-12-12T07:04:42.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Too many things have happened since I've last posted for me to describe in any great length, so here's the 5 minute ramblings:
 
 - Most of the Falgout Family came into town to visit.  I even got Charles, my nephew, to come out dancing.  I never knew I could have so much fun pimping out my own nephew for dancing. :)

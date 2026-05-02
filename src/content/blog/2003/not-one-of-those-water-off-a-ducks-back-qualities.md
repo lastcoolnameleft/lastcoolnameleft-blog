@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Not one of those ''water off a duck's back'' qualities"
-description: ""
-pubDate: '2003-08-28T07:46:51.000Z'
-categories:
-  - Blah Blah Blah
+description: "There are those things that you can shake off, given enough time and perseverance. They're usually things pertaining to your ego, identity or self-esteem.…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-08-28T07:46:51.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 There are those things [ that you can shake off](http://moofie.lastcoolnameleft.com/modules.php?name=News&file=article&sid=63), given enough time and perseverance.  They're usually things pertaining to your ego, identity or self-esteem.  However, there are things that you hear or see that stay with you.  Things that you keep replaying in your mind in such a way that it does nothing to invoke a deep sense of helplessness upon you.
 
 Hearing that [Charles](http://www.lastcoolnameleft.com/modules.php?set_albumName=album31&id=IMG_0009&op=modload&name=gallery&file=index&include=view_photo.php), my nephew, is in the hospital after undergoing epileptic seizures is one of them.

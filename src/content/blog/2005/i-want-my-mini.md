@@ -1,11 +1,15 @@
 ---
-title: I want my Mini!
-description: ""
-pubDate: '2005-04-08T23:14:36.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "I want my Mini!"
+description: "My finances can be best described as: Feast or Famine. Frugal. Frugal. Frugal. SPLURGGGGEEE!!! Such as this past week where I've been living off of…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-04-08T23:14:36.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 My finances can be best described as:  Feast or Famine.
 
 Frugal.  Frugal.  Frugal.  SPLURGGGGEEE!!!

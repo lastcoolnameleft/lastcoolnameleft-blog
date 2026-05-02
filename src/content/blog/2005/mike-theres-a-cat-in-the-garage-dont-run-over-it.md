@@ -1,12 +1,16 @@
 ---
+draft: false
+featured: "none"
 title: "Mike, there's a cat in the garage.  Don't run over it."
-description: ""
-pubDate: '2005-12-14T03:57:41.000Z'
-categories:
-  - Uncategorized
+description: "1 Day Cat Originally uploaded by SnoopyKiss. While on a complete high from watching Doom in all of it's B-movie goodness, there was a freezing, yet…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-12-14T03:57:41.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://static.flickr.com/34/72870498_f1bd9681a3_m.jpg)](http://www.flickr.com/photos/snoopykiss/72870498/)
+[![](/images/2005/72870498_f1bd9681a3_m.jpg)](http://www.flickr.com/photos/snoopykiss/72870498/)
 
 [1 Day Cat](http://www.flickr.com/photos/snoopykiss/72870498/)
 

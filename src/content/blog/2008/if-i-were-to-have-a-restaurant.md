@@ -1,11 +1,15 @@
 ---
-title: If I were to have a restaurant
-description: ""
-pubDate: '2008-12-06T14:23:07.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "If I were to have a restaurant"
+description: "I attended a friend's Anniv. of the Repeal of Prohibition party on Friday. It was awesome with all of the costumes, libations, and even a secret password…"
+authors:
+  - Tommy Falgout
+pubDate: 2008-12-06T14:23:07.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I attended a friend's Anniv. of the Repeal of Prohibition party on Friday. It was awesome with all of the costumes, libations, and even a secret password which you had to give though a sliding peephole to boot. 
 
 We were reminicing about the Food and Spirits party when a friend told me that if I were to open a restaurant it would need to be named 'Nom nom nom yarr!'. 

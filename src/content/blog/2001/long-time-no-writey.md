@@ -1,11 +1,15 @@
 ---
-title: Long time, no writey.
-description: ""
-pubDate: '2001-02-09T02:07:52.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Long time, no writey."
+description: "Hi everyone. I know it's been a long time since I've written; however, I am planning to make updates to this journal regularly. The main reason I write…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-02-09T02:07:52.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Hi
 everyone.  I know it's been a long time since I've written; however, I am
 planning to make updates to this journal regularly.  The main reason I write

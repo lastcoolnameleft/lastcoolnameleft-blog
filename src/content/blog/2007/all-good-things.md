@@ -1,11 +1,15 @@
 ---
-title: All Good Things...
-description: ""
-pubDate: '2007-07-09T14:25:05.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "All Good Things..."
+description: "Today, I start my new job at Yahoo! I'm nervous. I'm excitied. I'm anxious. I'm happy. I'm scared. I want to make an impact. My biggest concern for…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-07-09T14:25:05.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Today, I start my new job at Yahoo!
 
 I'm nervous.  I'm excitied.  I'm anxious.  I'm happy.  I'm scared.  I want to make an impact.

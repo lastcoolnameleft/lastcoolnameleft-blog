@@ -1,11 +1,15 @@
 ---
-title: Death of Electronics
-description: ""
-pubDate: '2005-03-15T16:50:42.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "Death of Electronics"
+description: "Strange things are afoot at Chez Falgout. It started off with my web server eating through 3 different power supplies in 4 days before I gave up and…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-03-15T16:50:42.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Strange things are afoot at Chez Falgout.  It started off with my web server eating through 3 different power supplies in 4 days before I gave up and decided to pay someone else to host my site.  (Thus the new design for the somewhat observant.)
 
 And now my phone is having as much trouble finding service as a room full of Trekkies.

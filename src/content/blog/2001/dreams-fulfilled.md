@@ -1,11 +1,15 @@
 ---
-title: Dreams Fulfilled
-description: ""
-pubDate: '2001-10-03T01:26:05.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "Dreams Fulfilled"
+description: "Every now and then a dream pops into the mind. Usually, the dream is killed off through cynicism and resignation...\"You can't do that.\" \"You don't really…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-03T01:26:05.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Every
 now and then a dream pops into the mind.  Usually, the dream is killed off
 through cynicism and resignation..."You can't do that."  "You don't really

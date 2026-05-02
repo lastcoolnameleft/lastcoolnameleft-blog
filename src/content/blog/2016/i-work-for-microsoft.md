@@ -1,11 +1,15 @@
 ---
-title: I work for Microsoft?!
-description: ""
-pubDate: '2016-12-06T19:43:48.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "I work for Microsoft?!"
+description: "Laziness, Impatience, Hubris The great Larry Wall claims that these are the three great virtues of a great programmer. And I whole heartedly agree.…"
+authors:
+  - Tommy Falgout
+pubDate: 2016-12-06T19:43:48.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Laziness, Impatience, Hubris
 
 The great [Larry Wall](http://www.wall.org/~larry/) claims that these are the three great virtues of a great programmer.  And I whole heartedly agree.  However, If I were to propose three virtues, theyâ€™d be:  Inquisitiveness, Acceptance, and Stubbornness.

@@ -1,12 +1,16 @@
 ---
+draft: false
+featured: "none"
 title: "Stick it to the Man Tour: Day 2 (Tulsa -> StL)"
-description: ""
-pubDate: '2005-08-13T05:49:15.000Z'
-categories:
-  - "Backpack:  Check."
+description: "Car-Fi Originally uploaded by SnoopyKiss. After MUCH delays and suffering from an overdose of Orange Cone-age, we finally made it to St. Louis where I got…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-08-13T05:49:15.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://photos23.flickr.com/33541331_10ddcdc4ca_m.jpg)](http://www.flickr.com/photos/snoopykiss/33541331/)
+[![](/images/2005/33541331_10ddcdc4ca_m.jpg)](http://www.flickr.com/photos/snoopykiss/33541331/)
 
 [Car-Fi](http://www.flickr.com/photos/snoopykiss/33541331/)
 

@@ -1,11 +1,15 @@
 ---
-title: Hanger Dance and Fox and Co. Party
-description: ""
-pubDate: '2002-10-22T09:42:03.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+draft: false
+featured: "none"
+title: "Hanger Dance and Fox and Co. Party"
+description: "My evening consisted to two totally awesome parties on completely different ends of the spectrum. I started at the Fox and Co Investment party, where I…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-10-22T09:42:03.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 My evening consisted to two totally awesome parties on completely different ends of the spectrum. 
 
 I started at the [**Fox and Co Investment**](http://www.foxcoinvest.com/) party, where I was given free Margarita's and food.  What else can I say?  I was in Heaven.  The theme was Cowboys, so a bunch of people got dressed up in their typical outfits.  And I also learned something...I love women in cowboy outfits.

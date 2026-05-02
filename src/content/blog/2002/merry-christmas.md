@@ -1,11 +1,15 @@
 ---
-title: Merry Christmas
-description: ""
-pubDate: '2002-12-26T07:09:44.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Merry Christmas"
+description: "Normally if I don't write anything in a while, it's been because not much has happened; however, it's been quite the opposite as of lately. About a month…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-12-26T07:09:44.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Normally if I don't write anything in a while, it's been because not much has happened; however, it's been quite the opposite as of lately.
 
 About a month ago was [Kathy and Jerry's wedding](http://www.lastcoolnameleft.com/modules/gallery/album12).  For those that haven't been blessed yet meeting these [two crazy kids](http://www.lastcoolnameleft.com/modules/gallery/album12/P1010060), they are two amazing swing (especially blues) dancers.  They've been dating for eons and finally tied the knot.  The wedding was at an old hall that I remembered going to a freaky fashion show years earlier.  At this fashion show they had [H. R. Giger](http://www.hrgiger.com/)-esque models going on and even guys suspended in midair by hooks going through their back.  All very creepy stuff.  Anyway, the wedding was nothing of the such.  It was a good time where people came from all over to see the happy couple celebrate their marriage.  The festivities and [dancing ](http://www.lastcoolnameleft.com/modules/gallery/album12/P1010069)went till about 1-2AM.  Good party. (Don't forget to check out the pictures of their [red leather couch](http://www.lastcoolnameleft.com/modules/gallery/album14).)

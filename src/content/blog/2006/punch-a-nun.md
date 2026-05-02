@@ -1,11 +1,15 @@
 ---
-title: Punch a Nun
-description: ""
-pubDate: '2006-11-12T02:48:27.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Punch a Nun"
+description: "How good can good food be? A question recently pondered by myself right after my recent Food and Spirits party. And I think I found the limit. After…"
+authors:
+  - Tommy Falgout
+pubDate: 2006-11-12T02:48:27.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 How good can good food be?
 
 A question recently pondered by myself right after my recent Food and Spirits party.  And I think I found the limit.

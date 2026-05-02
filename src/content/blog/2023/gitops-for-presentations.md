@@ -1,14 +1,18 @@
 ---
-title: GitOps for Presentations
-description: ""
-pubDate: '2023-08-04T16:57:07.000Z'
-categories:
-  - Work Related Stuff
+draft: false
+featured: "none"
+title: "GitOps for Presentations"
+description: "Yes, I work for Microsoft. No, I do not like PowerPoint. Here’s my alternative with the source code which I’ll explain here. For a live example, check out…"
+authors:
+  - Tommy Falgout
+pubDate: 2023-08-04T16:57:07.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Yes, I work for Microsoft. No, I do not like PowerPoint. Here’s [my alternative](https://lastcoolnameleft.github.io/marp-template/) with the [source code](https://github.com/lastcoolnameleft/marp-template) which I’ll explain here.
 
-For a live example, check out my presentation on "[How to Punkin Chunkin](https://lastcoolnameleft.github.io/how-to-punkin-chunkin/)"[![How to Punkin Chunkin](/wp-content/uploads/2025/03/how-to-punkin-chunkin.png)](https://lastcoolnameleft.github.io/how-to-punkin-chunkin/)
+For a live example, check out my presentation on "[How to Punkin Chunkin](https://lastcoolnameleft.github.io/how-to-punkin-chunkin/)"[![How to Punkin Chunkin](/images/2025/how-to-punkin-chunkin.png)](https://lastcoolnameleft.github.io/how-to-punkin-chunkin/)
 
 For 20+ years I’ve done UNIX/Linux development and have worked at Microsoft for 6 years. And I’ve learned that Microsoft will typically build the all-encompassing Enterprise-ready solution and the OSS ecosystem will build a narrow-focused tool that you can piece together with others.
 

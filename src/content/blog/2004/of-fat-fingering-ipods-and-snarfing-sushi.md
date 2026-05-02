@@ -1,11 +1,15 @@
 ---
-title: Of Fat-Fingering iPods and Snarfing Sushi
-description: ""
-pubDate: '2004-08-29T04:41:04.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Of Fat-Fingering iPods and Snarfing Sushi"
+description: "Within the last 6 hours of my stint in Portland, I'm in the back seat of Barb's (who must have cast some type of spell on my Lee to make him so smitten by…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-08-29T04:41:04.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Within the last 6 hours of my stint in Portland, I'm in the back seat of Barb's (who must have cast some type of spell on my Lee to make him so smitten by her), almost drooling on her pillow (containing a patter that strangely resembles a part of the female anatomy) and I then wake up to the Pacific Ocean.  Not just any part of it.  Cannon Beach..."Astoria."...Where they shot "[Goonies](http://www.thegoonies.com/)".
 
 "Holy cow!  That's..."

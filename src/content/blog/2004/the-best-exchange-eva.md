@@ -1,11 +1,15 @@
 ---
-title: The Best Exchange Eva!
-description: ""
-pubDate: '2004-03-31T10:03:56.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+draft: false
+featured: "none"
+title: "The Best Exchange Eva!"
+description: "Another month, another exchange. (Although that ratio is a lot lower this year.) I've made many decisions in my now 28 years of life. Some have brought me…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-03-31T10:03:56.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Another month, another exchange. (Although that ratio is a lot lower this year.)
 
 I've made many decisions in my now 28 years of life.  Some have brought me great amounts of happiness, such as buying this house.  Others...well, there's a reason why I'm called [SnoopyKiss.](http://www.lastcoolnameleft.com/modules.php?set_albumName=album60&id=DSC01724&op=modload&name=gallery&file=index&include=view_photo.php)  (Also realizing that a Variable Life Insurance Policy is not a worthwile investment for a Gen-X'er was another poor decision.)  However, one of them will go down in my mental history books as being the wisest of them all.  Staying in Denver those two extra days.

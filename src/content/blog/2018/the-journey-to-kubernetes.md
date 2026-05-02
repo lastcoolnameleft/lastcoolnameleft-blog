@@ -1,11 +1,15 @@
 ---
-title: The Journey to Kubernetes
-description: ""
-pubDate: '2018-07-25T18:45:18.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "The Journey to Kubernetes"
+description: "I created this article with the intent of explaining the migration journey from deploying a legacy application with manual steps to an automated…"
+authors:
+  - Tommy Falgout
+pubDate: 2018-07-25T18:45:18.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I created this article with the intent of explaining the migration journey from deploying a legacy application with manual steps to an automated [Kubernetes](https://kubernetes.io/) deployment with proper DevOps practices.  Its intent is not to help you understand Kubernetes deeper ([thereâ€™s an abundance of materials out there already](https://www.katacoda.com/)).
 
 As a [Cloud Solution Architect for Microsoft](https://www.linkedin.com/in/lastcoolnameleft/), every week I work with our partners to assist them towards containerization and Kubernetes.  Iâ€™ll use [AKS](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes) and discuss itâ€™s strengths and weaknesses without holding punches. Disclaimer:  Given I work for Microsoft, I am self-aware of my bias. So in this article, I will make an effort to be more critical of Azure to balance that out.

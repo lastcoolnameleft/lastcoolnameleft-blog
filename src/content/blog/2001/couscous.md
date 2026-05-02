@@ -1,11 +1,15 @@
 ---
-title: Couscous
-description: ""
-pubDate: '2001-10-27T01:38:18.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Couscous"
+description: "One thing I realized I left out from yesterday's log was that on Wednesday, I went to a Couscous restaurant. Couscous is considered an original French…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-27T01:38:18.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 One
 thing I realized I left out from yesterday's log was that on Wednesday, I
 went to a Couscous restaurant.  Couscous is considered an original French

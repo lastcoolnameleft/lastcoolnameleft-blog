@@ -1,11 +1,15 @@
 ---
-title: Chamonix
-description: ""
-pubDate: '2001-10-30T01:42:31.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Chamonix"
+description: "Yes!!!! My pictures are finally uploaded! (Chamonix, Paris, Italy) This past weekend, I ventured out to the French Alps at Chamonix, France. It was an…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-30T01:42:31.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Yes!!!!  My pictures are finally uploaded!  ([Chamonix](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=63905954203), [Paris](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=39831954203), [Italy](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=30953954203))
 
 This past weekend, I ventured out to the French Alps at [Chamonix](http://www.chamonix.com/), France.  It was an [immensely beautiful sight](http://www.ofoto.com/PhotoView.jsp?UV=239152463336_83270954203&US=0&collid=63905954203&photoid=90694954203). 

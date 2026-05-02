@@ -1,11 +1,15 @@
 ---
-title: To our Friends, Family and those in between,
-description: ""
-pubDate: '2011-12-27T19:47:42.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "To our Friends, Family and those in between,"
+description: "This is the time of year I electronically dust off the addresses of friends and acquaintances, old and new, and ask myself over a cup of hot chocolate,…"
+authors:
+  - Tommy Falgout
+pubDate: 2011-12-27T19:47:42.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 This is the time of year I electronically dust off the addresses of friends and acquaintances, old and new, and ask myself over a cup of hot chocolate, "Do they still live there?  How much is postage these days?  Do I even know how to write something that isn't my signature?  This is to overwhelming.  Maybe I'll do it next year."  This is also where we'd have a picture of our family in front of a christmas tree showing how big Kara has grown and with a message about how great this year has been.
 
 Fortunately, our lives have been so blessed that one picture couldn't possibly summarize everything that we've experienced this year.  So, I present to you this e-essay/card where you can click on links so we both reminisce on what's happened to the Falgout Family in 2011.
@@ -18,11 +22,11 @@ Somewhere mixed in all this was a [trip to Italy](http://www.flickr.com/photos/s
 
 For the first time, since moving into the Plano, we participated in Halloween.  Verdict:  [Cute](http://www.flickr.com/photos/snoopykiss/6559452651/in/photostream)!
 
-I also picked up bowling, which I found out I can be [quite good](http://farm8.staticflickr.com/7021/6582623299_54d0d3d5e4_m.jpg) at if I put my mind to it (read:  Don't drink as much).
+I also picked up bowling, which I found out I can be [quite good](/images/2011/6582623299_54d0d3d5e4_m.jpg) at if I put my mind to it (read:  Don't drink as much).
 
 And who in Dallas could forget the Mavericks finally [winning the NBA Championship](http://www.flickr.com/photos/snoopykiss/6582618885/in/photostream)!
 
-This year was also a resurgence in our [friend's fertility](http://apocalypzia.com/files/400px-chris_hansen_watchingyou.jpg)!  12 of our friends are on their way to starting their own families this year.  (I sometimes think of ourselves as the Baby Making Hipsters of our friend's circle.)
+This year was also a resurgence in our [friend's fertility](/images/2011/400px-chris_hansen_watchingyou.jpg)!  12 of our friends are on their way to starting their own families this year.  (I sometimes think of ourselves as the Baby Making Hipsters of our friend's circle.)
 
 Looking back, it's amazing to see all that has happened this year.  It's an extremely blessed and fortunate life.  And it's enriched by all of our [friends and family](http://www.flickr.com/photos/snoopykiss/6582763207/in/photostream) which support and encourage us and our [wacky lifestyle](http://www.flickr.com/photos/snoopykiss/6432386519/in/photostream).
 

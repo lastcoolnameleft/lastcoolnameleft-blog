@@ -1,11 +1,15 @@
 ---
-title: Strip White Elephant Party
-description: ""
-pubDate: '2005-11-30T19:11:10.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Strip White Elephant Party"
+description: "mensshirtL2 Originally uploaded by jen-rocks.com. So, I'm chatting away with Miss Sam, of Weyandt's affection, and discussing a possible X-mas party.…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-11-30T19:11:10.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 [![](http://static.flickr.com/24/66817781_63ace59ea8_m.jpg)](http://www.flickr.com/photos/jen-rocks/66817781/)
 
 [mensshirtL2](http://www.flickr.com/photos/jen-rocks/66817781/)

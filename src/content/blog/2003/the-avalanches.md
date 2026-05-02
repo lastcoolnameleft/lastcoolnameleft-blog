@@ -1,11 +1,15 @@
 ---
-title: The Avalanches
-description: ""
-pubDate: '2003-08-11T02:26:49.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "The Avalanches"
+description: "Earlier this week, I found out that one of my favorite bands, \"The Avalances\" was playing at the Red Jacket on Friday. \"Oh my Gosh! I've gotta get all my…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-08-11T02:26:49.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Earlier this week, I found out that one of my favorite bands, "[The Avalances](http://www.theavalanches.com/)"
 was playing at the Red Jacket on Friday.  "Oh my Gosh!  I've gotta get all
 my friends together to partake in this grand musical concert."  So, I squandered

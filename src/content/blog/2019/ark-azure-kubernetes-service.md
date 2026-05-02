@@ -1,11 +1,15 @@
 ---
-title: Ark + Azure Kubernetes Service
-description: ""
-pubDate: '2019-01-11T21:41:31.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Ark + Azure Kubernetes Service"
+description: "As much as Cloud Providers tout their availability and uptime, disasters happen. It's inevitable. And it's usually up to you to be prepared. There are…"
+authors:
+  - Tommy Falgout
+pubDate: 2019-01-11T21:41:31.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As much as Cloud Providers tout their availability and uptime, disasters happen.  It's inevitable. And it's usually up to you to be prepared.  There are services that can help; however, they're not always "Kubernetes aware".
 
 Thankfully, the great folks at [Heptio](https://heptio.com/) open-sourced [Ark](https://github.com/heptio/ark), a Disaster Recovery tool which works for all the major cloud providers.

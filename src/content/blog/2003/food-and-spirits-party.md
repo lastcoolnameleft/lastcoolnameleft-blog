@@ -1,11 +1,15 @@
 ---
-title: Food and Spirits Party
-description: ""
-pubDate: '2003-02-25T08:53:24.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Food and Spirits Party"
+description: "Being from Louisiana, food is a major topic of conversation with me and my friends, and I constantly hear, \"You know, I make the best \" Well, I gave those…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-02-25T08:53:24.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Being from Louisiana, food is a major topic of conversation with me and my friends, and I constantly hear, "You know, I make the best " Well, I gave those people a chance to put their food where their mouths are.  Or someone else's mouth to their food...anyway, you get the picture.  Plus, I made it into a contest with prizes!
 
 Also, since a few of us were so inspired by what we saw at Lindy Gras, we knew that we had to [re-enact parts of it](http://www.lastcoolnameleft.com/modules.php?set_albumName=album21&id=P1010070&op=modload&name=gallery&file=index&include=view_photo.php).  Naughty us.  And speaking of naughty...[my pig ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album21&id=P1010001&op=modload&name=gallery&file=index&include=view_photo.php)had a good time too.  [Ride the pig!](http://www.lastcoolnameleft.com/modules.php?set_albumName=album21&id=P1010003&op=modload&name=gallery&file=index&include=view_photo.php)  ([or Erin](http://www.lastcoolnameleft.com/modules.php?set_albumName=album21&id=P1010057_001&op=modload&name=gallery&file=index&include=view_photo.php).  Either way is [fine with me](http://www.lastcoolnameleft.com/modules.php?set_albumName=album21&id=P1010023&op=modload&name=gallery&file=index&include=view_photo.php).)

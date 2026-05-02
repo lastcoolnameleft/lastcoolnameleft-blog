@@ -1,11 +1,15 @@
 ---
-title: Yea Stuttgart!  I made it!
-description: ""
-pubDate: '2007-05-16T15:43:12.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Yea Stuttgart!  I made it!"
+description: "After traveling from country to country, mostly staying in the same location for only 1 night, it's amazing how peaceful familiarity can be. It doesn't…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-05-16T15:43:12.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 After traveling from country to country, mostly staying in the same location for only 1 night, it's amazing how peaceful familiarity can be.  It doesn't matter that you sleep on a leaky air-mattress, or that it's with a cousin you haven't seen in about 2 decades, and his wife and his good friend who you've never met before.  It's comforting because it's family.
 
 While working for his restaurant, I also had no problem pitching in every change I got.  Assemble a grill.  Make a peanut sauce for 150 people.  Setup a room for a banquet.  Come up with a Panini menu item (one of my favorites).  Why?  As I told Cousin Bill, "Because blood works harder than money."

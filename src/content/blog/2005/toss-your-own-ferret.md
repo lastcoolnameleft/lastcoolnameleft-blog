@@ -1,11 +1,15 @@
 ---
-title: Toss your own ferret
-description: ""
-pubDate: '2005-02-15T00:33:28.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Toss your own ferret"
+description: "So, this weekend, I felt like disappearing and since I had a friend in Tulsa who was celebrating his B-day, I knew my destiny. 4 hours and one speeding…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-02-15T00:33:28.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 So, this weekend, I felt like disappearing and since I had a friend in Tulsa who was celebrating his B-day, I knew my destiny.
 
 4 hours and one speeding ticket after jetting from work, I found myself getting preped for a ballet with Teh Stella (Officially STELLLLLLLLAAAAAAAAAAAA!!!), Chris and Sharon.  On the way there, Stella and I were talking about some recent unfortunate events.

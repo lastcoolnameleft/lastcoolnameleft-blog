@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Lindy Gras 2003:  This ain’t your average exchange"
-description: ""
-pubDate: '2003-02-19T09:58:35.000Z'
-categories:
-  - Social Events
+description: "Now that I have been exposed to the deep, dark underground that is Swing Exchanges, I will admit that I have become addicted. On Feb 14-17th, I danced and…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-02-19T09:58:35.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Now that I have been exposed to the deep, dark underground that is Swing Exchanges, I will admit that I have become addicted.  On Feb 14-17th, I danced and partied my arse off in New Orleans for their first exchange, Lindy Gras.
 
 I was hesitant to make the 8 hour drive there, since I waited too long to get tickets at a reasonable price, but Greg and I later decided that we’d make the hike together.  We finally arrived at our David’s (our host for the weekend) very shag-a-riffic house around 7PM.  Equipped with a dry sauna, pool, and a Jacuzzi, I knew that this should would be perfect for crashing after the 1-5AM after hours dance parties.  At this point the party was Gene, Dan, Craig, Greg, Helen, David, Jeff, and myself.  Needless to say, [Helen ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album20&id=1_What_a_way_to_start&op=modload&name=gallery&file=index&include=view_photo.php)enjoyed the ratio.  But we had a problem.  We were hungry.  

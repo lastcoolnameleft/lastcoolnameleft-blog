@@ -1,12 +1,16 @@
 ---
-title: I binge and purge
-description: ""
-pubDate: '2005-10-11T09:05:47.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "I binge and purge"
+description: "Chicken Elmo Originally uploaded by SnoopyKiss. So, I successfully completed my \"Stick it to the Man\" Tour with a buttload of pictures and some new…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-10-11T09:05:47.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://static.flickr.com/27/51465646_917eea868e_m.jpg)](http://www.flickr.com/photos/snoopykiss/51465646/)
+[![](/images/2005/51465646_917eea868e_m.jpg)](http://www.flickr.com/photos/snoopykiss/51465646/)
 
 [Chicken Elmo](http://www.flickr.com/photos/snoopykiss/51465646/)
 

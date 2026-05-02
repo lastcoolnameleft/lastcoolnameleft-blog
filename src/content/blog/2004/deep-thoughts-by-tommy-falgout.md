@@ -1,11 +1,15 @@
 ---
-title: Deep Thoughts.  By Tommy Falgout
-description: ""
-pubDate: '2004-11-23T09:34:34.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Deep Thoughts.  By Tommy Falgout"
+description: "After discovering some recently upsetting news, I asked two friends for some advice and counseling. I went into the conversation with much anger,…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-11-23T09:34:34.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 After discovering some recently upsetting news, I asked two friends for some advice and counseling.  I went into the conversation with much anger, frustration and sadness.  I left with a new life goal and inquiry for myself.
 
 Beforehand, there was lots of questions and confusion which is what had this all hit home, but here's how it went.

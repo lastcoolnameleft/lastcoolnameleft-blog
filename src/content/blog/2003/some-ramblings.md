@@ -1,12 +1,15 @@
 ---
-title: Some ramblings
-description: ""
-pubDate: '2003-09-04T04:49:49.000Z'
-categories:
-  - Misc
-  - Social Events
+draft: false
+featured: "none"
+title: "Some ramblings"
+description: "While I was at Kerrville, I did some pondering. And some stream of consciousness work. It's amazing what will come out of your head at 5AM. These are the…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-09-04T04:49:49.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 While I was at Kerrville, I did some pondering.  And some stream of consciousness work.  It's amazing what will come out of your head at 5AM.
 
 *These are the days, right?  The days where I'm to roam the Earth, footloose and fance free, right?  The days where the World is at my fingertips, I'm experimenting and the only thing stopping me is my finite amount of finances.

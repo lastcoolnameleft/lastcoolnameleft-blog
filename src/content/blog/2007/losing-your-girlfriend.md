@@ -1,11 +1,15 @@
 ---
-title: Losing your Girlfriend
-description: ""
-pubDate: '2007-05-05T15:41:50.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Losing your Girlfriend"
+description: "As they say, breaking up is hard to do. But one thing that's worse than losing your significant other is losing your significant other in Paris.…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-05-05T15:41:50.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As they say, breaking up is hard to do.  But one thing that's worse than losing your significant other is losing your significant other in Paris.  Thankfully, after checking my email at the airport and getting the correct airline, and therefore the correct Terminal, I found a very relived Kathy and all was well.
 
 We then embarked on a whirlwind tour of Paris, where I introduced her to one of my favorite places and foods on the planet.  Paul's and their Tart Citron (lemon tart).  We've also stopped for Croissants and Pain au Chocolates (like a croissant, but with chocolate inside.  Don't even bother trying to imagine how good it would taste, until you get to Paris.  Our feeble minds can't come close to it's buttery, chocolate-y goodness.)

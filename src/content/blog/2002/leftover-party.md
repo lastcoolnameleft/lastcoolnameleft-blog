@@ -1,11 +1,15 @@
 ---
-title: Leftover Party
-description: ""
-pubDate: '2002-10-25T07:33:32.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Leftover Party"
+description: "A good friend of mine, Amanda, and I heard of a really interesting idea. It's called a Leftover Party. The name's not too appealing, but the idea is…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-10-25T07:33:32.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 A good friend of mine, Amanda, and I heard of a really interesting idea.  It's called a Leftover Party.  The name's not too appealing, but the idea is definitely curious enough to have me throw one.
 
 The way it works is that you bring a "friend" of yours that you might have dated at one point, but that you think they're a really cool person, and would recommend to your friends, but there's just no spark between the two of you.  So, that person now becomes your "undate".  So, you and undate now go to the Leftover party and meet other people and their "undates".

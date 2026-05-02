@@ -1,11 +1,15 @@
 ---
-title: Tinkering with Oracle DB in a container.
-description: ""
-pubDate: '2017-04-28T04:09:10.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Tinkering with Oracle DB in a container."
+description: "TL;DR: Size matters. After Oracle's surprise announcement of their containerization of Oracle DB, Oracle WebLogic and a few of their other core…"
+authors:
+  - Tommy Falgout
+pubDate: 2017-04-28T04:09:10.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 TL;DR: Size matters.
 
 After Oracle's surprise announcement of their [containerization of Oracle DB](https://blog.docker.com/2017/04/oracle-database-dev-tools-in-docker-store/), Oracle WebLogic and a few of their other core technologies, I decided to test it out for myself.  (Speaking authentically, I'm leery of their commitment; however, I recognize that I work on Open Source at Microsoft, so who am I to judge?) 

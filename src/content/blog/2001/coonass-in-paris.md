@@ -1,11 +1,15 @@
 ---
-title: Coonass in Paris
-description: ""
-pubDate: '2001-10-09T01:27:20.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Coonass in Paris"
+description: "So! I finally made it to Paris. This is just a quick note before I head off and do some real work in Nortel. Thank you all for your support and I will…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-09T01:27:20.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 So! I finally made it to Paris. This is just a quick note before I head off and do some real work in [Nortel](http://www.nortelnetworks.com/).  Thank you all for your support and I will keep all of your updated on my adventures.  I've seen some interesting sites!
 
 Love, sunshine and disco dancing,

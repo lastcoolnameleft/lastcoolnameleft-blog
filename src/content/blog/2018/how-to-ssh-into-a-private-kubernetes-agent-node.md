@@ -1,11 +1,15 @@
 ---
-title: How to SSH into an AKS agent node
-description: ""
-pubDate: '2018-05-31T16:38:01.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "How to SSH into an AKS agent node"
+description: "WARNING: SSH'ing into an agent node is an anti-pattern and should be avoided. However, we don't live in an ideal world, and sometimes we have to do the…"
+authors:
+  - Tommy Falgout
+pubDate: 2018-05-31T16:38:01.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 **WARNING:  SSH'ing into an agent node is an [anti-pattern](https://en.wikipedia.org/wiki/Anti-pattern) and should be avoided.  However, we don't live in an ideal world, and sometimes we have to do the needful.**
 
 

@@ -1,11 +1,15 @@
 ---
-title: Reflections in the Mirror
-description: ""
-pubDate: '2014-10-08T14:54:44.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Reflections in the Mirror"
+description: "I've decided to journal again, not because I need something else to do (Father, Husband, Principal Developer @ Yahoo, Scrum Master, President and Founder…"
+authors:
+  - Tommy Falgout
+pubDate: 2014-10-08T14:54:44.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I've decided to journal again, not because I need something else to do (Father, Husband, Principal Developer @ Yahoo, Scrum Master, President and Founder of DFW Trebuchet, Team Lead for "Trey Bouchet"), but because I've lost focus.
 
 I've learned that my ambition is often greater than my common sense. While this helps forward my goals, the overuse of my greatest strength soon becomes my greatest weakness.  And as I write, erase and re-write these words, it helps me search deeper into myself for my true intent.  And I think that's what I'm really searching for.  Similar to how artists chip away a perfectly good stone to release the sculpture underneath, I think it's time for me to shed those internal monologues and responsibilities that no longer reflect me.

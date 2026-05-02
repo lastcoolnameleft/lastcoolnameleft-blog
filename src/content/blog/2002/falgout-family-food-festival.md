@@ -1,11 +1,15 @@
 ---
-title: Falgout Family Food Festival
-description: ""
-pubDate: '2002-11-25T10:31:01.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Falgout Family Food Festival"
+description: "Every so often, my parents realize come to visit me in Dallas. And every so often, my place gets cleaned like it never has been before...my laundry is…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-11-25T10:31:01.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 [](http://www.lastcoolnameleft.com/modules/gallery/album10/DCP_0063)[](http://www.lastcoolnameleft.com/modules/gallery/album10/DCP_0060)Every so often, my parents realize come to visit me in Dallas.  And every so often, my place gets cleaned like it never has been before...my laundry is also done and neatly folded with matching socks...some put off household chores are done...my freezer is stocked with seafood...and the world-famous Falgout Family Food Festival.
 
 On the menu this time was:

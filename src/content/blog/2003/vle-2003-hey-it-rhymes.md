@@ -1,11 +1,15 @@
 ---
-title: VLE 2003 (Hey!  It rhymes!)
-description: ""
-pubDate: '2003-07-18T07:34:58.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "VLE 2003 (Hey!  It rhymes!)"
+description: "Some hobbies are expensive. Some cheap. Others, like swing dancing are cheap, but if you really want to go crazy with it, they can get really expensive.…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-07-18T07:34:58.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Some hobbies are expensive.  Some cheap.  Others, like swing dancing are cheap, but if you really want to go crazy with it, they can get really expensive.  But now that I think about it, I'm sure you can say the same thing about every hobby.  So, nevermind.
 
 My latest expense, justified towards redeveloping the growth of the world economy, was my trip to [Vancouver for the Lindy Exchange](http://www.vancouverlindyexchange.com).  As some of my close friends know, one of my deep dark secrets is that I have a [Canadian Fetish](http://www.canadianfetish.com/).  I don't know why.  I just seem to be drawn to them.  I call it "Eh-dar".  (Speaking of that, look at [what I found](http://www.lastcoolnameleft.com/modules.php?set_albumName=album35&id=IMG_0287&op=modload&name=gallery&file=index&include=view_photo.php)!)

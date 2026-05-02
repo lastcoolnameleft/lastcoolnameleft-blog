@@ -1,12 +1,16 @@
 ---
-title: Head and Shoulders for Potential Roommates
-description: ""
-pubDate: '2005-05-03T06:56:27.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "Head and Shoulders for Potential Roommates"
+description: "\"Coast is clear - go for it!\" Originally uploaded by BombDog. To help stop flaking. Like calling at 1:30PM when you're supposed to move in at 2PM to bail.…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-05-03T06:56:27.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://photos3.flickr.com/3511327_41c73e346c_m.jpg)](http://www.flickr.com/photos/jonlucas/3511327/)
+[![](/images/2005/3511327_41c73e346c_m.jpg)](http://www.flickr.com/photos/jonlucas/3511327/)
 
 ["Coast is clear - go for it!"](http://www.flickr.com/photos/jonlucas/3511327/)
 

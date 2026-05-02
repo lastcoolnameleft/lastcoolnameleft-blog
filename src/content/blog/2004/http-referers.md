@@ -1,11 +1,15 @@
 ---
-title: HTTP Referers
-description: ""
-pubDate: '2004-08-20T11:34:42.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "HTTP Referers"
+description: "Aside from finding out how much traffic I actually get on this side, one of my favorite things to do is see how people discover this site. This is done by…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-08-20T11:34:42.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Aside from finding out how much traffic I actually get on this side, one of my favorite things to do is see how people discover this site.  This is done by HTTP Referer logs, which I keep.
 
 One of my favorites so far was something along the lines of a Google search on "squid sex".

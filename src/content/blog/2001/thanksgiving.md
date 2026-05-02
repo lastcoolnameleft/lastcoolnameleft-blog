@@ -1,11 +1,15 @@
 ---
-title: Thanksgiving
-description: ""
-pubDate: '2001-11-23T01:59:56.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Thanksgiving"
+description: "As the previous entries describe, last weekend, I spent it in Interlaken (which means between lakes), Switzerland which is in the middle of the Swiss…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-11-23T01:59:56.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As
 the previous entries describe, last weekend, I spent it in Interlaken (which
 means between lakes), Switzerland which is in the middle of the Swiss Alps.

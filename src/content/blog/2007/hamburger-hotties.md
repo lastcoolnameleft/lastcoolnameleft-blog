@@ -1,11 +1,15 @@
 ---
-title: Flipping Hamburgers in Sweden
-description: ""
-pubDate: '2007-04-23T23:10:36.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Flipping Hamburgers in Sweden"
+description: "I went to this fast food burger joint called Max. I only saw women behind the counter, and they were all gorgeous. The surreal thing was that it was…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-23T23:10:36.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I went to this fast food burger joint called Max.  I only saw women behind the counter, and they were all gorgeous.  The surreal thing was that it was seriously like walking into the middle of a porn movie.  It's not typical to see model-esque women like that flipping burgers.
 
 Strangely enough, I haven't had any Swedish meatballs.  I haven't even seen any for sale!  An no, that's not an euphemism.

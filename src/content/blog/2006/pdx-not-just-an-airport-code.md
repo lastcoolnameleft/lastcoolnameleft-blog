@@ -1,12 +1,16 @@
 ---
+draft: false
+featured: "none"
 title: "PDX:  Not just an airport code."
-description: ""
-pubDate: '2006-03-09T09:26:41.000Z'
-categories:
-  - Uncategorized
+description: "I wouldn't know what to do either Originally uploaded by SnoopyKiss. I've never seen a city so involved with it's airport code. Not that I know which came…"
+authors:
+  - Tommy Falgout
+pubDate: 2006-03-09T09:26:41.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://static.flickr.com/19/109574135_ce46fdf768_m.jpg)](http://www.flickr.com/photos/snoopykiss/109574135/)
+[![](/images/2006/109574135_ce46fdf768_m.jpg)](http://www.flickr.com/photos/snoopykiss/109574135/)
 
 [I wouldn't know what to do either](http://www.flickr.com/photos/snoopykiss/109574135/)
 

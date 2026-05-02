@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Exchanges...I THINK they're healthy."
-description: ""
-pubDate: '2004-10-05T08:38:11.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+description: "Long time...no post. Yeah. I know. This is me being concerned. So, when life seems to hit you all at once, what do you do? Take a weekend vacation to…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-10-05T08:38:11.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Long time...no post.  Yeah.  I know.  This is me being concerned.
 
 So, when life seems to hit you all at once, what do you do?

@@ -1,11 +1,15 @@
 ---
-title: Urinal Noise
-description: ""
-pubDate: '2005-03-31T09:03:55.000Z'
-categories:
-  - Work Related Stuff
+draft: false
+featured: "none"
+title: "Urinal Noise"
+description: "Coming from a guy who has a national reputation for licking people, one can imagine that it would take something fierce to really gross me out. I also…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-03-31T09:03:55.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Coming from a guy who has a national reputation for licking people, one can imagine that it would take something fierce to really gross me out.
 
 I also live pretty much an open book life, but there are some times that are sacred to me.  Namely, when I'm releaving my bodily needs.  I think that those are times that should be done behind closed doors and with no one else observing or even being aware.  (I'll admit that I've done my buisness while on the phone before, but it's one of those things that I feel really guilty about and made sure that I was on mute during those un/comforting times.  So, that makes it ok.)

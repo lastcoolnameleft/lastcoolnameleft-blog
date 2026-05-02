@@ -1,11 +1,15 @@
 ---
-title: Thanksgiving in Europe
-description: ""
-pubDate: '2001-11-24T02:00:55.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Thanksgiving in Europe"
+description: "If you haven't read yesterday's jounral entry, please do so now, because otherwise, you might be lost... I sure am glad that I went to the Thanksgiving…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-11-24T02:00:55.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 If you haven't read [yesterday's jounral entry](http://discostu.radiopossibility.com/2001/11/22), please do so now, because otherwise, you might be lost...
 
 I sure am glad that I went to the Thanksgiving banquet at the church. 

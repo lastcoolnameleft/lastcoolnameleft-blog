@@ -1,11 +1,15 @@
 ---
-title: Berlin Bug
-description: ""
-pubDate: '2007-04-19T20:05:14.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "Berlin Bug"
+description: "As is common with many exchanges, I walked out of it with a smile on my face and sick the day after. I was glad to get out of London, quick trip to Paris…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-04-19T20:05:14.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As is common with many exchanges, I walked out of it with a smile on my face and sick the day after.  I was glad to get out of London, quick trip to Paris and then off to Berlin.  Berlin is a beautiful city that has worked very hard to remove the dark scar of Wars long past.  And it's done a fantastic job.
 
 I hobbled my way to a bike tour around Berlin in the morning only to find out that our guide was sick and hospitalized.  Most of us waiting around went our separate ways, but me and this guy from S. Korea walked around and chatted.  He used to be in the Korean Military and after some discussion about my favorite Korean movie (Attack the Gas Station), he actually has done PAGOOO!!!

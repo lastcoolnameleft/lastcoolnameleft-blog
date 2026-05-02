@@ -1,11 +1,15 @@
 ---
-title: Happy w00t Year!
-description: ""
-pubDate: '2004-01-13T07:49:22.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Happy w00t Year!"
+description: "Last year, I resolved to: \"Not make any New Years Resolutions.\" I'm not sure if I either totally succeeded, or completely failed. So, this year, I decided…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-01-13T07:49:22.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Last year, I resolved to: "Not make any New Years Resolutions."  I'm not sure if I either totally succeeded, or completely failed.  So, this year, I decided to put some effort into this.  About 2 minutes later, I sneezed and the feeling went away.
 
 Due to a number of fortunate events in my life, I have found myself evolving and breaking out into those areas I have, for so long, ignored and passed over:  Being a Normal Human Being.

@@ -1,11 +1,15 @@
 ---
-title: Random People Incidents.
-description: ""
-pubDate: '2005-11-24T08:25:38.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+draft: false
+featured: "none"
+title: "Random People Incidents."
+description: "Tis the season, yo. It's time where we all get jollified and make conversations with strangers. In the past 24 hours, I've had two that just made my day:…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-11-24T08:25:38.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Tis the season, yo.  It's time where we all get jollified and make conversations with strangers.  In the past 24 hours, I've had two that just made my day:
 
 I was out at the Bone and dancing with Ann. (A particularly attractive and wonderfully great follow who I met at [ALX](http://www.austinlindyexchange.com) this past weekend.)  We were having one of "those dances".  I thought it was pretty good, but this random person came up afterwards and was ranting and raving about how great it was.

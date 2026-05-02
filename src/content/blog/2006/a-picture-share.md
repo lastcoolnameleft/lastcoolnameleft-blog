@@ -1,12 +1,16 @@
 ---
-title: A Picture Share!
-description: ""
-pubDate: '2006-08-27T20:22:03.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "A Picture Share!"
+description: "A Picture Share! Originally uploaded by SnoopyKiss. Caution! Runaway Bikes Zone. &#45;&#45; From River Legacy Park in Arlington, TX"
+authors:
+  - Tommy Falgout
+pubDate: 2006-08-27T20:22:03.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://static.flickr.com/84/226219274_753b6b134b_m.jpg)](http://www.flickr.com/photos/snoopykiss/226219274/)
+[![](/images/2006/226219274_753b6b134b_m.jpg)](http://www.flickr.com/photos/snoopykiss/226219274/)
 
 [A Picture Share!](http://www.flickr.com/photos/snoopykiss/226219274/)
 

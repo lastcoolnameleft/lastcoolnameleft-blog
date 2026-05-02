@@ -1,12 +1,16 @@
 ---
+draft: false
+featured: "none"
 title: "I'm going!!!!!!"
-description: ""
-pubDate: '2007-02-06T07:58:41.000Z'
-categories:
-  - Uncategorized
+description: "Europe in 2005 15.jpg Originally uploaded by goldmember@gmail.com. Ok, after years and years of telling myself that if I ever got laid off from Nortel, I…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-02-06T07:58:41.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://farm1.static.flickr.com/165/381432500_d4fc83989e_m.jpg)](http://www.flickr.com/photos/goldmember/381432500/)
+[![](/images/2007/381432500_d4fc83989e_m.jpg)](http://www.flickr.com/photos/goldmember/381432500/)
 
 [Europe in 2005 15.jpg](http://www.flickr.com/photos/goldmember/381432500/)
 

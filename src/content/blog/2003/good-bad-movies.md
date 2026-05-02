@@ -1,11 +1,15 @@
 ---
-title: Good Bad Movies
-description: ""
-pubDate: '2003-01-04T23:06:09.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "Good Bad Movies"
+description: "One of the traits I feel I'm blessed with is the ability to laugh as most any situation. This comes especially in handy with bad movies. I'm not talking…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-01-04T23:06:09.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 [](http://www.dotvsdot.co.uk/vs/0/741.html)One of the traits I feel I'm blessed with is the ability to laugh as most any situation.  This comes especially in handy with bad movies.  I'm not talking about Bad Movies like, "[Waterworld](http://www.mca.com/unicity/waterworld/)" or "[Toys](http://www.mrcranky.com/movies/jakobtheliar/4.html)", but BADDDDD MOVIES like, "[Jack Frost 2:  Revent of the Mutant Killer Snowman](http://www.stomptokyo.com/movies/j/jack-frost-2.html)", "[Tromeo and Julliet](http://www.troma.com/movies2/tromeoandjuliet/content.html)", or "[Jason X](http://www.jasonx.com/)".  The "straight to video" movies.
 
 I think that watching these movies opens up your mind and soul for a new type of experience and sensation.  One where your mind's third eye is opened and and aware to new way of being and life...then stabbed by a runaway killer zombie who used to be a simple farmer, but turned the wrong way in the cornfield and decided to examine that mysterious puddle of goo coming out of the smoldering rock that wasn't there yesterday.  If you've ever seen "[Teenage Catgirls in Heat](http://www.troma.com/movies2/teenagecatgirlsinheat/content.html)", then you know what I'm talking about.

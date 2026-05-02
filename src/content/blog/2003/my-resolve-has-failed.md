@@ -1,11 +1,15 @@
 ---
-title: My Resolve has failed.
-description: ""
-pubDate: '2003-11-09T21:31:23.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "My Resolve has failed."
+description: "On many different levels. One of which was that I didn't even notice that my site's been down for quite some time because my ISP (Comcast) changed my IP…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-11-09T21:31:23.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 On many different levels.
 
 One of which was that I didn't even notice that my site's been down for quite some time because my ISP (Comcast) changed my IP w/o me knowing.  Therefore, lastcoolnameleft.com didn't resolve.  If you don't find this funny, ask a techie.  If the techie doesn't find this funny...well, it's probably not.  But hug your techie anyway; because I'm sure he would enjoy it.  (Hmm...Hug A Techie Day.)

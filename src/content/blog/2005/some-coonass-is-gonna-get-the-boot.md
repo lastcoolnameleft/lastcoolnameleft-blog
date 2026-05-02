@@ -1,12 +1,16 @@
 ---
-title: Some Coonass is Gonna Get The Boot
-description: ""
-pubDate: '2005-12-17T19:02:20.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "Some Coonass is Gonna Get The Boot"
+description: "Utterly Texan Originally uploaded by SnoopyKiss. But not in a \"Survivor\" way. They're actually going to get this boot. Kathy helped pick out this ... this…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-12-17T19:02:20.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://static.flickr.com/42/74436968_10070ba521_m.jpg)](http://www.flickr.com/photos/snoopykiss/74436968/)
+[![](/images/2005/74436968_10070ba521_m.jpg)](http://www.flickr.com/photos/snoopykiss/74436968/)
 
 [Utterly Texan](http://www.flickr.com/photos/snoopykiss/74436968/)
 

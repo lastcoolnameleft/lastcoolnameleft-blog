@@ -1,11 +1,15 @@
 ---
-title: More B-day!
-description: ""
-pubDate: '2002-03-25T02:19:33.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "More B-day!"
+description: "I don't have a really smashing opening for this entry, so I'll just say this. I had an AMAZING time for my birth-weekend. It started out with a pub crawl…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-03-25T02:19:33.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I don't have a really smashing opening for this entry, so I'll just say this.  I had an AMAZING time for my birth-weekend.  It started out with a pub crawl down in Deep Ellum.
 
 Lee and I got the the pub crawl late; however, we were able to follow the horde of people walking around Deep Ellum wearing the same T-shirt with the words, "Pub Crawl" on them, figuring that this is where we wanted to be.  On the walk to our first pub, we met up with two ladies that were quite intoxicated and when they found out Lee's name, one of the girls got really upset because her X-fiance was named Lee and then started to get upset at Lee for stealing her motorcycle and breaking her heart.  (All playfully so.)  So, the crawl was off to a good start.

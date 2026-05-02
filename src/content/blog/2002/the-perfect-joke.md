@@ -1,11 +1,15 @@
 ---
-title: The Perfect Joke
-description: ""
-pubDate: '2002-06-09T02:22:27.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "The Perfect Joke"
+description: "Ever have one of those moments where people present you with the perfect setup for the perfect joke and you deliver the perfect punchline flawlessly which…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-06-09T02:22:27.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Ever
 have one of those moments where people present you with the perfect setup
 for the perfect joke and you deliver the perfect punchline flawlessly which

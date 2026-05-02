@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Jeromy's Gettin' Married!"
-description: ""
-pubDate: '2003-08-05T02:26:07.000Z'
-categories:
-  - "Backpack:  Check."
+description: "I've always known that I'm surrounded by some of the greatest people on Earth. I think that God has blessed me in many ways by providing me with friends…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-08-05T02:26:07.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I've
 always known that I'm surrounded by some of the greatest people on Earth.
 I think that God has blessed me in many ways by providing me with friends

@@ -1,11 +1,15 @@
 ---
-title: Speeding on the Autobahn
-description: ""
-pubDate: '2001-11-06T01:57:01.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Speeding on the Autobahn"
+description: "More pictures! Innsbruck and Salzburg, Struttgart and the Porche Museum, and Venice I recommend reading the story first, tho. Normally, I would give a…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-11-06T01:57:01.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 More pictures!  Innsbruck and Salzburg, Struttgart and the Porche Museum, and Venice  I recommend reading the story first, tho.
 
 Normally, I would give a long spiel about how much travelling I did this weekend; however, I'll try to keep it short…just like my attention span 

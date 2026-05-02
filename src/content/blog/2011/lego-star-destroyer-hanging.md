@@ -1,11 +1,15 @@
 ---
-title: LEGO Star Destroyer Hanging
-description: ""
-pubDate: '2011-10-11T15:28:57.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "LEGO Star Destroyer Hanging"
+description: "A long, long time ago, LEGO announced their new Collectors Star Destroyer. It was their largest set at the time and I being a long time LEGO maniac, I had…"
+authors:
+  - Tommy Falgout
+pubDate: 2011-10-11T15:28:57.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 A long, long time ago, LEGO announced their new Collectors Star Destroyer.  It was their largest set at the time and I being a long time LEGO maniac, [I had to have it](http://www.flickr.com/photos/snoopykiss/tags/almightystardestroyer/).  It took many weeks to build, and has been one of my [prize possessions](http://www.flickr.com/photos/snoopykiss/10221061/) which I've flaunted even more than my hot tub.  Friends, relationships and other toys have come and gone, but ol'Desty has always been around.
 
 Now that I have a [wife and kid](http://www.flickr.com/photos/snoopykiss/5417492226/in/photostream), space has become constrained, and I've had to become creative in my toy storage.  After mulling it around, I realized the best for Ol'Desty was to prominently display her, hanging from the ceiling.  Unfortunately, after some researching the only useful bit of information I found was "use fishing wire".  I could do better than that.

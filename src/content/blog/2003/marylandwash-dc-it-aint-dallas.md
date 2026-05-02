@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "Maryland/Wash. DC - It ain't Dallas."
-description: ""
-pubDate: '2003-09-14T11:57:33.000Z'
-categories:
-  - "Backpack:  Check."
+description: "After taking enough trips for dancing/swing related events, I decided to do something completely different: Accept an invitation to go to Baltimore/Wash.…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-09-14T11:57:33.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 After taking enough trips for dancing/swing related events, I decided to do something completely different:  Accept an invitation to go to Baltimore/Wash. DC to see [a wedding](http://www.lastcoolnameleft.com/modules.php?set_albumName=album46&id=IMG_0018&op=modload&name=gallery&file=index&include=view_photo.php) of someone I had never met before, a friend of an x-girlfriend.  And get some dancing in, if I'm so inclined.
 
 As you might know the x-gf in reference is [Melissa](http://www.lastcoolnameleft.com/modules.php?set_albumName=album46&id=IMG_9855&op=modload&name=gallery&file=index&include=view_photo.php), the only girlfriend who matched the "area code" rule [Lee](http://moofie.lastcoolnameleft.com) and I created.  (My mobile's 214, so close enough.)  We parted on good terms and have kept in touch.

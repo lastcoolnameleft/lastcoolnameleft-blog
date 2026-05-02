@@ -1,11 +1,15 @@
 ---
-title: New Lady in my life and 8 Mile
-description: ""
-pubDate: '2002-11-11T09:30:34.000Z'
-categories:
-  - Blah Blah Blah
+draft: false
+featured: "none"
+title: "New Lady in my life and 8 Mile"
+description: "In the past 10+ days, I've had quite a few things open up for me. One of which was the meeting and dating of Miss Melanie Rusk. Raised in Midland, Texas,…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-11-11T09:30:34.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 In the past 10+ days, I've had quite a few things open up for me.  One of which was the meeting and dating of Miss Melanie Rusk.  Raised in [Midland, Texas](http://maps.yahoo.com/py/maps.py?Pyt=Tmap&addr=&city=Midland&state=TX&csz=Midland,+TX&slt=31.997471&sln=-102.076729&zip=&country=us&BFKey=&BFCat=&BFClient=&cs=7&name=&desc=&poititle=&poi=&ds=n&mag=4&newmag=3), Melanie (who also dons the name Trillian Prefect), and I met a few times earlier Swing Dancing at the Red Jacket, Sons of Hermann and Bass Club.  On the Wed. before Halloween, I invited her to come dacing with me a few of my very wacky friends at Kempi's Night club.  We had a good time and I was hoping to see her again at my Studio 54 Party.  Alas, Miss Melanie was sick.  Not to be deterred, I told her, "That's ok.  If you can't make it I'll just come over and cook you some gumbo."
 
 One [Studio 54 Party ](http://www.lastcoolnameleft.com/modules/gallery/album08)and a bowl of gumbo later, Melanie and I were watching [Amelie ](http://www.amelie-lefilm.com/english/intro.htm)(an amazingly good French movie) together on her couch.  After much conversation, I realized how glad I was that I had the opprotunity to meet and cook for her.  She really struck my fancy.  After seeing the pictures of her at the Halloween party, my parents now call her, "[My Lady in Red](http://www.lastcoolnameleft.com/modules/gallery/album07/P1010002)."

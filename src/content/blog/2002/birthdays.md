@@ -1,11 +1,15 @@
 ---
-title: Birthdays
-description: ""
-pubDate: '2002-03-10T02:14:02.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "Birthdays"
+description: "Birthdays. You get one once a year. And after a while, you get numb to them, and I've heard that at some point, you actually start dreading them.…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-03-10T02:14:02.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Birthdays. 
 You get one once a year.  And after a while, you get numb to them, and I've
 heard that at some point, you actually start dreading them.  Thankfully,

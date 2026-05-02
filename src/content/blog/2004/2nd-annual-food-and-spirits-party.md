@@ -1,11 +1,15 @@
 ---
-title: 2nd Annual Food and Spirits Party
-description: ""
-pubDate: '2004-03-16T21:18:30.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "2nd Annual Food and Spirits Party"
+description: "Yet another weekend proving that I have the coolest friends this side of the universe. About 100+ people stopped by my house this Saturday to check out…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-03-16T21:18:30.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Yet another [weekend ](http://www.evite.com/pages/invite/viewInvite.jsp?event=WNFWSYKMWPXWEZMXAXRX&showResponse=null) proving that I have the coolest friends this side of the universe.
 
 About 100+ people [stopped by my house](http://www.lastcoolnameleft.com/modules.php?set_albumName=album59&op=modload&name=gallery&file=index&include=view_album.php) this Saturday to check out some amazing dishes.  I was so happy to throw this party, that I even bought prizes for the winners!

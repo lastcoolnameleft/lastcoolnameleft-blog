@@ -1,11 +1,15 @@
 ---
-title: A delicate combination of fast music, blues, and all out insanity.
-description: ""
-pubDate: '2003-08-14T09:34:44.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "A delicate combination of fast music, blues, and all out insanity."
+description: "As Seattle has been one of the most talked about Lindy Exchanges out there, I pondered...who am I to pass up such a great opportunity such as this?…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-08-14T09:34:44.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 As [Seattle ](http://www.seattlelindyexchange.com/)has been one of the most talked about [Lindy Exchanges ](http://www.lindyexchange.com/)out there, I pondered...who am I to pass up such a great opportunity such as this?  Apparently, about 200-300 people had that exact same thought.  or maybe some deviation of that thought.  or maybe it went along the lines of "Wow, there's going to be some kick'arse women/men there!"  (Including the infamous [Skadoo](http://www.lastcoolnameleft.com/modules.php?set_albumName=album41&id=IMG_0153&op=modload&name=gallery&file=index&include=view_photo.php)) or "Hot Damn!  I feel the need to dance to some 200+ bpm song while totally experiencing the whole tribal rhythym."  or maybe it was just subconcious that anyone who is anyone should be there.  It was all of that and a bag of really finely cooked salmon.
  
 Hosted by the lovely, talented, and [sexy Mrrree and her beau Jeremy](http://www.lastcoolnameleft.com/modules.php?set_albumName=album41&id=IMG_0377&op=modload&name=gallery&file=index&include=view_photo.php), I was able to browse the [finer locations of Seattle](http://www.lastcoolnameleft.com/modules.php?set_albumName=album41&id=IMG_0005&op=modload&name=gallery&file=index&include=view_photo.php), from their balcony.  Completely, on a whim, on Thursday night, I attended a performance workshop by [Zah-Zu-Zay ](http://www.zah-zu-zay.com/)(2002 American Lindy Hop Championship winners) which we later performed that night.  I was also "[properly introduced](http://www.lastcoolnameleft.com/modules.php?set_albumName=album41&id=IMG_0343&op=modload&name=gallery&file=index&include=view_photo.php)" to the Meghan/Mrreee combo of Seattle fame.  After some food and going through my 3rd or 4th wind, I was ready to crash.  Which, I did.  Quiet successfully, I might add.  The next morning, another Dallas-ite, Heather Leigh Smith, and I went roaming around downtown Seattle for [some dancing ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album41&id=IMG_0116&op=modload&name=gallery&file=index&include=view_photo.php)with the local band "[Dusty 45's](http://www.lastcoolnameleft.com/modules.php?set_albumName=album41&id=IMG_0108&op=modload&name=gallery&file=index&include=view_photo.php)".  Later on...there was more dancing.  And even after that...even more dancing.

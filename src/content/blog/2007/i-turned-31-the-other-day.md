@@ -1,12 +1,16 @@
 ---
-title: I turned 31 the other day
-description: ""
-pubDate: '2007-03-20T00:49:52.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "I turned 31 the other day"
+description: "Kathy and Me Originally uploaded by SnoopyKiss. Traditional social standards tell me that I should have had a beautiful day in the park with my kids and…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-03-20T00:49:52.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://farm1.static.flickr.com/157/427267468_ffb7cc7cbe_m.jpg)](http://www.flickr.com/photos/snoopykiss/427267468/)
+[![](/images/2007/427267468_ffb7cc7cbe_m.jpg)](http://www.flickr.com/photos/snoopykiss/427267468/)
 
 [Kathy and Me](http://www.flickr.com/photos/snoopykiss/427267468/)
 

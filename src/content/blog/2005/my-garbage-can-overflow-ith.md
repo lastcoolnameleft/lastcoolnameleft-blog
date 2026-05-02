@@ -1,12 +1,16 @@
 ---
-title: My Garbage Can Overflow-ith
-description: ""
-pubDate: '2005-05-20T16:06:02.000Z'
-categories:
-  - Home related stuff
+draft: false
+featured: "none"
+title: "My Garbage Can Overflow-ith"
+description: "New York Sanitation ;)- Originally uploaded by khoogheem. ...but I sure didn't do it. And my neighbor's can was pretty empty. So, now I'm suspicious about…"
+authors:
+  - Tommy Falgout
+pubDate: 2005-05-20T16:06:02.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
-[![](http://photos13.flickr.com/13865029_13c8123ac7_m.jpg)](http://www.flickr.com/photos/khoogheem/13865029/)
+[![](/images/2005/13865029_13c8123ac7_m.jpg)](http://www.flickr.com/photos/khoogheem/13865029/)
 
 [New York Sanitation ;)-](http://www.flickr.com/photos/khoogheem/13865029/)
 

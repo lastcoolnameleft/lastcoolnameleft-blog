@@ -1,11 +1,15 @@
 ---
-title: Another Coonass in Paris
-description: ""
-pubDate: '2001-11-30T02:05:30.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Another Coonass in Paris"
+description: "Today, miracles of miracles, M. Barney \"I don't need to travel.\" Falgout landed in Ch. de Gaulle airport to visit his son and explore Europe. There were a…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-11-30T02:05:30.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Today,
 miracles of miracles, M. Barney "I don't need to travel." Falgout landed
 in Ch. de Gaulle airport to visit his son and explore Europe.  There were

@@ -1,11 +1,15 @@
 ---
-title: The Snoopy Kiss
-description: ""
-pubDate: '2002-07-22T02:25:14.000Z'
-categories:
-  - Social Events
+draft: false
+featured: "none"
+title: "The Snoopy Kiss"
+description: "Ever had one of those days where everything went your way? Where you were on top of the world? It seemed like for 24 hours, your guardian angel was the…"
+authors:
+  - Tommy Falgout
+pubDate: 2002-07-22T02:25:14.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Ever
 had one of those days where everything went your way?  Where you were on
 top of the world?  It seemed like for 24 hours, your guardian angel was the

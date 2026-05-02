@@ -1,11 +1,15 @@
 ---
+draft: false
+featured: "none"
 title: "That's my car!"
-description: ""
-pubDate: '2007-12-11T23:29:16.000Z'
-categories:
-  - Blah Blah Blah
+description: "Here's a picture of my car, on Google Maps, behind the old Yahoo Building in Deep Ellum. Wheee! And for more wackiness: Drunk monkeys! I also want to…"
+authors:
+  - Tommy Falgout
+pubDate: 2007-12-11T23:29:16.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Here's a picture of my car, on Google Maps, behind the old Yahoo Building in Deep Ellum.  Wheee!
 
 And for more wackiness:  Drunk monkeys!

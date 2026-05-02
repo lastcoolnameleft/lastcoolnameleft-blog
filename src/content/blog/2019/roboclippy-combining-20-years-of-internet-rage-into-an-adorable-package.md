@@ -1,11 +1,21 @@
 ---
-title: RoboClippy - Combining 20 years of Internet rage into an adorable package.
-description: ""
-pubDate: '2019-04-04T20:34:34.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "RoboClippy - Combining 20 years of Internet rage into an adorable package."
+description: "The internetâ€™s a weird place. We already knew that, yet it keeps finding new ways to amaze me. Someone thought it would be a novel idea to incorporate…"
+authors:
+  - Tommy Falgout
+pubDate: 2019-04-04T20:34:34.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
+  - project
+image:
+  src: /images/2019/gphoto-e4fb4ed657.jpg
+  alt: "RoboClippy"
+ogImage:
+  src: /images/2019/gphoto-e4fb4ed657.jpg
 ---
-
 The internetâ€™s a weird place. We already knew that, yet it keeps finding new ways to amaze me.
 
 Someone thought it would be a novel idea to incorporate Alexa with a novelty electronic fish ([Big Mouth Billy Bass](https://en.wikipedia.org/wiki/Big_Mouth_Billy_Bass)).  Now you can [ask a fish for the current weather](https://www.youtube.com/watch?v=aW5TvT1mo9k) and the fish can tell you if itâ€™s a good day to catch its brethren.
@@ -24,19 +34,19 @@ However, one thing was missing.  A proper, physical manifestation of our favorit
 
 RoboClippy Mark I was cute, but definitively not a paperclip.  I could get the eyebrows to wiggle, but only manually.
 
-[![](https://lh3.googleusercontent.com/e7OvVGCOHtjgp9RANNicIP4Y3GsPyymHmD51vBYBRs3fa4H-_SchwVvN3sh37EmPCi3CRtbISGkN7w64vAg-uXUqWM7tT208Bl1HSFSivB69ezXF164k-bdMgIaIqw3O3ini8zcxtx4=w2400)](https://photos.google.com/share/AF1QipN2eGEAakgk6LpvmeBbXoBoeQLXtP9ZmBWhgZTayodDzRinnCJzLJ5c6jh-EhYLfg?key=NDlsNGVHTXp0VTZSbHk0ZXJROEk4am9XdnZXUUFB&source=ctrlq.org)
+[![](/images/2019/gphoto-a05ead22c4.jpg)](https://photos.google.com/share/AF1QipN2eGEAakgk6LpvmeBbXoBoeQLXtP9ZmBWhgZTayodDzRinnCJzLJ5c6jh-EhYLfg?key=NDlsNGVHTXp0VTZSbHk0ZXJROEk4am9XdnZXUUFB&source=ctrlq.org)
 
 ## RoboClippy Mark II
 
 Upon creating RoboClippy Mark II, I realized that the concept of ["Uncanny Valley"](https://en.wikipedia.org/wiki/Uncanny_valley) applies to both humans and paperclips.
 
-[![](https://lh3.googleusercontent.com/xo9vcvLVNyknN-AiveuJc_DHLSDJx8--I7LsHY7KpnP06Fm95BJtmkGS0NDbnhXL0ud-AiATU5pbQz1jxsa1UVxzpwMaRmyseou9QuP9ebvTfIrArDu6Tq8FPP3hYfG1CaHEa-nzf4E=w2400)](https://photos.google.com/share/AF1QipOAO10Sbj-P04J9a6QtcOR0J5D-3dKQXP4zavRomrWD4bNtC1kq5NiZA92lWzBNrg?key=NVZreEpFMUdqUUVuTlNQQkwyUDZHR05Cd1dtT01R&source=ctrlq.org)
+[![](/images/2019/gphoto-2345d46c82.jpg)](https://photos.google.com/share/AF1QipOAO10Sbj-P04J9a6QtcOR0J5D-3dKQXP4zavRomrWD4bNtC1kq5NiZA92lWzBNrg?key=NVZreEpFMUdqUUVuTlNQQkwyUDZHR05Cd1dtT01R&source=ctrlq.org)
 
 ## RoboClippy Mark III
 
 In RoboClippy Mark III, I realized that animatronics done wrong is nightmare fuel.
 
-[![](https://lh3.googleusercontent.com/5UHysXsKflKy4k5IHVjsXzcQ0uJ4xRh4JThwaR1MoUIGjGb-ft2h7Xytz9Nj-bRWVTGJZV73NWgdFdNgHIp0TYR04Q66r1TJa-XH3nTo0-tVzO5WHEi_wffA_XGWL0-eIYV7Jeb7GkE=w2400)](https://photos.google.com/share/AF1QipM7xv3GKOhEPOyLB761YtL1YfP0kylxQJ6Pc03MN6yksFU58ve9rPuk-ehBGckHDA?key=OWUzVEdmVFZBb0FzVjlGWkVfQVZuSkpEYzkzT213&source=ctrlq.org)
+[![](/images/2019/gphoto-3ef1e48c30.jpg)](https://photos.google.com/share/AF1QipM7xv3GKOhEPOyLB761YtL1YfP0kylxQJ6Pc03MN6yksFU58ve9rPuk-ehBGckHDA?key=OWUzVEdmVFZBb0FzVjlGWkVfQVZuSkpEYzkzT213&source=ctrlq.org)
 
 But I made progress!  The eyebrows articulate (not realistically), but it doesnâ€™t look natural or have fine motor control.
 
@@ -54,7 +64,7 @@ After some experimentation, stepper motors became the natural fit.  The catch is
 
 RoboClippy Mark IV was a technological breakthrough.  With the help of my good friends at [Bricks and Minifigs, Plano](https://www.facebook.com/BAMPlano/) we had a working prototype which looked realistic and could articulate itâ€™s mouth.
 
-[![](https://lh3.googleusercontent.com/K-4wsmrca8b_GiRDkJ9S1suGjsjn-Py7umI9XWihweRiqiM16sZ5eMmg1m0Ry95TOfZ0b0LBiHfJ9Fli34saTG-RkNhncwBMoR2a_t70fQ10BDpwudLjj-yJSfZT3gEjwr6CuY8nD6w=w2400)](https://photos.google.com/share/AF1QipODW8EYkblJhWxNuf-528lKNl7vhGkeIt_RpZ-6lUvSRIKRxS-4XqsTqJ27WygV1g?key=ZzJlUWx6Q1FMdDBhQ2RKc1dtWW0xUWktODlhTXh3&source=ctrlq.org)
+[![](/images/2019/gphoto-5cd0758bba.jpg)](https://photos.google.com/share/AF1QipODW8EYkblJhWxNuf-528lKNl7vhGkeIt_RpZ-6lUvSRIKRxS-4XqsTqJ27WygV1g?key=ZzJlUWx6Q1FMdDBhQ2RKc1dtWW0xUWktODlhTXh3&source=ctrlq.org)
 
 Remember Uncanny Valley?  Without the eyebrows, it looks ... off.
 
@@ -66,7 +76,7 @@ Now for the next problem:  Determining when RoboClippy is speaking.  It seems in
 
 So, the next option is to calculate voltage off of the soundcard/speaker, right?  Again, thereâ€™s more nuances to be discovered.  Sound is a wave, so measuring at any point only gets you a snapshot.  Also most microphones measure -2.5V to 2.5V and the Arduino can only detect 0 - 5V, so weâ€™re missing half the data!  A Step-up Converter fixed that problem, but added additional complexity.
 
-[![](https://lh3.googleusercontent.com/36zFF5Lpd4nh15x-lxs1Y0dfwRNEvqquYjZlc_UQ7TvYiv_3fsn_brB_ha0NZM8XGZZosCjmw4QaV27pfYmRLhWby2ykGkjHRn2c8_jwo8dC7TQTLuaKZIIFpKWVsBN5sYIGmgVMyNk=w2400)](https://photos.google.com/share/AF1QipP-vyftzlx3m4kEt9M8sVcB5PKccIQ0PpT0orgaPRWV8VGWLOmkhNf982tAF5YBSA?key=c2xHSGQ5VVl5VmM1OGVmMjFBaFpqcU1CQzV2blhn&source=ctrlq.org)
+[![](/images/2019/gphoto-c01c031072.jpg)](https://photos.google.com/share/AF1QipP-vyftzlx3m4kEt9M8sVcB5PKccIQ0PpT0orgaPRWV8VGWLOmkhNf982tAF5YBSA?key=c2xHSGQ5VVl5VmM1OGVmMjFBaFpqcU1CQzV2blhn&source=ctrlq.org)
 
 ## RoboClippy Mark V
 
@@ -96,7 +106,7 @@ Anyone with an Amazon Dot/Echo is worried that Alexa/Amazon is always listening 
 
 Now, witness the power of this fully armed and operational RoboClippy.
 
-[![](https://lh3.googleusercontent.com/c1QzZPrb7Bgv-_T5BovzFWvRla2TKJEplz4W1fDmQL80PXyGkefhMb_5zm6DCSP8RK8e3el6YPMld8i08ADb-8gCU7iLd1tByiwDwsG9PuWP9wZlf2T9Il07f3OqcH7VpX3F64vsE4g=w2400)](https://photos.google.com/share/AF1QipOf7F2FUllrFKZCADU0qtlMSHu5K1gZJQhCK9ZZpEDXUXeUltg6GfnNZBfRGEzljA?key=RVk2bnBwNXppUUtrWjl0cXA4UEJQNmhaWGxMbVRR&source=ctrlq.org)
+[![](/images/2019/gphoto-e4fb4ed657.jpg)](https://photos.google.com/share/AF1QipOf7F2FUllrFKZCADU0qtlMSHu5K1gZJQhCK9ZZpEDXUXeUltg6GfnNZBfRGEzljA?key=RVk2bnBwNXppUUtrWjl0cXA4UEJQNmhaWGxMbVRR&source=ctrlq.org)
 
  	- Our RoboClippy is now MUCH more extensible.
 
@@ -140,7 +150,7 @@ To build your own, you will need:
 
 In an upcoming blog, I will detail the steps necessary to create your own.  If you can't wait and want to start working on one now, feel free to email me at tommy at this domain.
 
-[![](https://lh3.googleusercontent.com/R82A1s4iWkyqCmi1EiFpIzyj0c_XXbU9ItCwH2h1Ugg8wqNVFpQNIOVLNQ43WipKnFMrLfwJ7s0gJSimAGKaCwbJoDMiBOfQ2JKPN9TyXK4VadRwBSHKmeX5KjWszUcxFrh-_xehwqQ=w2400)](https://photos.google.com/share/AF1QipNx2ymDwJTsO0GLjyaNDO_z_65I9bmdUVXjqQhZSZo4F5SyA4dv9Cd5Pmy1DAqEwg?key=MmpSQ0VPMGlFUFY4d2lwY0tVdFV3Sy1kOHV2VVZB&source=ctrlq.org)
+[![](/images/2019/gphoto-87fbb75877.jpg)](https://photos.google.com/share/AF1QipNx2ymDwJTsO0GLjyaNDO_z_65I9bmdUVXjqQhZSZo4F5SyA4dv9Cd5Pmy1DAqEwg?key=MmpSQ0VPMGlFUFY4d2lwY0tVdFV3Sy1kOHV2VVZB&source=ctrlq.org)
 
 If you're interested in seeing my presentation on this story, you can view it here:
 

@@ -1,0 +1,15 @@
+---
+import { getCollection } from "astro:content";
+import ListLayout from "../../layouts/ListLayout.astro";
+import { attachMeta } from "../../utils/meta";
+
+const projects = (await getCollection("blog", ({ data }) => !data.draft && data.tags.includes("project")))
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+    .map((p) => attachMeta(p));
+---
+
+<ListLayout
+    title="Projects"
+    description="A collection of my projects."
+    entries={projects}
+/>

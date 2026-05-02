@@ -1,11 +1,15 @@
 ---
-title: How not to Spend X-mas
-description: ""
-pubDate: '2004-12-27T07:05:58.000Z'
-categories:
-  - "Backpack:  Check."
+draft: false
+featured: "none"
+title: "How not to Spend X-mas"
+description: "I questioned whether I should go home to Cut Off this year. I'm allergic to my hometown (all the mold and mildew of the swamps). I don't keep in touch…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-12-27T07:05:58.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 I questioned whether I should go home to Cut Off this year.  I'm allergic to my hometown (all the mold and mildew of the swamps).  I don't keep in touch with anyone back there (I was a social outcast back in high school).  However, the family wants me.  So, I'm there babye.
 
 Arriving in New Orleans around 10PM, X-mas Eve, I was met with hugs and kisses as my mom, dad, Evan (newphew) and I went to my sister's place.  Phil (bro-in-law) and I did some guytalk catchup till I got some couch-crashing sleep.  I was later woken up to kids running around, and a gift to unwrap in my face.  It was cute.  One set of nice really nice kitchen knives, an automatic tape dispenser, an MC Escher book later, and a few other cool toys later, we were outside marvelling at the first [White Christmas](http://www.lastcoolnameleft.com/modules.php?set_albumName=Cut-Off-2004&id=IMG_1017&op=modload&name=gallery&file=index&include=view_photo.php) New Orleans has had in 50 years.  It was beautiful.

@@ -1,11 +1,15 @@
 ---
-title: Okie Smakka!
-description: ""
-pubDate: '2004-01-28T07:59:59.000Z'
-categories:
-  - "Exchanges - I THINK they're healthy."
+draft: false
+featured: "none"
+title: "Okie Smakka!"
+description: "Another weekend, another party. This time, it was a bit more personal focused, than an all out, Crazy Go Nutz time. Some Okies thought that they could…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-01-28T07:59:59.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Another weekend, [another party](http://www.lastcoolnameleft.com/modules.php?set_albumName=Smackdown_2004&op=modload&name=gallery&file=index&include=view_album.php).
 
 This time, it was a bit more personal focused, than an all out, Crazy Go Nutz time.  Some Okies thought that they could actually dance better than us, so by some miracle, they were actually able to follow directions and make it down to Dallas for the [2nd SmackDown.](http://www.yehoodi.com/phpBB2/viewtopic.php?t=63744&start=300&postdays=0&postorder=asc&highlight=)

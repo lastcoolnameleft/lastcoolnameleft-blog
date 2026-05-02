@@ -1,11 +1,15 @@
 ---
-title: I forgot my Palm
-description: ""
-pubDate: '2001-10-12T01:30:16.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "I forgot my Palm"
+description: "Hemang and I bought tickets for this weekend to go to the small villas in Italy. I can't wait! This is what I've been looking forward to...not the big…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-12T01:30:16.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Hemang
 and I bought tickets for this weekend to go to the small villas in Italy.
 I can't wait!  This is what I've been looking forward to...not the big cities,

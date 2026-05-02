@@ -1,11 +1,15 @@
 ---
-title: When, How and Where to use ClusterAPI (CAPI) and ClusterAPI for Azure (CAPZ)
-description: ""
-pubDate: '2021-08-16T23:20:07.000Z'
-categories:
-  - Uncategorized
+draft: false
+featured: "none"
+title: "When, How and Where to use ClusterAPI (CAPI) and ClusterAPI for Azure (CAPZ)"
+description: "This article explains why, when, and how to use self-managed Kubernetes clusters in Azure for testing custom scenarios. Kubernetes has gotten so large and…"
+authors:
+  - Tommy Falgout
+pubDate: 2021-08-16T23:20:07.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 This article explains why, when, and how to use self-managed Kubernetes clusters in Azure for testing custom scenarios.
 
 Kubernetes has gotten so large and complex that most companies prefer to use the managed service (e.g. AKS, GKE) instead of running it themselves.  By using a managed Kubernetes service, this frees up the operations team to focus on their core competency instead of optimizing, backing up and upgrading of Kubernetes.

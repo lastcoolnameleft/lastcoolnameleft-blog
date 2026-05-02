@@ -1,12 +1,15 @@
 ---
-title: Turning a new tree.
-description: ""
-pubDate: '2004-12-04T19:42:56.000Z'
-categories:
-  - Misc
-  - Social Events
+draft: false
+featured: "none"
+title: "Turning a new tree."
+description: "Greetings Tommy-party enthusiasts, Over the years, I've thrown countless parties, all with amazingly great success. And I owe that to my friends, my…"
+authors:
+  - Tommy Falgout
+pubDate: 2004-12-04T19:42:56.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 Greetings Tommy-party enthusiasts,
 
 Over the years, I've thrown countless parties, all with amazingly great success.  And I owe that to my friends, my peeps, my homeys.  What's made all of these events (Auction Party, Food and Spirits, God and Goddess, etc.) such an overwhelming success is the people who make it and what they contribute.  And by that, I am only slightly referencing the tangible items brought.  I am more referring to the spirit and general "good natured-ness" which is why I love every one of my friends.  This is truly what makes a Tommy-Party (tm).

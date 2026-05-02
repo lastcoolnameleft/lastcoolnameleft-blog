@@ -1,12 +1,15 @@
 ---
-title: Best Quotes (Updated 2/27/04)
-description: ""
-pubDate: '2003-04-14T01:58:45.000Z'
-categories:
-  - Blah Blah Blah
-  - Misc
+draft: false
+featured: "none"
+title: "Best Quotes (Updated 2/27/04)"
+description: "My friends say the darndest things. Thankfully, I usually have enough sense to capture them down and the put them on the internet. Now the latest quotes…"
+authors:
+  - Tommy Falgout
+pubDate: 2003-04-14T01:58:45.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 My friends say the darndest things.  Thankfully, I usually have enough sense to capture them down and the put them on the internet.
 Now the latest quotes are updated at the top:
 

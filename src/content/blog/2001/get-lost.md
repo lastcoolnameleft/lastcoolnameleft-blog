@@ -1,11 +1,15 @@
 ---
-title: Get Lost!
-description: ""
-pubDate: '2001-10-26T01:37:32.000Z'
-categories:
-  - Living in Europe
+draft: false
+featured: "none"
+title: "Get Lost!"
+description: "For those of you that just want the answer to this question without having to read the whole story, here it is: GET LOST! Now here's the story: Wednesday…"
+authors:
+  - Tommy Falgout
+pubDate: 2001-10-26T01:37:32.000Z
+license: cc-by-nc-sa-4-0
+tags:
+  - life
 ---
-
 For those of you that just want the answer to this question without having to read the whole story, here it is:  GET LOST!
 
 Now here's the story:
