@@ -11,7 +11,8 @@ import rehypeSlug from "rehype-slug";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://www.lastcoolnameleft.com",
+  site: "https://lastcoolnameleft.github.io",
+  base: "/lastcoolnameleft-blog",
 
   fonts: [
     {
