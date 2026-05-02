@@ -19,7 +19,7 @@ export async function GET(context: APIContext) {
       title: entry.data.title,
       pubDate: entry.data.pubDate,
       description: entry.data.description,
-      link: `/posts/${entry.id}/`,
+      link: `/blog/${entry.id}/`,
       ...(entry.data.image && {
         enclosure: {
           url: entry.data.image.src,
