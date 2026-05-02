@@ -1,6 +1,7 @@
 ---
 import { isCloudinaryUrl, lqip } from "../../utils/cloudinary";
 import { cn } from "../../utils/styles";
+import { url } from "../../utils/url-utils";
 import { CldImage, type CldImageProps } from "astro-cloudinary";
 
 interface Props extends CldImageProps {
@@ -22,6 +23,8 @@ const fetchPriorityVal =
     loading === "eager" ? (fetchpriority ?? "high") : undefined;
 
 const useCloudinaryImage = isCloudinaryUrl(src);
+const isPublic = src.startsWith("/");
+const resolvedSrc = isPublic ? url(src) : src;
 const lqipUrl = useCloudinaryImage ? lqip(src) : undefined;
 ---
 
@@ -62,7 +65,7 @@ const lqipUrl = useCloudinaryImage ? lqip(src) : undefined;
             />
         ) : (
             <img
-                src={src}
+                src={resolvedSrc}
                 alt={alt}
                 class={cn("absolute inset-0 h-full w-full object-cover", imageClass)}
                 loading={loading}
