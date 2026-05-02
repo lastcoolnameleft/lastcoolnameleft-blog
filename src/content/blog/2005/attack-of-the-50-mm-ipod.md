@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Attack of the 50 mm iPod"
-description: "A post by Tommy Falgout"
+description: "iPody Dude. Originally uploaded by SnoopyKiss. BIG UPS! to Ruby for accessorizing one of my favorite toys. 9 Guests last weekend, half of which I never…"
 authors:
   - Tommy Falgout
 pubDate: 2005-07-02T22:42:43.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://photos15.flickr.com/22396649_0f55710325_m.jpg)](http://www.flickr.com/photos/snoopykiss/22396649/)
+[![](/images/2005/22396649_0f55710325_m.jpg)](http://www.flickr.com/photos/snoopykiss/22396649/)
 
 [iPody Dude.](http://www.flickr.com/photos/snoopykiss/22396649/)
 

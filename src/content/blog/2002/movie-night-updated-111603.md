@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Movie Night (Updated 11/16/03)"
-description: "A post by Tommy Falgout"
+description: "On Sunday, May 26, my life changed. I found out that I was not whole and complete because I had missed out on a major part of American culture: Movies.…"
 authors:
   - Tommy Falgout
 pubDate: 2002-11-25T09:50:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [](http://www.gist.com/tv/progdesc.jsp?pid=MV0014260000&cid=15064&u=200211240000&gmt=-6&lnk=imdb)On Sunday, May 26, my life changed.  I found out that I was not whole and complete because I had missed out on a major part of American culture:  Movies.  So, to help me become a better person, my friends helped me compile a list of movies that I have yet to see.  To undertake this huge task of watching all of these movies, (over 250) I will start planning "Catch Tommy Up on Good Movies" parties at my place.  If you wish to join us or have an addition to the list, [email me](mailto:discostu_2000@hotmail.com).
 

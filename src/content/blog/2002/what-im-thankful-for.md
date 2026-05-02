@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "What I'm thankful for..."
-description: "A post by Tommy Falgout"
+description: "I realized that I am not only surrounded by some of the greatest people on Earth, but those people are also great cooks. This attribute comes in quite…"
 authors:
   - Tommy Falgout
 pubDate: 2002-11-30T00:22:52.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I realized that I am not only surrounded by some of the greatest people on Earth, but those people are also great cooks.  This attribute comes in quite handy, especially when you're cooking for a feast like Thanksgiving, which is what we all did yesterday.  For me, it was a "Home Away from Home" Thanksgiving Feast, because my parents just left a few days ago to go back to Cut Off.  And I am quite happy to call these fine culinarians (my friends), family.
 

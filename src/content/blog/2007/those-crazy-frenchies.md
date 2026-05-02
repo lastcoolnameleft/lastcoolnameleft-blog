@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Those Crazy Frenchies"
-description: "A post by Tommy Falgout"
+description: "I arrived in Glasgow (Still in Scotland) after finding a hostel w/ wireless Internet (Yea modern world!). The walk there proved to me that Scotland does…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-06T03:48:35.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I arrived in Glasgow (Still in Scotland) after finding a hostel w/ wireless Internet (Yea modern world!).
 

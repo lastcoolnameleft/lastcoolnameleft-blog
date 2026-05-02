@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Would you like an apple pie with that?"
-description: "A post by Tommy Falgout"
+description: "I've got so many great taglines to use in my jorunals, but so little content. This latest one sparked my imagination after a fairly reenactment of this…"
 authors:
   - Tommy Falgout
 pubDate: 2004-04-20T02:16:43.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I've got so many great taglines to use in my jorunals, but so little content.  This latest one sparked my imagination after a fairly reenactment of [this ](http://www.nata2.info/humor/flash/burgerking.swf) happened at the BK near my work.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "GitOps for Presentations"
-description: "A post by Tommy Falgout"
+description: "Yes, I work for Microsoft. No, I do not like PowerPoint. Here’s my alternative with the source code which I’ll explain here. For a live example, check out…"
 authors:
   - Tommy Falgout
 pubDate: 2023-08-04T16:57:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Yes, I work for Microsoft. No, I do not like PowerPoint. Here’s [my alternative](https://lastcoolnameleft.github.io/marp-template/) with the [source code](https://github.com/lastcoolnameleft/marp-template) which I’ll explain here.
 

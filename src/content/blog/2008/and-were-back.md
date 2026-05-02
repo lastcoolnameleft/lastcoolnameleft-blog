@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "...and we're back."
-description: "A post by Tommy Falgout"
+description: "I truly have some of the most amazing friends. I don't know really know what I would have done without them. And now that I've discovered what they've…"
 authors:
   - Tommy Falgout
 pubDate: 2008-09-05T19:02:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I truly have some of the most amazing friends.  I don't know really know what I would have done without them.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Okie Smakka!"
-description: "A post by Tommy Falgout"
+description: "Another weekend, another party. This time, it was a bit more personal focused, than an all out, Crazy Go Nutz time. Some Okies thought that they could…"
 authors:
   - Tommy Falgout
 pubDate: 2004-01-28T07:59:59.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Another weekend, [another party](http://www.lastcoolnameleft.com/modules.php?set_albumName=Smackdown_2004&op=modload&name=gallery&file=index&include=view_album.php).
 

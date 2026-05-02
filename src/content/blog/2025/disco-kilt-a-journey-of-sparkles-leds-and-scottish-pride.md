@@ -1,25 +1,26 @@
 ---
 draft: false
-featured: "none"
+featured: "2"
 title: "Disco Kilt: A Journey of Sparkles, LEDs, and Scottish Pride"
-description: "A post by Tommy Falgout"
+description: "Where Heritage Meets the Dance Floor I love kilts. I now own six of them, which feels appropriate given that I'm a quarter Scottish. But I also love…"
 authors:
   - Tommy Falgout
 pubDate: 2025-10-16T21:15:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
+  - project
 image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
+  src: /images/2025/i1ybj5u.gif
+  alt: "Disco Kilt"
 ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
+  src: /images/2025/i1ybj5u.gif
 ---
 ## Where Heritage Meets the Dance Floor
 
 I love kilts. I now own six of them, which feels appropriate given that I'm a quarter Scottish. But I also love disco. For over 25 years, I've been swing, blues, and disco dancing, even creating an alter ego called Disco Stu that once won me a $500 costume contest for my outfit and dance moves. So when I was discussing the idea with some friends about combining these two passions, I knew I had to make it happen.
 
-![Disco Stu](https://i.imgur.com/qEEldh5.jpeg)
+![Disco Stu](/images/2025/qeeldh5.jpeg)
 
 My new mission in life was to debut a disco kilt in time for [DragonCon](https://www.dragoncon.com). I was already presenting on [LED wearables](https://ledlanyard.com/), and I knew this project would be the perfect showpiece. Plus, I was confident that people would go crazy for the sparkles and shine. What I didn't anticipate was just how challenging (and rewarding) the journey would be.
 
@@ -29,13 +30,13 @@ My first instinct was to simply make a kilt out of disco fabric. Reality check: 
 
 Next, I discovered [glass disco tiles](https://amzn.to/499xkPb) on Amazon that could be added to any material. Perfect, right? Wrong. These tiles were made of glass, which created multiple problems. Yes, they looked amazing, but they were incredibly heavy and brittle. Every time I sat down, tiles would break, leaving dangerous glass shards everywhere. That was a non-starter.
 
-![Glass Kilt](https://i.imgur.com/SHZiHIm_d.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Glass Kilt](/images/2025/shzihim_d.jpeg)
 
 Attempt number three involved mylar (a super shiny material) and 3D printing. I created a mesh square and glued mylar pieces onto it. The result? Disappointing. It didn't shine as well as I'd hoped and looked messy rather than polished.
 
-![Mylar](https://i.imgur.com/VuJilppm.jpeg)
+![Mylar](/images/2025/vujilppm.jpeg)
 
-Finally, I found the winning combination: taking an existing kilt and sewing [disco fabric](https://i.imgur.com/REpoQcH.jpeg) I found on Amazon onto it. I briefly considered learning to sew well enough to make a kilt from scratch, but I didn't have the right sewing machine, the time, or the confidence that my very first sewing project should be something this complex.
+Finally, I found the winning combination: taking an existing kilt and sewing [disco fabric](/images/2025/repoqch.jpeg) I found on Amazon onto it. I briefly considered learning to sew well enough to make a kilt from scratch, but I didn't have the right sewing machine, the time, or the confidence that my very first sewing project should be something this complex.
 
 ## Learning to Sew (Finally!)
 
@@ -43,7 +44,7 @@ Here's the thing: I didn't know how to sew. At all. But this project gave me the
 
 We experimented with different techniques and patterns until we found an approach that worked and looked clean. The most difficult part was the front panel. We wanted the edges of each disco square to line up perfectly with the folds for a polished look. This required creating a custom design for the front panel so the edges would be clean and fold precisely in the middle. There's no way I would have figured this out on my own for my first sewing project. I'm incredibly grateful my friend helped me navigate this challenge.
 
-![Pattern](https://i.imgur.com/Fzd6cw7.jpeg)
+![Pattern](/images/2025/fzd6cw7.jpeg)
 
 ## Prototyping the Pleats
 
@@ -53,9 +54,9 @@ My first version involved layering the disco fabric on the inside of every other
 
 My second version layered the fabric on the outside of each pleat. I took one look at myself in the mirror and knew I was on the right track. This was it.
 
-![Mylar](https://i.imgur.com/Yrtys4D.jpeg)
+![Mylar](/images/2025/yrtys4d.jpeg)
 
-![Pleat](https://i.imgur.com/8KUVvf8.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Pleat](/images/2025/8kuvvf8.jpeg)
 
 ## Adding the LEDs
 
@@ -65,19 +66,19 @@ The solution: wiring LEDs to the back of each pleat so they would shine onto the
 
 By the time I finished, I'd added over [15 feet of LEDs](https://amzn.to/42LdTbI) and [200 feet of wiring](https://www.amazon.com/dp/B087RCVKH9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_7). I even learned about voltage drops the hard way when my LEDs started losing signal about three-quarters of the way through. All in a day's work. Or week. Or however long it took while I binged multiple seasons of Anthony Bourdain and other shows during those 30+ hours of construction.
 
-![](https://i.imgur.com/XakgAR8.jpeg)
+![](/images/2025/xakgar8.jpeg)
 
-![Color](https://i.imgur.com/28hDgXW.jpeg?maxwidth=520&shape=thumb&fidelity=high)
+![Color](/images/2025/28hdgxw.jpeg)
 
-![LED](https://i.imgur.com/I1YBj5U.gif)
+![LED](/images/2025/i1ybj5u.gif)
 
 I also created an LED sporran to accentuate the overall effect. 
 
-![](https://i.imgur.com/REpoQcH.jpeg)
+![](/images/2025/repoqch.jpeg)
 
 I attempted to make a tam (a Scottish hat) as well, but no matter what iteration I tried, it never looked quite right. There were just too many curves to work with.
 
-![](https://i.imgur.com/lGj46wK.jpeg)
+![](/images/2025/lgj46wk.jpeg)
 
 ## DragonCon Debut
 
@@ -85,7 +86,7 @@ When I finally wore the disco kilt to DragonCon, the response exceeded every exp
 
 Was it perfect? Not quite. It was occasionally awkward to dance in, and the wiring gave out a few times due to all the bending and movement. But I already have ideas for reinforcing those weak points for version 2.0.
 
-![](https://i.imgur.com/7h2t4jA.jpeg)
+![](/images/2025/7h2t4ja.jpeg)
 
 ## Reflections
 

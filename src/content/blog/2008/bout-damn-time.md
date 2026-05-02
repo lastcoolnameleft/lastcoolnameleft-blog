@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "'bout Damn Time"
-description: "A post by Tommy Falgout"
+description: "No big hooplah. No major fanfare. Hell, it was about 3 weeks after it happened before I told anyone. Â Most people still don't know. Katherine Denise…"
 authors:
   - Tommy Falgout
 pubDate: 2008-03-09T06:35:05.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 No big hooplah.
 

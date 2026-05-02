@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "New Lady in my life and 8 Mile"
-description: "A post by Tommy Falgout"
+description: "In the past 10+ days, I've had quite a few things open up for me. One of which was the meeting and dating of Miss Melanie Rusk. Raised in Midland, Texas,…"
 authors:
   - Tommy Falgout
 pubDate: 2002-11-11T09:30:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 In the past 10+ days, I've had quite a few things open up for me.  One of which was the meeting and dating of Miss Melanie Rusk.  Raised in [Midland, Texas](http://maps.yahoo.com/py/maps.py?Pyt=Tmap&addr=&city=Midland&state=TX&csz=Midland,+TX&slt=31.997471&sln=-102.076729&zip=&country=us&BFKey=&BFCat=&BFClient=&cs=7&name=&desc=&poititle=&poi=&ds=n&mag=4&newmag=3), Melanie (who also dons the name Trillian Prefect), and I met a few times earlier Swing Dancing at the Red Jacket, Sons of Hermann and Bass Club.  On the Wed. before Halloween, I invited her to come dacing with me a few of my very wacky friends at Kempi's Night club.  We had a good time and I was hoping to see her again at my Studio 54 Party.  Alas, Miss Melanie was sick.  Not to be deterred, I told her, "That's ok.  If you can't make it I'll just come over and cook you some gumbo."
 

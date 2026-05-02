@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Turning a new tree."
-description: "A post by Tommy Falgout"
+description: "Greetings Tommy-party enthusiasts, Over the years, I've thrown countless parties, all with amazingly great success. And I owe that to my friends, my…"
 authors:
   - Tommy Falgout
 pubDate: 2004-12-04T19:42:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Greetings Tommy-party enthusiasts,
 

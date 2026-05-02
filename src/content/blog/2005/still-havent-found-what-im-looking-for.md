@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Still haven't found what I'm looking for."
-description: "A post by Tommy Falgout"
+description: "My life always seems to play itself out in themes. The current theme seem to be \"Recovery.\" Unfortunately, my week long excursion with the Lovely Miss Aya…"
 authors:
   - Tommy Falgout
 pubDate: 2005-01-12T04:35:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 My life always seems to play itself out in themes.  The current theme seem to be "Recovery."  Unfortunately, my week long excursion with the Lovely Miss Aya did not work out as I hoped it would.  This coupled with a previous chagrin, has had me seek the Great Geek Wisdom of Ernst Leland Gibson IV, who replied:  "Red Warrior Needs Time to Self Badly."
 

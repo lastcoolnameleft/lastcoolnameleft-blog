@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Sienna"
-description: "A post by Tommy Falgout"
+description: "This morning, I came back from my trip to Italy. It was an interesting, frustrating, tiring, majesticly beautiful, and bad luck weekend. We started off by…"
 authors:
   - Tommy Falgout
 pubDate: 2001-10-17T01:34:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 This morning, I came back from my trip to Italy.
 

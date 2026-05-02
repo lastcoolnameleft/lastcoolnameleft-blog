@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "My Resolve has failed."
-description: "A post by Tommy Falgout"
+description: "On many different levels. One of which was that I didn't even notice that my site's been down for quite some time because my ISP (Comcast) changed my IP…"
 authors:
   - Tommy Falgout
 pubDate: 2003-11-09T21:31:23.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 On many different levels.
 

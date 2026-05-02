@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "1 New Year, 2 Instructors, 8 Peeps, 537 Meters"
-description: "A post by Tommy Falgout"
+description: "In the persistent quest to better my dancing ability and fix my Overly Caucasion Syndrome, I attended the Paul and Sharon workshop this weekend. I picked…"
 authors:
   - Tommy Falgout
 pubDate: 2005-03-01T08:29:30.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 In the persistent quest to better my dancing ability and fix my Overly Caucasion Syndrome, I attended the [Paul and Sharon](http://www.paulandsharon.com/) workshop this weekend.  I picked up on all sorts of little tricks, moves and techniques, but if I had to say what concretely stuck in my mind (outside of the video of Laurie dancing) was that I finally know where to put my hand.  And I'm sure all the ladies will love that.
 

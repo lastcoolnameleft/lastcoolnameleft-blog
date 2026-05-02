@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Mary's Married."
-description: "A post by Tommy Falgout"
+description: "You can find my picture album for this, here. The prize winning photograph. Yesterday, along with about 70 other people, I witnessed the marriage of…"
 authors:
   - Tommy Falgout
 pubDate: 2002-03-04T02:11:52.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 You can find my picture album for this, [here](http://www.ofoto.com/BrowsePhotos.jsp?UV=629551262916_44890265303&US=0&collid=93329165303).
 

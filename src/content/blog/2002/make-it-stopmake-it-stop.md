@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Make it stop...make it stop!!!"
-description: "A post by Tommy Falgout"
+description: "Going to visit the family is, of course, always a pleasant thing to do. Have home cooking from mom, chat about the future with dad, kid around with…"
 authors:
   - Tommy Falgout
 pubDate: 2002-12-28T06:48:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Going to visit the family is, of course, always a pleasant thing to do.  Have home cooking from mom, chat about the future with dad, kid around with Michelle, play with the newphews, etc., etc., etc.  However, there is one party of going to Cut Off, which I abolustely despise.  My allergies.  Plain and simple I'm allergic to my hometown, especially my home.
 

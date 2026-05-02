@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "30 in binary"
-description: "A post by Tommy Falgout"
+description: "30 in binary Originally uploaded by SnoopyKiss. \"What's it like turning 30?\" \"I was giddy for most of the day. I was just unconditionally happy through…"
 authors:
   - Tommy Falgout
 pubDate: 2006-04-03T07:05:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://static.flickr.com/42/122349741_1bff24ae55_m.jpg)](http://www.flickr.com/photos/snoopykiss/122349741/)
+[![](/images/2006/122349741_1bff24ae55_m.jpg)](http://www.flickr.com/photos/snoopykiss/122349741/)
 
 [30 in binary](http://www.flickr.com/photos/snoopykiss/122349741/)
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Berlin Bug"
-description: "A post by Tommy Falgout"
+description: "As is common with many exchanges, I walked out of it with a smile on my face and sick the day after. I was glad to get out of London, quick trip to Paris…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-19T20:05:14.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 As is common with many exchanges, I walked out of it with a smile on my face and sick the day after.  I was glad to get out of London, quick trip to Paris and then off to Berlin.  Berlin is a beautiful city that has worked very hard to remove the dark scar of Wars long past.  And it's done a fantastic job.
 

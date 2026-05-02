@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Katrina.  That Bitch."
-description: "A post by Tommy Falgout"
+description: "Gone Originally uploaded by SnoopyKiss. We always view national tragedies in horror, but it rarely sinks in how gruesome they are until we see them…"
 authors:
   - Tommy Falgout
 pubDate: 2006-01-06T01:02:52.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://static.flickr.com/41/81814919_47cee6199e_m.jpg)](http://www.flickr.com/photos/snoopykiss/81814919/)
+[![](/images/2006/81814919_47cee6199e_m.jpg)](http://www.flickr.com/photos/snoopykiss/81814919/)
 
 [Gone](http://www.flickr.com/photos/snoopykiss/81814919/)
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "More B-day!"
-description: "A post by Tommy Falgout"
+description: "I don't have a really smashing opening for this entry, so I'll just say this. I had an AMAZING time for my birth-weekend. It started out with a pub crawl…"
 authors:
   - Tommy Falgout
 pubDate: 2002-03-25T02:19:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I don't have a really smashing opening for this entry, so I'll just say this.  I had an AMAZING time for my birth-weekend.  It started out with a pub crawl down in Deep Ellum.
 

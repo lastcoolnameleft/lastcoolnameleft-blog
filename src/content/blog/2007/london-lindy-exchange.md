@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "London Lindy Exchange"
-description: "A post by Tommy Falgout"
+description: "My second International Exchange has been a great adventure. Although, there are some differences which struck me as odd. One I wish I would have learned…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-15T13:54:09.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 My second International Exchange has been a great adventure.  Although, there are some differences which struck me as odd.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Best Quotes (Updated 2/27/04)"
-description: "A post by Tommy Falgout"
+description: "My friends say the darndest things. Thankfully, I usually have enough sense to capture them down and the put them on the internet. Now the latest quotes…"
 authors:
   - Tommy Falgout
 pubDate: 2003-04-14T01:58:45.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 My friends say the darndest things.  Thankfully, I usually have enough sense to capture them down and the put them on the internet.
 Now the latest quotes are updated at the top:

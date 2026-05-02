@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "A New Level of Manhood"
-description: "A post by Tommy Falgout"
+description: "Grr...I was almost finished writing this post and I accidently hit the back button and lost all of my work. Grrrrr.... Anyway, I was in the middle of…"
 authors:
   - Tommy Falgout
 pubDate: 2002-11-12T09:00:13.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Grr...I was almost finished writing this post and I accidently hit the back button and lost all of my work.  [Grrrrr](http://www.artdirectonline.co.uk/en/artwork/image_sample.phtml?pid=PID_1388)....
 

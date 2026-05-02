@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "LEGO Star Destroyer Hanging"
-description: "A post by Tommy Falgout"
+description: "A long, long time ago, LEGO announced their new Collectors Star Destroyer. It was their largest set at the time and I being a long time LEGO maniac, I had…"
 authors:
   - Tommy Falgout
 pubDate: 2011-10-11T15:28:57.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 A long, long time ago, LEGO announced their new Collectors Star Destroyer.  It was their largest set at the time and I being a long time LEGO maniac, [I had to have it](http://www.flickr.com/photos/snoopykiss/tags/almightystardestroyer/).  It took many weeks to build, and has been one of my [prize possessions](http://www.flickr.com/photos/snoopykiss/10221061/) which I've flaunted even more than my hot tub.  Friends, relationships and other toys have come and gone, but ol'Desty has always been around.
 

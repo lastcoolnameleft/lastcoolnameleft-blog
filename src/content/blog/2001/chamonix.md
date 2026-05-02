@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Chamonix"
-description: "A post by Tommy Falgout"
+description: "Yes!!!! My pictures are finally uploaded! (Chamonix, Paris, Italy) This past weekend, I ventured out to the French Alps at Chamonix, France. It was an…"
 authors:
   - Tommy Falgout
 pubDate: 2001-10-30T01:42:31.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Yes!!!!  My pictures are finally uploaded!  ([Chamonix](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=63905954203), [Paris](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=39831954203), [Italy](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=30953954203))
 

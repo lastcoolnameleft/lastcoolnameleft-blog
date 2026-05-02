@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The Perfect Joke"
-description: "A post by Tommy Falgout"
+description: "Ever have one of those moments where people present you with the perfect setup for the perfect joke and you deliver the perfect punchline flawlessly which…"
 authors:
   - Tommy Falgout
 pubDate: 2002-06-09T02:22:27.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Ever
 have one of those moments where people present you with the perfect setup

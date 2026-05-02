@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "No Pant Muse"
-description: "A post by Tommy Falgout"
+description: "It's dang near impossible to go two years of living without noticing some changes to your habits/lifestyle. Oddly enough, I realized one of these updates…"
 authors:
   - Tommy Falgout
 pubDate: 2007-08-27T05:35:48.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 It's dang near impossible to go two years of living without noticing some changes to your habits/lifestyle.  Oddly enough, I realized one of these updates is the deep desire to live a life free of pants and the restrictions they impose.
 

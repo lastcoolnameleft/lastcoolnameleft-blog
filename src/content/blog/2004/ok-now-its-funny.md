@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Ok, now it's funny."
-description: "A post by Tommy Falgout"
+description: "The weekend that kept getting wackier still lives! It started with seeing an X and getting insanely jealous. That was later calmed down by attending The…"
 authors:
   - Tommy Falgout
 pubDate: 2004-05-06T09:50:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 The weekend that kept getting wackier still lives!
 

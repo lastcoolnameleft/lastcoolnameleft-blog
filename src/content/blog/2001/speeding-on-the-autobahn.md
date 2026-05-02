@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Speeding on the Autobahn"
-description: "A post by Tommy Falgout"
+description: "More pictures! Innsbruck and Salzburg, Struttgart and the Porche Museum, and Venice I recommend reading the story first, tho. Normally, I would give a…"
 authors:
   - Tommy Falgout
 pubDate: 2001-11-06T01:57:01.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 More pictures!  Innsbruck and Salzburg, Struttgart and the Porche Museum, and Venice  I recommend reading the story first, tho.
 

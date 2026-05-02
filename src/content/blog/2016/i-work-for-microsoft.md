@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "I work for Microsoft?!"
-description: "A post by Tommy Falgout"
+description: "Laziness, Impatience, Hubris The great Larry Wall claims that these are the three great virtues of a great programmer. And I whole heartedly agree.…"
 authors:
   - Tommy Falgout
 pubDate: 2016-12-06T19:43:48.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Laziness, Impatience, Hubris
 

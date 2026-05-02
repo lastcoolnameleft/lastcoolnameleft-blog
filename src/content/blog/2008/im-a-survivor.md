@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "I'm a survivor"
-description: "A post by Tommy Falgout"
+description: "Another company, another round of layoffs. And I'm still here. Regarding all of the speculation of getting bought out from MS, News Corp and who knows who…"
 authors:
   - Tommy Falgout
 pubDate: 2008-02-16T21:02:47.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Another company, another round of layoffs.  And I'm still here.
 

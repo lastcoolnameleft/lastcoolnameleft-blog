@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Not one of those ''water off a duck's back'' qualities"
-description: "A post by Tommy Falgout"
+description: "There are those things that you can shake off, given enough time and perseverance. They're usually things pertaining to your ego, identity or self-esteem.…"
 authors:
   - Tommy Falgout
 pubDate: 2003-08-28T07:46:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 There are those things [ that you can shake off](http://moofie.lastcoolnameleft.com/modules.php?name=News&file=article&sid=63), given enough time and perseverance.  They're usually things pertaining to your ego, identity or self-esteem.  However, there are things that you hear or see that stay with you.  Things that you keep replaying in your mind in such a way that it does nothing to invoke a deep sense of helplessness upon you.
 

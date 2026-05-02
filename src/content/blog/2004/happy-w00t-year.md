@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Happy w00t Year!"
-description: "A post by Tommy Falgout"
+description: "Last year, I resolved to: \"Not make any New Years Resolutions.\" I'm not sure if I either totally succeeded, or completely failed. So, this year, I decided…"
 authors:
   - Tommy Falgout
 pubDate: 2004-01-13T07:49:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Last year, I resolved to: "Not make any New Years Resolutions."  I'm not sure if I either totally succeeded, or completely failed.  So, this year, I decided to put some effort into this.  About 2 minutes later, I sneezed and the feeling went away.
 

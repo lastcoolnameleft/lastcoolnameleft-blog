@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Stick to to the Man Tour: Day 5 & 6 (Chicago -> Toronto -> New York -> Boston)"
-description: "A post by Tommy Falgout"
+description: "Chris Sleeping Originally uploaded by SnoopyKiss. Canada. That Maple Leaf place. America's Attic. (You don't go up there very often, but when you do,…"
 authors:
   - Tommy Falgout
 pubDate: 2005-08-17T09:17:58.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://photos21.flickr.com/34721622_d1555edf95_m.jpg)](http://www.flickr.com/photos/snoopykiss/34721622/)
+[![](/images/2005/34721622_d1555edf95_m.jpg)](http://www.flickr.com/photos/snoopykiss/34721622/)
 
 [Chris Sleeping](http://www.flickr.com/photos/snoopykiss/34721622/)
 

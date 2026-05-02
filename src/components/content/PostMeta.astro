@@ -107,13 +107,15 @@ const repoUrl = "repoUrl" in data ? data.repoUrl : undefined;
         )
     }
 
-    <OptimizedImage
-        data-pagefind-meta="image[src], image_alt[alt]"
-        src={image.src}
-        alt={image.alt}
-        {loading}
-        {fetchpriority}
-        wrapperClass="mt-6 aspect-video rounded-xl"
-        imageClass="transition duration-250 ease-out group-hover:scale-105 group-active:scale-105"
-    />
+    {image && (
+        <OptimizedImage
+            data-pagefind-meta="image[src], image_alt[alt]"
+            src={image.src}
+            alt={image.alt}
+            {loading}
+            {fetchpriority}
+            wrapperClass="mt-6 aspect-video rounded-xl"
+            imageClass="transition duration-250 ease-out group-hover:scale-105 group-active:scale-105"
+        />
+    )}
 </header>

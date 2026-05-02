@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The Snoopy Kiss"
-description: "A post by Tommy Falgout"
+description: "Ever had one of those days where everything went your way? Where you were on top of the world? It seemed like for 24 hours, your guardian angel was the…"
 authors:
   - Tommy Falgout
 pubDate: 2002-07-22T02:25:14.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Ever
 had one of those days where everything went your way?  Where you were on

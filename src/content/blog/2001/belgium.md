@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Belgium"
-description: "A post by Tommy Falgout"
+description: "Once again, I decided to make game of this crazy world and venture off into the unknown by myself. I had the best time going by myself to a hostel, so I…"
 authors:
   - Tommy Falgout
 pubDate: 2001-11-27T02:01:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Once
 again, I decided to make game of this crazy world and venture off into the

@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Turkey in a Bag, babye!"
-description: "A post by Tommy Falgout"
+description: "Turkey in a Bag, babye! Originally uploaded by SnoopyKiss. I made a turkey in a paper bag that was so juicy that it de-winged itself upon removal.…"
 authors:
   - Tommy Falgout
 pubDate: 2005-11-29T06:03:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://static.flickr.com/6/68149004_54a99dd7a7_m.jpg)](http://www.flickr.com/photos/snoopykiss/68149004/)
+[![](/images/2005/68149004_54a99dd7a7_m.jpg)](http://www.flickr.com/photos/snoopykiss/68149004/)
 
 [Turkey in a Bag, babye!](http://www.flickr.com/photos/snoopykiss/68149004/)
 

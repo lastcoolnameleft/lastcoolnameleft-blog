@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "If it makes you happy..."
-description: "A post by Tommy Falgout"
+description: "Thankfully, there's lots of things in this world that makes me happy. One of which is helping Lee to update his site so that it has all of the articles…"
 authors:
   - Tommy Falgout
 pubDate: 2003-08-02T01:42:11.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Thankfully, there's lots of things in this world that makes me happy.  One of which is helping Lee to update [his site ](http://moofie.lastcoolnameleft.com)so that it has all of the articles from our old Radio Possibility site up and getting the dates correct.  I've been ever-expanding my knowledge of PHP and MySQL through this website and my work at Nortel.  My new banner makes me happy too.
 

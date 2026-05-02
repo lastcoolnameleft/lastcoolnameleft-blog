@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "LetsEncrypt on Azure App Service for Linux"
-description: "A post by Tommy Falgout"
+description: "Azure App Service for Linux is a pretty neat offering from Azure. You get all of the DevOps features you want (A/B Testing, Hosted Application, Tiered…"
 authors:
   - Tommy Falgout
 pubDate: 2017-08-14T16:21:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [Azure App Service for Linux](https://docs.microsoft.com/en-us/azure/app-service/app-service-value-prop-what-is) is a pretty neat offering from Azure.  You get all of the DevOps features you want (A/B Testing, Hosted Application, Tiered Support, Button-click scaling, lots of templates and more!) without the headache of managing VM's.
 

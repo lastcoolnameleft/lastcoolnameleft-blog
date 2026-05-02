@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Tinkering with Oracle DB in a container."
-description: "A post by Tommy Falgout"
+description: "TL;DR: Size matters. After Oracle's surprise announcement of their containerization of Oracle DB, Oracle WebLogic and a few of their other core…"
 authors:
   - Tommy Falgout
 pubDate: 2017-04-28T04:09:10.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 TL;DR: Size matters.
 

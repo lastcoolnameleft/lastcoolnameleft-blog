@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "From the ashes..."
-description: "A post by Tommy Falgout"
+description: "This week, I found myself in one of the most unique and challenging situations of my life. And now that itâ€™s all over, I find myself in tears. Not…"
 authors:
   - Tommy Falgout
 pubDate: 2018-02-04T16:04:00.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 This week, I found myself in one of the most unique and challenging situations of my life.  And now that itâ€™s all over, I find myself in tears.  Not because of sadness, but because I now know myself as someone who can actually make a difference is this world, despite the circumstances.
 
@@ -27,7 +22,7 @@ I found my people.
 
 Their guiding principles were more focused on education and ethical hacking instead of building trebuchets, but thatâ€™s cool.  My mom was a librarian, so education is in my blood.  I just wanted to be around like-minded people.
 
-I watched [Shawn Porter, Roxy Dehart and Richard Gowen](http://planomagazine.com/wp-content/uploads/2015/08/THELAB-MS-DIGITAL-MAKERSPACE-PLANO-MAGAZINE-FEATURE2.jpg) pour their heart out into it and build it from scratch.  TheLab even got an [article in the Plano Magazine](http://planomagazine.com/thelab-ms/).
+I watched [Shawn Porter, Roxy Dehart and Richard Gowen](/images/2018/thelab-ms-digital-makerspace-plano-magazine-feature2.jpg) pour their heart out into it and build it from scratch.  TheLab even got an [article in the Plano Magazine](http://planomagazine.com/thelab-ms/).
  
 As with all non-profits, you want awareness, engagement and members.  These usually bring in new ideas and fresh blood.  Sometimes in alignment with your own ideas, sometimes not.  And as a father, I can tell you, there is no rage in the world like watching something happen to your baby.
 

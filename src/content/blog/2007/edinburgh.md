@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Edinburgh"
-description: "A post by Tommy Falgout"
+description: "Edinburgh is gorgeous. Although, a bit cold, even for this Coonass who likes it like that. Backpacking is an amazing experience where you get to learn a…"
 authors:
   - Tommy Falgout
 pubDate: 2007-03-31T08:29:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Edinburgh is gorgeous.  Although, a bit cold, even for this Coonass who likes it like that.  Backpacking is an amazing experience where you get to learn a lot about yourself and other people.  However, it does get a bit...well...lonely.
 

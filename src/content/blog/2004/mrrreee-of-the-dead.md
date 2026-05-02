@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Mrrreee of the Dead"
-description: "A post by Tommy Falgout"
+description: "After a 3-4 week Movie Night hiatus, we started the holiday season off right with Amityville last week and then Dawn of the Dead this week. This post is…"
 authors:
   - Tommy Falgout
 pubDate: 2004-11-01T20:33:39.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 After a 3-4 week Movie Night hiatus, we started the holiday season off right with Amityville last week and then [Dawn of the Dead](http://www.dawnofthedeadmovie.net/) this week.  This post is mostly about Dawn of the Dead, because it was a fine movie, and it also led to an extremely horrifying experience.
 

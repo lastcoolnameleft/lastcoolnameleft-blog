@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Death of Electronics"
-description: "A post by Tommy Falgout"
+description: "Strange things are afoot at Chez Falgout. It started off with my web server eating through 3 different power supplies in 4 days before I gave up and…"
 authors:
   - Tommy Falgout
 pubDate: 2005-03-15T16:50:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Strange things are afoot at Chez Falgout.  It started off with my web server eating through 3 different power supplies in 4 days before I gave up and decided to pay someone else to host my site.  (Thus the new design for the somewhat observant.)
 

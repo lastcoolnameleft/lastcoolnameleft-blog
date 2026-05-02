@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Modesty"
-description: "A post by Tommy Falgout"
+description: "Even inside Europe, there seems to be different levels of modesty. Currently, I'm sharing a room with an English woman and a guy from Amsterdam, Hank.…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-14T13:53:16.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Even inside Europe, there seems to be different levels of modesty.  Currently, I'm sharing a room with an English woman and a guy from Amsterdam, Hank.  Needless to say, I was quite surprised to see Hank walking around in nothing but his tidy blackies and no shame.  He's a pretty fit guy, so I respect that.  I don't think our English host would be caught dead like that.  And the night before, I shared a hostel room with 2 middle-aged women from Sweden.  One just wore a pair of undies and I got flashed some post-prime boobies.  I think it was accidental.  I HOPE it was accidental because she also invited me to stay at her place if I went through Sweden.
 

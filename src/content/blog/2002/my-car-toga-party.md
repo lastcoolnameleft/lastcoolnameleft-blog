@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "My Car!!! (Toga Party)"
-description: "A post by Tommy Falgout"
+description: "So many events...so little time that it happened in...I'll try to be as brief as possible, but good Gaud!...So much happened. It started off with a…"
 authors:
   - Tommy Falgout
 pubDate: 2002-08-26T02:28:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 So many events...so little time that it happened in...I'll try to be as brief as possible, but good Gaud!...So much happened.
 

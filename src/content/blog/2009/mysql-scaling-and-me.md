@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "MySQL Scaling and Me"
-description: "A post by Tommy Falgout"
+description: "Yesterday, I did something I do only about 2-3 times a year, but would like to do more. I lead a Tech Talk which went very well. It was a discussion on…"
 authors:
   - Tommy Falgout
 pubDate: 2009-02-12T05:37:06.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Yesterday, I did something I do only about 2-3 times a year, but would like to do more.  I lead a Tech Talk which went very well.  
 

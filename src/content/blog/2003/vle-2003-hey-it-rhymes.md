@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "VLE 2003 (Hey!  It rhymes!)"
-description: "A post by Tommy Falgout"
+description: "Some hobbies are expensive. Some cheap. Others, like swing dancing are cheap, but if you really want to go crazy with it, they can get really expensive.…"
 authors:
   - Tommy Falgout
 pubDate: 2003-07-18T07:34:58.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Some hobbies are expensive.  Some cheap.  Others, like swing dancing are cheap, but if you really want to go crazy with it, they can get really expensive.  But now that I think about it, I'm sure you can say the same thing about every hobby.  So, nevermind.
 

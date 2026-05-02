@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Cheap Thrills"
-description: "A post by Tommy Falgout"
+description: "Blurry Blues Originally uploaded by SnoopyKiss. Some day, I'm actually going to go to St. Louis and check out the city instead of Blues dancing till 4AM.…"
 authors:
   - Tommy Falgout
 pubDate: 2005-04-20T00:24:53.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://photos7.flickr.com/9852878_e2ad2acf46_m.jpg)](http://www.flickr.com/photos/snoopykiss/9852878/)
+[![](/images/2005/9852878_e2ad2acf46_m.jpg)](http://www.flickr.com/photos/snoopykiss/9852878/)
 
 [Blurry Blues](http://www.flickr.com/photos/snoopykiss/9852878/)
 

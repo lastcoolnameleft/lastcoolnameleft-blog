@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The strangest thing"
-description: "A post by Tommy Falgout"
+description: "It has taken me a while to get over the homesickness, frustration over how to handle life and all of it's issues; however, I think that I'm over the big…"
 authors:
   - Tommy Falgout
 pubDate: 2001-10-23T01:36:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 It
 has taken me a while to get over the homesickness, frustration over how to

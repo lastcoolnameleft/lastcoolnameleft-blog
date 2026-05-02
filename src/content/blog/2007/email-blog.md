@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Email -> Blog"
-description: "A post by Tommy Falgout"
+description: "I've had a few people ask me what I thought about the different cultures. Here's a compilation of their questions/answers: --What do you see about…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-12T21:33:52.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I've had a few people ask me what I thought about the different cultures.  Here's a compilation of their questions/answers:
 

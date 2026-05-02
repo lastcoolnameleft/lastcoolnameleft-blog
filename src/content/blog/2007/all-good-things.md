@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "All Good Things..."
-description: "A post by Tommy Falgout"
+description: "Today, I start my new job at Yahoo! I'm nervous. I'm excitied. I'm anxious. I'm happy. I'm scared. I want to make an impact. My biggest concern for…"
 authors:
   - Tommy Falgout
 pubDate: 2007-07-09T14:25:05.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Today, I start my new job at Yahoo!
 

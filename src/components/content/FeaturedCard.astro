@@ -67,16 +67,20 @@ const { title, description, image } = data;
     href={`/${collection}/${id}`}
     class={`${card({ size })} card-hover-effect card-size-${size}`}
 >
-    <OptimizedImage
-        src={image.src}
-        alt={image.alt}
-        width={1600}
-        height={900}
-        loading={loading}
-        fetchpriority={fetchpriority}
-        wrapperClass="h-full w-full z-10 rounded-[0.625rem]"
-        imageClass="block transform-gpu will-change-transform backface-hidden transition-transform duration-500 ease-out group-hover:scale-105"
-    />
+    {image ? (
+        <OptimizedImage
+            src={image.src}
+            alt={image.alt}
+            width={1600}
+            height={900}
+            loading={loading}
+            fetchpriority={fetchpriority}
+            wrapperClass="h-full w-full z-10 rounded-[0.625rem]"
+            imageClass="block transform-gpu will-change-transform backface-hidden transition-transform duration-500 ease-out group-hover:scale-105"
+        />
+    ) : (
+        <div class="h-full w-full z-10 rounded-[0.625rem] bg-gray-100 dark:bg-gray-800" />
+    )}
 
     <span
         class="absolute top-0 left-0 z-50 m-2 inline-block rounded-md bg-black/70 px-3 py-1.5 text-xs font-medium text-white capitalize sm:text-sm md:m-2.5"

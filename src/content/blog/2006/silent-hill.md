@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Silent Hill"
-description: "A post by Tommy Falgout"
+description: "0020 Originally uploaded by JoJo4Art. Creepy freggin' movie! But good. But creepy. And a bit too much at two parts. You'll know if/when you get there.…"
 authors:
   - Tommy Falgout
 pubDate: 2006-04-27T08:54:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [![](http://static.flickr.com/56/134302708_5100792957_m.jpg)](http://www.flickr.com/photos/jojo4art/134302708/)
 

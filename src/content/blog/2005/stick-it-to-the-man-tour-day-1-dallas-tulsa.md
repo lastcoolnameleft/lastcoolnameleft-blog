@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Stick it to the Man Tour: Day 1 (Dallas -> Tulsa)"
-description: "A post by Tommy Falgout"
+description: "Kum and go Originally uploaded by SnoopyKiss. Got to Tulsa. Highways here look like my kindergarden drawings. Hwy 75 turns to 69 then to Indian Turnpike…"
 authors:
   - Tommy Falgout
 pubDate: 2005-08-11T19:04:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://photos22.flickr.com/33170787_b41933e365_m.jpg)](http://www.flickr.com/photos/snoopykiss/33170787/)
+[![](/images/2005/33170787_b41933e365_m.jpg)](http://www.flickr.com/photos/snoopykiss/33170787/)
 
 [Kum and go](http://www.flickr.com/photos/snoopykiss/33170787/)
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Hanger Dance and Fox and Co. Party"
-description: "A post by Tommy Falgout"
+description: "My evening consisted to two totally awesome parties on completely different ends of the spectrum. I started at the Fox and Co Investment party, where I…"
 authors:
   - Tommy Falgout
 pubDate: 2002-10-22T09:42:03.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 My evening consisted to two totally awesome parties on completely different ends of the spectrum. 
 

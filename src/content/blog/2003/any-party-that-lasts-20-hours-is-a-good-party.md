@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Any party that lasts 20 hours, is a good party."
-description: "A post by Tommy Falgout"
+description: "You know, I really wish that I could say that I had full control of the God and Goddess party yesterday, but I'll have to admit...there was no holding it…"
 authors:
   - Tommy Falgout
 pubDate: 2003-07-07T07:16:49.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 You know, I really wish that I could say that I had full control of the God and Goddess party yesterday, but I'll have to admit...there was no holding it back.  "It turned that knob to 11."  Oh yeah, when I woke up, there was an [octopus in my sink](http://www.lastcoolnameleft.com/modules.php?set_albumName=album34&id=IMG_0252&op=modload&name=gallery&file=index&include=view_photo.php).  That's how you know it was a good party.  We also did have a cop come by, but thankfully the God of Bad Instructions waved to him with his beer bottle and he waved back and drove off.
 

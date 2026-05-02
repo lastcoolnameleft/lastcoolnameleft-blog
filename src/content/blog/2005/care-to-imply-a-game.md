@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Care to imply a game?"
-description: "A post by Tommy Falgout"
+description: "Session Start (discostu2000@hotmail.com:Leigh): Wed Mar 16 14:58:21 2005 Leigh: \"I put my hand up on your hip and when I dip you dip we dip\" Tommy: \"I get…"
 authors:
   - Tommy Falgout
 pubDate: 2005-03-17T01:04:26.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Session Start (discostu_2000@hotmail.com:Leigh): Wed Mar 16 14:58:21 2005
 Leigh: "I put my hand up on your hip and when I dip you dip we dip"

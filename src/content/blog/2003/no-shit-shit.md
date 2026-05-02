@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "No shit?! ... Shit"
-description: "A post by Tommy Falgout"
+description: "The above conversation was an excerpt from a conversation I had with a drunk kid one recent Sunday morning when I told him that I told him I graduated…"
 authors:
   - Tommy Falgout
 pubDate: 2003-02-08T01:58:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 The above conversation was an excerpt from a conversation I had with a drunk kid one recent Sunday morning when I told him that I told him I graduated from Tulane. (where he was studying)  I then told him that he was a long way from home.
 

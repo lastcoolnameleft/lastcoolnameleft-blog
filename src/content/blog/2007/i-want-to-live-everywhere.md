@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "I want to live everywhere."
-description: "A post by Tommy Falgout"
+description: "THAT bridge Originally uploaded by SnoopyKiss Every time I come back from Denver, I rave about how I want to move there. After Germany, it was the same…"
 authors:
   - Tommy Falgout
 pubDate: 2007-09-10T23:14:43.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://farm2.static.flickr.com/1272/1325305505_d716c6bf9b_m.jpg)](http://www.flickr.com/photos/snoopykiss/1325305505/)
+[![](/images/2007/1325305505_d716c6bf9b_m.jpg)](http://www.flickr.com/photos/snoopykiss/1325305505/)
 
 [THAT bridge](http://www.flickr.com/photos/snoopykiss/1325305505/)
 

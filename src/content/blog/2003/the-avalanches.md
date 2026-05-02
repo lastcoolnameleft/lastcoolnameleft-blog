@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The Avalanches"
-description: "A post by Tommy Falgout"
+description: "Earlier this week, I found out that one of my favorite bands, \"The Avalances\" was playing at the Red Jacket on Friday. \"Oh my Gosh! I've gotta get all my…"
 authors:
   - Tommy Falgout
 pubDate: 2003-08-11T02:26:49.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Earlier this week, I found out that one of my favorite bands, "[The Avalances](http://www.theavalanches.com/)"
 was playing at the Red Jacket on Friday.  "Oh my Gosh!  I've gotta get all

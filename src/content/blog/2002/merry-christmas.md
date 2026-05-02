@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Merry Christmas"
-description: "A post by Tommy Falgout"
+description: "Normally if I don't write anything in a while, it's been because not much has happened; however, it's been quite the opposite as of lately. About a month…"
 authors:
   - Tommy Falgout
 pubDate: 2002-12-26T07:09:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Normally if I don't write anything in a while, it's been because not much has happened; however, it's been quite the opposite as of lately.
 

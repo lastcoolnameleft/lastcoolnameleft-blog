@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Vegas Expectations"
-description: "A post by Tommy Falgout"
+description: "I love it when my expectations of things get thrown away and then replaced by even mo'betta things. Like going to see the Stratosphere in Las Vegas.…"
 authors:
   - Tommy Falgout
 pubDate: 2005-03-11T06:02:20.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I love it when my expectations of things get thrown away and then replaced by even mo'betta things.
 

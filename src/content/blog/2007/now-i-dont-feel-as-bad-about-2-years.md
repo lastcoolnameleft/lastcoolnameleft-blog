@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Now I don't feel as bad about 2 years."
-description: "A post by Tommy Falgout"
+description: "In talking to the Sweed in my night sleeper, I found out some very interesting factoids about Swedish couplehood. We talked for a while and he mentioned…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-22T21:47:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 In talking to the Sweed in my night sleeper, I found out some very interesting factoids about Swedish couplehood.  We talked for a while and he mentioned his wife.  And a bit later, he mentioned his girlfriend.  Ah ha!  So the Sweeds DO get to have it all.  The beautiful scenery, the beautiful women, and multiples of each!
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "A Friendly Game of Chess"
-description: "A post by Tommy Falgout"
+description: "a friendly game of chess Originally uploaded by Optimus Prime. Shot Glasses for Chess Pieces...What a brilliant idea! And for extra craziness, what if…"
 authors:
   - Tommy Falgout
 pubDate: 2005-07-08T20:44:23.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [![](http://photos17.flickr.com/22356323_db82de2159_m.jpg)](http://www.flickr.com/photos/optimus/22356323/)
 

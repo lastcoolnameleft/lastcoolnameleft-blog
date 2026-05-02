@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "An Interesting Night Dancing."
-description: "A post by Tommy Falgout"
+description: "As of yesterday, it had been way too long since I had been dancing. And I was itching to change that. SO! I donned my new chapeau, which I picked up at…"
 authors:
   - Tommy Falgout
 pubDate: 2002-12-06T09:23:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 As of yesterday, it had been way too long since I had been dancing.  And I was itching to change that.
 

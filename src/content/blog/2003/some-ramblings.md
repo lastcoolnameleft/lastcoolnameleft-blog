@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Some ramblings"
-description: "A post by Tommy Falgout"
+description: "While I was at Kerrville, I did some pondering. And some stream of consciousness work. It's amazing what will come out of your head at 5AM. These are the…"
 authors:
   - Tommy Falgout
 pubDate: 2003-09-04T04:49:49.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 While I was at Kerrville, I did some pondering.  And some stream of consciousness work.  It's amazing what will come out of your head at 5AM.
 

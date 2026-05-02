@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Lots happening.  Just not posting."
-description: "A post by Tommy Falgout"
+description: "Bonsoir tout la monde, A heck of a lot has been going on since last I posted. US has gone into war, Melissa and I took a vacation around Texas, my B-day,…"
 authors:
   - Tommy Falgout
 pubDate: 2003-03-28T07:52:06.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Bonsoir tout la monde,
 

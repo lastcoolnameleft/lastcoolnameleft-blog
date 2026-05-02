@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "w00 and Yea!"
-description: "A post by Tommy Falgout"
+description: "It had been a while since my last Exchange, so when it came time for Tulsa's, I knew that I had to be there. I also brought along Lee and Miss Heather who…"
 authors:
   - Tommy Falgout
 pubDate: 2004-05-28T07:53:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 It had been a while since my last Exchange, so when it came time for [Tulsa's](http://www.lolx.org), I knew that I [had to be there](http://www.lastcoolnameleft.com/modules.php?set_albumName=album72&op=modload&name=gallery&file=index&include=view_album.php).  I also brought along [Lee ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album72&id=IMG_0001&op=modload&name=gallery&file=index&include=view_photo.php)and [Miss Heather](http://www.lastcoolnameleft.com/modules.php?set_albumName=album72&id=IMG_0006&op=modload&name=gallery&file=index&include=view_photo.php) who found themselves [.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Maryland/Wash. DC - It ain't Dallas."
-description: "A post by Tommy Falgout"
+description: "After taking enough trips for dancing/swing related events, I decided to do something completely different: Accept an invitation to go to Baltimore/Wash.…"
 authors:
   - Tommy Falgout
 pubDate: 2003-09-14T11:57:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 After taking enough trips for dancing/swing related events, I decided to do something completely different:  Accept an invitation to go to Baltimore/Wash. DC to see [a wedding](http://www.lastcoolnameleft.com/modules.php?set_albumName=album46&id=IMG_0018&op=modload&name=gallery&file=index&include=view_photo.php) of someone I had never met before, a friend of an x-girlfriend.  And get some dancing in, if I'm so inclined.
 

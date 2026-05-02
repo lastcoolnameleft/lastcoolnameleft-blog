@@ -11,7 +11,7 @@ const featuredSchema = z
   });
 
 const imageSchema = z.object({
-  src: z.string().url(),
+  src: z.string().min(1),
   alt: z.string().optional(),
 });
 
@@ -42,24 +42,13 @@ const baseSchema = z.object({
   license: reference("licenses"),
   series: z.string().optional(),
   tags: z.array(z.string()).default([]),
-  image: imageSchema,
+  image: imageSchema.optional(),
   ogImage: ogImageOptionalSchema,
 });
 
 const blog = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/blog" }),
   schema: baseSchema,
-});
-
-const projects = defineCollection({
-  loader: glob({ pattern: "**/*.md", base: "./src/content/projects" }),
-  schema: baseSchema.extend({
-    repoUrl: z.string().url().optional(),
-    demoUrl: z.string().url().optional(),
-    status: z
-      .enum(["completed", "in-progress", "planned"])
-      .default("completed"),
-  }),
 });
 
 const legal = defineCollection({
@@ -84,7 +73,6 @@ const about = defineCollection({
 export const collections = {
   licenses,
   blog,
-  projects,
   legal,
   about,
 };

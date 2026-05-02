@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "I'm Popular!"
-description: "A post by Tommy Falgout"
+description: "I went through my site stats today and found something amazing. I had 140K+ hits to my site last year. January's not even over and I'm almost at 10K hits,…"
 authors:
   - Tommy Falgout
 pubDate: 2004-01-28T08:01:10.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I went through my site stats today and found something amazing.
 I had 140K+ hits to my site last year.   January's not even over and I'm almost at 10K hits, with 1100+ hits just today!

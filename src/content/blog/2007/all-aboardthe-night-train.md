@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "All Aboard...the Night Train!"
-description: "A post by Tommy Falgout"
+description: "After spending the night with my newfound Dutch friend, Henk, I learned how perfect Ikea fits into the European home. Amsterdam is a beautiful and…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-22T17:14:40.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 After spending the night with my newfound Dutch friend, Henk, I learned how perfect Ikea fits into the European home.  Amsterdam is a beautiful and decadent city with sightseeing in the morning for the grey-hairs and enough sex toys and shops to make my mom blush.  Not that it would take much.
 

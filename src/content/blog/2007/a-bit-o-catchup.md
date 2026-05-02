@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "A bit o' Catchup."
-description: "A post by Tommy Falgout"
+description: "I've barely been here a week and already so much has happened. Good lord, this is not a boring adventure. (I never took a shower until the 5th day.) After…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-05T07:09:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I've barely been here a week and already so much has happened.  Good lord, this is not a boring adventure.  (I never took a shower until the 5th day.)
 

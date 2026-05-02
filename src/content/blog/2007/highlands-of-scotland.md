@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Highlands of Scotland"
-description: "A post by Tommy Falgout"
+description: "Nothing brings people together like being confined in a small environment, all with the same goal. Korean, Russian, Romanian, Canadian, and even a Texan…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-01T04:21:38.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Nothing brings people together like being confined in a small environment, all with the same goal.  Korean, Russian, Romanian, Canadian, and even a Texan Coonass.
 

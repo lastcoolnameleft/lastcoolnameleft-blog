@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Those Special Words that Mean So Much"
-description: "A post by Tommy Falgout"
+description: "In this society of uncertainty and insecurity of ones future, there are always those little things that managers can say to you that have you realize that…"
 authors:
   - Tommy Falgout
 pubDate: 2002-10-30T09:57:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 In this society of uncertainty and [insecurity of ones future](http://www.stanford.edu/dept/helpcenter/Orgchange.html), there are always those little things that managers can say to you that have you realize that they're not going to lay you off anytime soon.  Today, I heard those special words...
 

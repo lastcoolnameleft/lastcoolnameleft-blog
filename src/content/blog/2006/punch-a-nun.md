@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Punch a Nun"
-description: "A post by Tommy Falgout"
+description: "How good can good food be? A question recently pondered by myself right after my recent Food and Spirits party. And I think I found the limit. After…"
 authors:
   - Tommy Falgout
 pubDate: 2006-11-12T02:48:27.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 How good can good food be?
 

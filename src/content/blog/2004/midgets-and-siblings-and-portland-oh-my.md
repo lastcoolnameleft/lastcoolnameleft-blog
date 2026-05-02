@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Midgets and Siblings and Portland, Oh my!"
-description: "A post by Tommy Falgout"
+description: "Pop: Portland. Yup, that's where I'm at right now. You steal my best friend long enough, I'm bound to fly up there and visit him. While waiting for my…"
 authors:
   - Tommy Falgout
 pubDate: 2004-08-19T21:07:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Pop:  Portland.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "I got game!"
-description: "A post by Tommy Falgout"
+description: "After a devastating blow to the ego, my mind will often wonder off into the dark land of depression and solidute, wondering if I'm doomed to have all of…"
 authors:
   - Tommy Falgout
 pubDate: 2004-12-04T19:00:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 After a devastating blow to the ego, my mind will often wonder off into the dark land of depression and solidute, wondering if I'm doomed to have all of this potential inside me not be realized and appreciated.
 

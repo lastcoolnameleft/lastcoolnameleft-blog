@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "2.5 boobies"
-description: "A post by Tommy Falgout"
+description: "3rd boobie Originally uploaded by Malingering. Definitely not awesome. On my way to pickup a space heater AFTER winter finally hit us (Yea Winter!), I…"
 authors:
   - Tommy Falgout
 pubDate: 2006-02-21T05:34:06.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [![](http://static.flickr.com/20/74025758_e4d055d783_m.jpg)](http://www.flickr.com/photos/malingering/74025758/)
 

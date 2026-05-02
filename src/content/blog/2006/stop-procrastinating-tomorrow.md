@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Stop Procrastinating Tomorrow"
-description: "A post by Tommy Falgout"
+description: "today's fortune Originally uploaded by lil aNNa. The title is a fortune that G claims he got. I would fight him, but I one time got one with nothing in…"
 authors:
   - Tommy Falgout
 pubDate: 2006-01-31T06:27:08.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://static.flickr.com/15/19543128_963a538e63_m.jpg)](http://www.flickr.com/photos/chun/19543128/)
+[![](/images/2006/19543128_963a538e63_m.jpg)](http://www.flickr.com/photos/chun/19543128/)
 
 [today's fortune](http://www.flickr.com/photos/chun/19543128/)
 

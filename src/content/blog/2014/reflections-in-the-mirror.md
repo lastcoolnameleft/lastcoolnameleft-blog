@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Reflections in the Mirror"
-description: "A post by Tommy Falgout"
+description: "I've decided to journal again, not because I need something else to do (Father, Husband, Principal Developer @ Yahoo, Scrum Master, President and Founder…"
 authors:
   - Tommy Falgout
 pubDate: 2014-10-08T14:54:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I've decided to journal again, not because I need something else to do (Father, Husband, Principal Developer @ Yahoo, Scrum Master, President and Founder of DFW Trebuchet, Team Lead for "Trey Bouchet"), but because I've lost focus.
 

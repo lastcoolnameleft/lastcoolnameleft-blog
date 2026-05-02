@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Mr. List"
-description: "A post by Tommy Falgout"
+description: "Amsterdam pictures are up!!! (Check out: Itchy Bitchy, and my new hero, who's diary I am now reading: Anne Frank) So far all of my trips have been to the…"
 authors:
   - Tommy Falgout
 pubDate: 2001-11-16T01:57:46.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [Amsterdam pictures ](http://www.ofoto.com/BrowsePhotos.jsp?collid=65628436203&sessionid=71518436203&userid=48248084103&sourceid=116039602)are up!!!  (Check out:  [Itchy Bitchy](http://www.ofoto.com/PhotoView.jsp?UV=208396736244_71518436203&US=0&collid=65628436203&photoid=56608436203), and my new hero, who's diary I am now reading:  [Anne Frank](http://www.ofoto.com/PhotoView.jsp?UV=208396736244_71518436203&US=0&collid=65628436203&photoid=88608436203))
 

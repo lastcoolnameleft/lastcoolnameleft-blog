@@ -3,7 +3,7 @@ import { getCollection } from "astro:content";
 import ListLayout from "../../layouts/ListLayout.astro";
 import { attachMeta } from "../../utils/meta";
 
-const projects = (await getCollection("projects", ({ data }) => !data.draft))
+const projects = (await getCollection("blog", ({ data }) => !data.draft && data.tags.includes("project")))
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
     .map((p) => attachMeta(p));
 ---
@@ -11,6 +11,5 @@ const projects = (await getCollection("projects", ({ data }) => !data.draft))
 <ListLayout
     title="Projects"
     description="A collection of my projects."
-    ogImage="https://res.cloudinary.com/dellp9a4z/image/upload/v1756758388/og-projects_mj7lcc.png"
     entries={projects}
 />

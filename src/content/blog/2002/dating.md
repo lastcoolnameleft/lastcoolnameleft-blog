@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Dating."
-description: "A post by Tommy Falgout"
+description: "It's been a while since I've updated this place. Not much has happened, except for an occasional date. Which brings me up to an topic: Dating... Growing…"
 authors:
   - Tommy Falgout
 pubDate: 2002-08-25T02:27:37.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 It's
 been a while since I've updated this place.  Not much has happened, except

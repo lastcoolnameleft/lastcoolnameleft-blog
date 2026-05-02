@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Yup!"
-description: "A post by Tommy Falgout"
+description: "Yes. I'm married. It happened. It's become obvious to me that a number of people still relate to me as my old party/bachelor-esque lifestyle. \"I thought…"
 authors:
   - Tommy Falgout
 pubDate: 2008-10-14T04:33:45.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Yes.  I'm married.  It happened.
 

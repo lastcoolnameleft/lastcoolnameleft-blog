@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Thanksgiving"
-description: "A post by Tommy Falgout"
+description: "As the previous entries describe, last weekend, I spent it in Interlaken (which means between lakes), Switzerland which is in the middle of the Swiss…"
 authors:
   - Tommy Falgout
 pubDate: 2001-11-23T01:59:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 As
 the previous entries describe, last weekend, I spent it in Interlaken (which

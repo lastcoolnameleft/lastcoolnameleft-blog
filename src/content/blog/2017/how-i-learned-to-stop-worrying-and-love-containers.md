@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "How I learned to stop worrying and love containers"
-description: "A post by Tommy Falgout"
+description: "I was recently invited to participate in the Microsoft Partner blog where I shared my love of containers. I'm especially passionate about container…"
 authors:
   - Tommy Falgout
 pubDate: 2017-11-13T22:55:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I was recently invited to participate in the Microsoft Partner blog where I shared my love of containers.  
 

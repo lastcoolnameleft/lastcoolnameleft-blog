@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The Journey to Kubernetes"
-description: "A post by Tommy Falgout"
+description: "I created this article with the intent of explaining the migration journey from deploying a legacy application with manual steps to an automated…"
 authors:
   - Tommy Falgout
 pubDate: 2018-07-25T18:45:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I created this article with the intent of explaining the migration journey from deploying a legacy application with manual steps to an automated [Kubernetes](https://kubernetes.io/) deployment with proper DevOps practices.  Its intent is not to help you understand Kubernetes deeper ([thereâ€™s an abundance of materials out there already](https://www.katacoda.com/)).
 

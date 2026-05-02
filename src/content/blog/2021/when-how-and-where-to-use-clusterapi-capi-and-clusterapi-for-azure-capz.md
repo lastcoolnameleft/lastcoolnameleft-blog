@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "When, How and Where to use ClusterAPI (CAPI) and ClusterAPI for Azure (CAPZ)"
-description: "A post by Tommy Falgout"
+description: "This article explains why, when, and how to use self-managed Kubernetes clusters in Azure for testing custom scenarios. Kubernetes has gotten so large and…"
 authors:
   - Tommy Falgout
 pubDate: 2021-08-16T23:20:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 This article explains why, when, and how to use self-managed Kubernetes clusters in Azure for testing custom scenarios.
 

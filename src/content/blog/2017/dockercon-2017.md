@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "DockerCon 2017"
-description: "A post by Tommy Falgout"
+description: "After hearing about it for years, I was fortunate enough to attend DockerCon this time around. Since joining Microsoft as a Open Source Technical…"
 authors:
   - Tommy Falgout
 pubDate: 2017-04-20T19:41:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 After hearing about it for years, I was fortunate enough to attend [DockerCon](http://2017.dockercon.com/) this time around.  Since joining Microsoft as a Open Source Technical Evangelist, 80% of my job is either learning or teaching.  This was my first OSS conference since joining Microsoft, and I was eager to share with others my experiences.
 
@@ -47,7 +42,7 @@ NOTE:  There used to be rumors of Microsoft buying Docker.  If Microsoft had, an
 
 
 
-[![Untitled](https://c1.staticflickr.com/3/2936/34128110416_00f99d6c7e_k.jpg)](https://www.flickr.com/photos/snoopykiss/34128110416/in/photolist-TPsK2b-TRPuQa-TPsJz9-SLWnhb-TPsJs5-TRPukc-TPsJ9E-SLWmG3-TPsHUS-U4nCN8-SLWkZS-TPsGPq-TZMudQ)
+[![Untitled](/images/2017/34128110416_00f99d6c7e_k.jpg)](https://www.flickr.com/photos/snoopykiss/34128110416/in/photolist-TPsK2b-TRPuQa-TPsJz9-SLWnhb-TPsJs5-TRPukc-TPsJ9E-SLWmG3-TPsHUS-U4nCN8-SLWkZS-TPsGPq-TZMudQ)
 
 Pre-event Organization:
 
@@ -70,7 +65,7 @@ Event Organization:
 
 
 
-[![Untitled](https://c1.staticflickr.com/3/2822/34011284382_2190074ae5_k.jpg)](https://www.flickr.com/photos/snoopykiss/34011284382/in/photolist-TPsK2b-TRPuQa-TPsJz9-SLWnhb-TPsJs5-TRPukc-TPsJ9E-SLWmG3-TPsHUS-U4nCN8-SLWkZS-TPsGPq-TZMudQ)
+[![Untitled](/images/2017/34011284382_2190074ae5_k.jpg)](https://www.flickr.com/photos/snoopykiss/34011284382/in/photolist-TPsK2b-TRPuQa-TPsJz9-SLWnhb-TPsJs5-TRPukc-TPsJ9E-SLWmG3-TPsHUS-U4nCN8-SLWkZS-TPsGPq-TZMudQ)
 
 
 Ecosystem Expo:
@@ -117,7 +112,7 @@ Here's some great quotes I overheard:
 
 
 
-[![Untitled](https://c1.staticflickr.com/3/2815/34011286602_8b4cb27c98_k.jpg)](https://www.flickr.com/photos/snoopykiss/34011286602/in/photolist-TPsK2b-TRPuQa-TPsJz9-TRPukc-SLWnhb-TPsJs5-TPsJ9E-SLWmG3-TPsHUS-U4nCN8-SLWkZS-TPsGPq-TZMudQ)
+[![Untitled](/images/2017/34011286602_8b4cb27c98_k.jpg)](https://www.flickr.com/photos/snoopykiss/34011286602/in/photolist-TPsK2b-TRPuQa-TPsJz9-TRPukc-SLWnhb-TPsJs5-TPsJ9E-SLWmG3-TPsHUS-U4nCN8-SLWkZS-TPsGPq-TZMudQ)
 
 Prior to DockerCon, I really hoped to attend and meet a few more Microsoft'ers and some Docker'ers(?) but got swept up into the community and the common goal it has for deploying software better, faster, stronger.  I can't wait till next year.
 

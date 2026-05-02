@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "HTTP Referers"
-description: "A post by Tommy Falgout"
+description: "Aside from finding out how much traffic I actually get on this side, one of my favorite things to do is see how people discover this site. This is done by…"
 authors:
   - Tommy Falgout
 pubDate: 2004-08-20T11:34:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Aside from finding out how much traffic I actually get on this side, one of my favorite things to do is see how people discover this site.  This is done by HTTP Referer logs, which I keep.
 

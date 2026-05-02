@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Jeromy's Gettin' Married!"
-description: "A post by Tommy Falgout"
+description: "I've always known that I'm surrounded by some of the greatest people on Earth. I think that God has blessed me in many ways by providing me with friends…"
 authors:
   - Tommy Falgout
 pubDate: 2003-08-05T02:26:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I've
 always known that I'm surrounded by some of the greatest people on Earth.

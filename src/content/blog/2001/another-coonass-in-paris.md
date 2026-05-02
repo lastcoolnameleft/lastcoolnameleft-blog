@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Another Coonass in Paris"
-description: "A post by Tommy Falgout"
+description: "Today, miracles of miracles, M. Barney \"I don't need to travel.\" Falgout landed in Ch. de Gaulle airport to visit his son and explore Europe. There were a…"
 authors:
   - Tommy Falgout
 pubDate: 2001-11-30T02:05:30.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Today,
 miracles of miracles, M. Barney "I don't need to travel." Falgout landed

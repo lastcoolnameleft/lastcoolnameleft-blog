@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Speak of the devil."
-description: "A post by Tommy Falgout"
+description: "Sometimes, I wish that this \"journal\" wasn't online for everyone to see. And I also know that if I really wanted to, that I could have a separate online…"
 authors:
   - Tommy Falgout
 pubDate: 2002-03-30T02:20:45.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Sometimes,
 I wish that this "journal" wasn't online for everyone to see.  And I also

@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Jazz Fest, babye."
-description: "A post by Tommy Falgout"
+description: "Jazz Fest Logo Thingamabob Originally uploaded by SnoopyKiss. Road trips are funny things. You never know what's going to happen or where the…"
 authors:
   - Tommy Falgout
 pubDate: 2005-04-28T04:57:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://photos8.flickr.com/10809578_af623e2984_m.jpg)](http://www.flickr.com/photos/snoopykiss/10809578/)
+[![](/images/2005/10809578_af623e2984_m.jpg)](http://www.flickr.com/photos/snoopykiss/10809578/)
 
 [Jazz Fest Logo Thingamabob](http://www.flickr.com/photos/snoopykiss/10809578/)
 

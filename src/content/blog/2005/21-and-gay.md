@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "21 and Gay"
-description: "A post by Tommy Falgout"
+description: "Have I stressed enough how much I love my friends? My very diverse set of friends. Well, at least as diverse one can be while living in a city pretty much…"
 authors:
   - Tommy Falgout
 pubDate: 2005-02-06T09:36:19.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Have I stressed enough how much I love my friends?  My very diverse set of friends.  Well, at least as diverse one can be while living in a city pretty much comprised of computer geeks?
 

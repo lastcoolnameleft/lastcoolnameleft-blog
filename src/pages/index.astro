@@ -8,21 +8,19 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { attachMeta } from "../utils/meta";
 
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
-const allProjects = await getCollection("projects", ({ data }) => !data.draft);
 
 const sortedPosts = allPosts.sort(
     (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
-const sortedProjects = allProjects.sort(
-    (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
 
 const latestPosts = sortedPosts.slice(0, 3).map((post) => attachMeta(post));
-const latestProjects = sortedProjects
+const latestProjects = allPosts
+    .filter((p) => p.data.tags.includes("project"))
+    .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
     .slice(0, 2)
     .map((project) => attachMeta(project));
 
-const featured = [...allPosts, ...allProjects]
+const featured = allPosts
     .filter((item) => item.data.featured !== undefined)
     .sort((a, b) => (a.data.featured ?? 0) - (b.data.featured ?? 0));
 

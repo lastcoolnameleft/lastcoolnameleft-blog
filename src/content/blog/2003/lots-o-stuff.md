@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Lots o' Stuff"
-description: "A post by Tommy Falgout"
+description: "So, I've realized that I haven't posted here in a while, and I think that's because I usually spend a lot of time working on getting all sorts of links in…"
 authors:
   - Tommy Falgout
 pubDate: 2003-05-05T09:02:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 So, I've realized that I haven't posted here in a while, and I think that's because I usually spend a lot of time working on getting all sorts of links in with my stories, which takes a considerable amount of time.  However, since I want this to be more of an online journal and less of a online link-fest, I'm now resolving myself to posting more often but less links.  Except for really cool ones.
 

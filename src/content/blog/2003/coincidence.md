@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Coincidence?!"
-description: "A post by Tommy Falgout"
+description: "WARNING: This post links to some pretty graphic stuff. Don't say I didn't warn you. A while back, a friend of mine, Matt Musselman told an interesting…"
 authors:
   - Tommy Falgout
 pubDate: 2003-04-09T07:19:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 WARNING:  This post links to some pretty graphic stuff.  Don't say I didn't warn you.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Leftover Party"
-description: "A post by Tommy Falgout"
+description: "A good friend of mine, Amanda, and I heard of a really interesting idea. It's called a Leftover Party. The name's not too appealing, but the idea is…"
 authors:
   - Tommy Falgout
 pubDate: 2002-10-25T07:33:32.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 A good friend of mine, Amanda, and I heard of a really interesting idea.  It's called a Leftover Party.  The name's not too appealing, but the idea is definitely curious enough to have me throw one.
 

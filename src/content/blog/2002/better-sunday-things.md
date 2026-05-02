@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Better Sunday things."
-description: "A post by Tommy Falgout"
+description: "Yes, there are things to do on Sunday, but they always seem really boring for me. Have you ever noticed that as much as you want to get your butt out of…"
 authors:
   - Tommy Falgout
 pubDate: 2002-02-26T02:10:35.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Yes, there are things to do on Sunday, but they always seem really boring for me.
 

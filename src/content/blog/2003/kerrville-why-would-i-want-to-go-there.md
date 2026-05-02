@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Kerrville?!  Why would I want to go there?"
-description: "A post by Tommy Falgout"
+description: "A while back, my good frirend Teel told me about this place called Kerrville. Being somewhat perceptive, I noticed that Teel seemed to like this place a…"
 authors:
   - Tommy Falgout
 pubDate: 2003-09-04T17:07:01.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 A while back, my good frirend Teel told me about this place called
 Kerrville.  Being somewhat perceptive, I noticed that [Teel](http://www.lastcoolnameleft.com/modules.php?set_albumName=album45&id=P1010196&op=modload&name=gallery&file=index&include=view_photo.php) seemed to like

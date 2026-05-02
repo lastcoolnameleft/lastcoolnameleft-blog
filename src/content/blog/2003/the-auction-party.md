@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The Auction Party"
-description: "A post by Tommy Falgout"
+description: "At one of my last parties, I realized that I had thrown enough parties designed to get wild and meet lots of cool people. I wanted to do something new.…"
 authors:
   - Tommy Falgout
 pubDate: 2003-10-06T08:24:12.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 At one of my last parties, I realized
 that I had thrown enough parties designed to get wild and meet lots

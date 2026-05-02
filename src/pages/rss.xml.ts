@@ -6,9 +6,8 @@ import { SITE_SETTINGS } from "../site.config";
 
 export async function GET(context: APIContext) {
   const blogPosts = await getCollection("blog", ({ data }) => !data.draft);
-  const projects = await getCollection("projects", ({ data }) => !data.draft);
 
-  const allEntries = [...blogPosts, ...projects].sort(
+  const allEntries = blogPosts.sort(
     (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
   );
 
@@ -21,11 +20,13 @@ export async function GET(context: APIContext) {
       pubDate: entry.data.pubDate,
       description: entry.data.description,
       link: `/posts/${entry.id}/`,
-      enclosure: {
-        url: entry.data.image.src,
-        type: "image/webp",
-        length: 1,
-      },
+      ...(entry.data.image && {
+        enclosure: {
+          url: entry.data.image.src,
+          type: "image/webp",
+          length: 1,
+        },
+      }),
       ...(entry.data.tags.length > 0 && { categories: entry.data.tags }),
       author: "noreply@lastcoolnameleft.com (Tommy Falgout)",
     })),

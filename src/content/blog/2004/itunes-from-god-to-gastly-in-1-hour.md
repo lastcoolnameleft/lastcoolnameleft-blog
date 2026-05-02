@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "iTunes:  From God to Gastly in 1 hour"
-description: "A post by Tommy Falgout"
+description: "Since I still hadn't conquered my blues, I thought, \"Hey! Maybe if I buy stuff, I'll feel better.\" I've heard women do that, so I decided to try it out…"
 authors:
   - Tommy Falgout
 pubDate: 2004-04-29T09:15:37.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Since I still hadn't conquered my blues, I thought, "Hey!  Maybe if I buy stuff, I'll feel better."  I've heard women do that, so I decided to try it out for myself.
 

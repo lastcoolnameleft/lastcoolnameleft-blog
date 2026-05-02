@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "2nd Annual Food and Spirits Party"
-description: "A post by Tommy Falgout"
+description: "Yet another weekend proving that I have the coolest friends this side of the universe. About 100+ people stopped by my house this Saturday to check out…"
 authors:
   - Tommy Falgout
 pubDate: 2004-03-16T21:18:30.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Yet another [weekend ](http://www.evite.com/pages/invite/viewInvite.jsp?event=WNFWSYKMWPXWEZMXAXRX&showResponse=null) proving that I have the coolest friends this side of the universe.
 

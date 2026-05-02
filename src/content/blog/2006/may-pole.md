@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "May Pole!"
-description: "A post by Tommy Falgout"
+description: "It worked! Originally uploaded by SnoopyKiss. What's May without a Pole Dance? What started out as a joke between Neighbor Dan and I about how we should…"
 authors:
   - Tommy Falgout
 pubDate: 2006-05-09T23:46:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://static.flickr.com/45/138900609_12a6377911_m.jpg)](http://www.flickr.com/photos/snoopykiss/138900609/)
+[![](/images/2006/138900609_12a6377911_m.jpg)](http://www.flickr.com/photos/snoopykiss/138900609/)
 
 [It worked!](http://www.flickr.com/photos/snoopykiss/138900609/)
 

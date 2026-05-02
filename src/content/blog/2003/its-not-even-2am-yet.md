@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "It's not even 2AM yet!!!"
-description: "A post by Tommy Falgout"
+description: "Ok, I'm upset. Pissed. Fuming. Raging. Why you ask? Because I just dropped and screwed up one of the most expensive pieces of equipment I have here at my…"
 authors:
   - Tommy Falgout
 pubDate: 2003-08-22T08:36:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Ok, I'm upset.  Pissed.  Fuming.  Raging.  Why you ask?
 

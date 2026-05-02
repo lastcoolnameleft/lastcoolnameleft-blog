@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Yea Stuttgart!  I made it!"
-description: "A post by Tommy Falgout"
+description: "After traveling from country to country, mostly staying in the same location for only 1 night, it's amazing how peaceful familiarity can be. It doesn't…"
 authors:
   - Tommy Falgout
 pubDate: 2007-05-16T15:43:12.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 After traveling from country to country, mostly staying in the same location for only 1 night, it's amazing how peaceful familiarity can be.  It doesn't matter that you sleep on a leaky air-mattress, or that it's with a cousin you haven't seen in about 2 decades, and his wife and his good friend who you've never met before.  It's comforting because it's family.
 

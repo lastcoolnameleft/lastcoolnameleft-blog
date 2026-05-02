@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "Stick it to the Man Tour: Day 3 & 4"
-description: "A post by Tommy Falgout"
+description: "Sears CN Tower Originally uploaded by SnoopyKiss. After a much needed rest and some good work put in, I finally got the full \"Stupid Lack of Parking…"
 authors:
   - Tommy Falgout
 pubDate: 2005-08-15T14:14:37.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://photos22.flickr.com/34185882_386e97fb34_m.jpg)](http://www.flickr.com/photos/snoopykiss/34185882/)
+[![](/images/2005/34185882_386e97fb34_m.jpg)](http://www.flickr.com/photos/snoopykiss/34185882/)
 
 [Sears CN Tower](http://www.flickr.com/photos/snoopykiss/34185882/)
 

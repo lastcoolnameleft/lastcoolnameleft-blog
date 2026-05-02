@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Toss your own ferret"
-description: "A post by Tommy Falgout"
+description: "So, this weekend, I felt like disappearing and since I had a friend in Tulsa who was celebrating his B-day, I knew my destiny. 4 hours and one speeding…"
 authors:
   - Tommy Falgout
 pubDate: 2005-02-15T00:33:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 So, this weekend, I felt like disappearing and since I had a friend in Tulsa who was celebrating his B-day, I knew my destiny.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Good/Bad Influences"
-description: "A post by Tommy Falgout"
+description: "You know how there are those good influences in your life? And those bad influences on you? And then there's those \"Good Bad\" influences. Well, my friend…"
 authors:
   - Tommy Falgout
 pubDate: 2002-09-09T02:29:40.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 You
 know how there are those good influences in your life?  And those bad influences

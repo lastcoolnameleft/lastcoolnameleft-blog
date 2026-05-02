@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "5 Years already?!"
-description: "A post by Tommy Falgout"
+description: "Didn't I move to Dallas just a few weeks ago?Didn't I start working for Nortel the day after that? Didn't I just buy my house?! Then what the heck is this…"
 authors:
   - Tommy Falgout
 pubDate: 2003-05-28T08:37:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Didn't I move to Dallas just a few weeks ago?Didn't I start working for Nortel the day after that?
 Didn't I just buy my house?!

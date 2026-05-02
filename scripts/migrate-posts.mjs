@@ -50,19 +50,28 @@ function parseFrontmatter(content) {
   return { fm, body };
 }
 
-// Generate placeholder image URL (use imgur or similar)
-function getPlaceholderImage() {
-  return {
-    src: 'https://i.imgur.com/qEEldh5.jpeg',
-    alt: 'Post image'
-  };
+// Extract first image URL from markdown body
+function extractFirstImage(body) {
+  // Match markdown images: ![alt](url)
+  const mdMatch = body.match(/!\[([^\]]*)\]\((https?:\/\/[^)]+)\)/);
+  if (mdMatch) {
+    return { src: mdMatch[2], alt: mdMatch[1] || 'Post image' };
+  }
+  // Match HTML img tags: <img src="url" ...>
+  const htmlMatch = body.match(/<img[^>]+src=["'](https?:\/\/[^"']+)["'][^>]*>/);
+  if (htmlMatch) {
+    const altMatch = htmlMatch[0].match(/alt=["']([^"']*)["']/);
+    return { src: htmlMatch[1], alt: altMatch ? altMatch[1] : 'Post image' };
+  }
+  return null;
 }
 
 // Build new frontmatter
-function buildNewFrontmatter(oldFm) {
+function buildNewFrontmatter(oldFm, body) {
   const tags = oldFm.categories || ['life'];
+  const image = extractFirstImage(body);
   
-  return {
+  const fm = {
     draft: false,
     featured: 'none',
     title: oldFm.title || 'Untitled',
@@ -71,9 +80,14 @@ function buildNewFrontmatter(oldFm) {
     pubDate: oldFm.pubDate || new Date().toISOString(),
     license: 'cc-by-nc-sa-4-0',
     tags: tags,
-    image: getPlaceholderImage(),
-    ogImage: getPlaceholderImage()
   };
+
+  if (image) {
+    fm.image = image;
+    fm.ogImage = image;
+  }
+
+  return fm;
 }
 
 // Format YAML frontmatter
@@ -102,11 +116,15 @@ function formatFrontmatter(fm) {
   } else {
     yaml += `  - life\n`;
   }
-  yaml += `image:\n`;
-  yaml += `  src: ${fm.image.src}\n`;
-  yaml += `  alt: ${JSON.stringify(fm.image.alt)}\n`;
-  yaml += `ogImage:\n`;
-  yaml += `  src: ${fm.ogImage.src}\n`;
+  if (fm.image) {
+    yaml += `image:\n`;
+    yaml += `  src: ${fm.image.src}\n`;
+    yaml += `  alt: ${JSON.stringify(fm.image.alt)}\n`;
+  }
+  if (fm.ogImage) {
+    yaml += `ogImage:\n`;
+    yaml += `  src: ${fm.ogImage.src}\n`;
+  }
   yaml += '---\n';
   
   return yaml;
@@ -123,7 +141,7 @@ function migrateFile(filePath) {
       return false;
     }
     
-    const newFm = buildNewFrontmatter(parsed.fm);
+    const newFm = buildNewFrontmatter(parsed.fm, parsed.body);
     const newContent = formatFrontmatter(newFm) + parsed.body;
     
     fs.writeFileSync(filePath, newContent, 'utf8');

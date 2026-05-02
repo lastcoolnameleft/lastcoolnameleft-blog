@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "I threw a party."
-description: "A post by Tommy Falgout"
+description: "Wacky antics ensued. I want to shout out to a few people who helped make this last party such a huge success: DJ FU! Who kept the tunes raging and the…"
 authors:
   - Tommy Falgout
 pubDate: 2003-12-22T09:18:53.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Wacky antics ensued.
 

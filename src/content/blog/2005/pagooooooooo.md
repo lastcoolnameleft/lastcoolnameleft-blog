@@ -2,20 +2,15 @@
 draft: false
 featured: "none"
 title: "PAGOOOOOOOOO!!!"
-description: "A post by Tommy Falgout"
+description: "PAGOOOOOOOOO!!! Originally uploaded by SnoopyKiss. Conversation while picking up the Mini between Jeff (sales manager/old swing dance instructor) and I:…"
 authors:
   - Tommy Falgout
 pubDate: 2005-06-01T20:52:20.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
-[![](http://photos11.flickr.com/15984841_44b9e19dd2_m.jpg)](http://www.flickr.com/photos/snoopykiss/15984841/)
+[![](/images/2005/15984841_44b9e19dd2_m.jpg)](http://www.flickr.com/photos/snoopykiss/15984841/)
 
 [PAGOOOOOOOOO!!!](http://www.flickr.com/photos/snoopykiss/15984841/)
 

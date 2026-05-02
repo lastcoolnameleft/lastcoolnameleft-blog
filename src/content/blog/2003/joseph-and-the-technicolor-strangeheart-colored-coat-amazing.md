@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Joseph and the Technicolor Strangeheart Colored Coat.  Amazing."
-description: "A post by Tommy Falgout"
+description: "Sometimes, there are those days where the World just seems to come at you with no rhyme or reason and you have no idea why. Well, this wasn’t one of those…"
 authors:
   - Tommy Falgout
 pubDate: 2003-08-02T22:36:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Sometimes, there are those days where the World just seems to come at you with no rhyme or reason and you have no idea why.  Well, this wasn’t one of those days.  
 

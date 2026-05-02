@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Once Times.  Twice Times.  Five times??"
-description: "A post by Tommy Falgout"
+description: "For the longest time, I waited for the world to change, so that I could be happier. I knew that I wasn't happy where I was at, and my frustration was…"
 authors:
   - Tommy Falgout
 pubDate: 2004-11-30T05:00:11.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 For the longest time, I waited for the world to change, so that I could be happier.  I knew that I wasn't happy where I was at, and my frustration was usually focused at external sources.  I overcame that mountain and now people know me as "The guy that never not smiles."  What a great place to be.
 

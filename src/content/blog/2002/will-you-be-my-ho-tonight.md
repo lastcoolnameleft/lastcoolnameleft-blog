@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Will you be my HO tonight?"
-description: "A post by Tommy Falgout"
+description: "First off, the title is the beginning of a very interesting story that goes against everything mom brought me up learning. It started off with me going…"
 authors:
   - Tommy Falgout
 pubDate: 2002-10-27T11:31:29.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 First off, the title is the beginning of a very interesting story that goes against everything mom brought me up learning.
 

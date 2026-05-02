@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "STLBX 2003 - Dance till you're blue in the..."
-description: "A post by Tommy Falgout"
+description: "Apparently, it was that time of the month for me. I was a bit late; however, that was ok; because I was able to resolve some personal issues since the…"
 authors:
   - Tommy Falgout
 pubDate: 2003-09-30T21:21:00.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Apparently, it was that time of the month for me.  I was a bit late; however, that was ok; because I was able to resolve some personal issues since the last time.  And once it happened, it was a big relief for me.  I was starting to get really worried.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Creating a Dev Env with Azure Functions for Python"
-description: "A post by Tommy Falgout"
+description: "Azure Functions (one of the many Serverless Platforms inside Azure) allows you to use Python as your runtime environment. This is great; however, it…"
 authors:
   - Tommy Falgout
 pubDate: 2019-08-07T21:08:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) (one of the many Serverless Platforms inside Azure) allows you to [use Python as your runtime environment](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python).
 

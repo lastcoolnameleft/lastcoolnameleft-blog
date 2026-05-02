@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Get Lost!"
-description: "A post by Tommy Falgout"
+description: "For those of you that just want the answer to this question without having to read the whole story, here it is: GET LOST! Now here's the story: Wednesday…"
 authors:
   - Tommy Falgout
 pubDate: 2001-10-26T01:37:32.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 For those of you that just want the answer to this question without having to read the whole story, here it is:  GET LOST!
 

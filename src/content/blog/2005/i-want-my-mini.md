@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "I want my Mini!"
-description: "A post by Tommy Falgout"
+description: "My finances can be best described as: Feast or Famine. Frugal. Frugal. Frugal. SPLURGGGGEEE!!! Such as this past week where I've been living off of…"
 authors:
   - Tommy Falgout
 pubDate: 2005-04-08T23:14:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 My finances can be best described as:  Feast or Famine.
 

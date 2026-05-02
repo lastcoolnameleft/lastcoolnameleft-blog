@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "God Bless Technology"
-description: "A post by Tommy Falgout"
+description: "I keep telling people that I haven't been up to much lately; however, as I've just finished writing an email to a good old friend of mine, Tino Dai, I…"
 authors:
   - Tommy Falgout
 pubDate: 2002-07-16T02:23:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I
 keep telling people that I haven't been up to much lately; however, as I've

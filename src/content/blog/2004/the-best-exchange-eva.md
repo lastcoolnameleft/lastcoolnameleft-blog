@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The Best Exchange Eva!"
-description: "A post by Tommy Falgout"
+description: "Another month, another exchange. (Although that ratio is a lot lower this year.) I've made many decisions in my now 28 years of life. Some have brought me…"
 authors:
   - Tommy Falgout
 pubDate: 2004-03-31T10:03:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Another month, another exchange. (Although that ratio is a lot lower this year.)
 

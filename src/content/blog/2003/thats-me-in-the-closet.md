@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "That's me in the closet."
-description: "A post by Tommy Falgout"
+description: "Too many things have happened since I've last posted for me to describe in any great length, so here's the 5 minute ramblings: Most of the Falgout Family…"
 authors:
   - Tommy Falgout
 pubDate: 2003-12-12T07:04:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Too many things have happened since I've last posted for me to describe in any great length, so here's the 5 minute ramblings:
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "If I were to have a restaurant"
-description: "A post by Tommy Falgout"
+description: "I attended a friend's Anniv. of the Repeal of Prohibition party on Friday. It was awesome with all of the costumes, libations, and even a secret password…"
 authors:
   - Tommy Falgout
 pubDate: 2008-12-06T14:23:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 I attended a friend's Anniv. of the Repeal of Prohibition party on Friday. It was awesome with all of the costumes, libations, and even a secret password which you had to give though a sliding peephole to boot. 
 

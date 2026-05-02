@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "The Man, European"
-description: "A post by Tommy Falgout"
+description: "Even though it can seem expensive, there's something to be said for the Eurorail Pass. Rick Steves calls it \"Forced Luxury\", as you can only get it in 1st…"
 authors:
   - Tommy Falgout
 pubDate: 2007-04-12T18:43:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Even though it can seem expensive, there's something to be said for the Eurorail Pass.  Rick Steves calls it "Forced Luxury", as you can only get it in 1st class.
 

@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Birthdays"
-description: "A post by Tommy Falgout"
+description: "Birthdays. You get one once a year. And after a while, you get numb to them, and I've heard that at some point, you actually start dreading them.…"
 authors:
   - Tommy Falgout
 pubDate: 2002-03-10T02:14:02.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Birthdays. 
 You get one once a year.  And after a while, you get numb to them, and I've

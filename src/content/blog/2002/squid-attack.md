@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Squid Attack!"
-description: "A post by Tommy Falgout"
+description: "So, it's been a while since I've played a prank on anyone, and tonight was the night to make up for the lost time. Matt Mussleman (No really, that's his…"
 authors:
   - Tommy Falgout
 pubDate: 2002-05-26T02:21:39.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 So,
 it's been a while since I've played a prank on anyone, and tonight was the

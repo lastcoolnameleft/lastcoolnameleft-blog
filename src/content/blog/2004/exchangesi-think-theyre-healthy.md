@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Exchanges...I THINK they're healthy."
-description: "A post by Tommy Falgout"
+description: "Long time...no post. Yeah. I know. This is me being concerned. So, when life seems to hit you all at once, what do you do? Take a weekend vacation to…"
 authors:
   - Tommy Falgout
 pubDate: 2004-10-05T08:38:11.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 Long time...no post.  Yeah.  I know.  This is me being concerned.
 

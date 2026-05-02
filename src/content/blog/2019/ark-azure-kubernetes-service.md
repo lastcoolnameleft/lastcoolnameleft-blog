@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "Ark + Azure Kubernetes Service"
-description: "A post by Tommy Falgout"
+description: "As much as Cloud Providers tout their availability and uptime, disasters happen. It's inevitable. And it's usually up to you to be prepared. There are…"
 authors:
   - Tommy Falgout
 pubDate: 2019-01-11T21:41:31.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 As much as Cloud Providers tout their availability and uptime, disasters happen.  It's inevitable. And it's usually up to you to be prepared.  There are services that can help; however, they're not always "Kubernetes aware".
 

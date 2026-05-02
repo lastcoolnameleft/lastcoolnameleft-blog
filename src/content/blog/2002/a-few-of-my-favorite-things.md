@@ -2,18 +2,13 @@
 draft: false
 featured: "none"
 title: "A few of my favorite things..."
-description: "A post by Tommy Falgout"
+description: "Jean Reno and Luc Besson. You put these two guys together and you know only good will come of it. The latest installment of their blessing to the rest of…"
 authors:
   - Tommy Falgout
 pubDate: 2002-11-16T09:53:30.000Z
 license: cc-by-nc-sa-4-0
 tags:
   - life
-image:
-  src: https://i.imgur.com/qEEldh5.jpeg
-  alt: "Post image"
-ogImage:
-  src: https://i.imgur.com/qEEldh5.jpeg
 ---
 [Jean Reno ](http://us.imdb.com/Name?Reno,+Jean)and [Luc Besson](http://us.imdb.com/Name?Besson,+Luc).
 
