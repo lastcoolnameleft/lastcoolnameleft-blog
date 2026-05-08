@@ -8,6 +8,7 @@ authors:
 pubDate: 2025-10-16T21:15:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
+  - project
   - projects
   - dance
   - personal

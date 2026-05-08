@@ -25,7 +25,8 @@ const {
     tags,
 } = data;
 const { readingTimeText } = meta || {};
-const hasImage = Boolean(image);
+const cardImage = image ?? meta?.previewImage;
+const hasImage = Boolean(cardImage);
 const noImageTeaser = meta?.plainText?.trim() || description;
 
 const displayDate = updatedDate ?? pubDate;
@@ -34,10 +35,10 @@ const displayDate = updatedDate ?? pubDate;
 <article class="group relative flex h-full flex-col rounded-xl border border-[var(--surface-border)] bg-[var(--surface-muted)] p-3 shadow-[0_10px_24px_-20px_rgba(0,0,0,0.5)]">
     {featured && <FeaturedTag class="absolute top-1 left-1 z-10" />}
 
-    {image && (
+    {cardImage && (
         <OptimizedImage
-            src={image.src}
-            alt={image.alt}
+            src={cardImage.src}
+            alt={cardImage.alt ?? title}
             width={1600}
             height={900}
             sizes="(max-width: 768px) 100vw, 33vw"

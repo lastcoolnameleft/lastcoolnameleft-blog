@@ -14,6 +14,10 @@ export type ContentCollections = "blog" | "legal";
 export interface PostMeta {
   plainText: string;
   readingTimeText: string;
+  previewImage?: {
+    src: string;
+    alt?: string;
+  };
 }
 
 export type WithMeta<T> = T & { meta: PostMeta };

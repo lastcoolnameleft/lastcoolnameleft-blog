@@ -3,7 +3,15 @@ import { getCollection } from "astro:content";
 import ListLayout from "../../layouts/ListLayout.astro";
 import { attachMeta } from "../../utils/meta";
 
-const projects = (await getCollection("blog", ({ data }) => !data.draft && data.tags.includes("project")))
+const PROJECT_IDS = new Set([
+    "2025/2025-lewisville-punkin-chunkin",
+    "2025/disco-kilt-a-journey-of-sparkles-leds-and-scottish-pride",
+    "2019/roboclippy-combining-20-years-of-internet-rage-into-an-adorable-package",
+]);
+
+const projects = (await getCollection("blog", ({ data, id }) =>
+    !data.draft && PROJECT_IDS.has(id)
+))
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
     .map((p) => attachMeta(p));
 ---
