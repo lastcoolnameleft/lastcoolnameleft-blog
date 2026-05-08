@@ -1,3 +1,5 @@
+import { getTagSlug } from "./tag-utils";
+
 function joinUrl(...parts: string[]): string {
   const joined = parts.join("/");
   return joined.replace(/\/+/g, "/");
@@ -18,8 +20,8 @@ export function getPostUrlBySlug(slug: string): string {
 }
 
 export function getTagUrl(tag: string): string {
-  if (!tag) return url("/archive/");
-  return url(`/archive/?tag=${encodeURIComponent(tag.trim())}`);
+  if (!tag) return url("/blog/");
+  return url(`/tags/${getTagSlug(tag)}/`);
 }
 
 export function getCategoryUrl(category: string | null): string {

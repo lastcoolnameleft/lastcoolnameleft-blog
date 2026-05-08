@@ -1,5 +1,6 @@
 ---
 import { cn } from "../../utils/styles";
+import { getTagUrl } from "../../utils/url-utils";
 
 interface Props {
     tags: string[];
@@ -12,10 +13,13 @@ const { tags, class: cls = "" } = Astro.props;
 <div class={cn("flex flex-wrap gap-2", cls)}>
     {
         tags.map((tag) => (
-            // href={`/search?tags=${encodeURIComponent(tag)}`}
-            <span class="rounded-md border border-[var(--surface-border)] bg-[var(--surface)] px-2 py-1 text-sm text-[var(--text-main)]">
+            <a
+                href={getTagUrl(tag)}
+                class="relative z-10 rounded-md border border-[var(--surface-border)] bg-[var(--surface)] px-2 py-1 text-sm text-[var(--text-main)] transition duration-200 hover:border-[var(--accent)] hover:text-[var(--accent)]"
+                aria-label={`View all posts with tag ${tag}`}
+            >
                 {tag}
-            </span>
+            </a>
         ))
     }
 </div>

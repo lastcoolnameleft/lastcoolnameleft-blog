@@ -1,0 +1,49 @@
+---
+import { getCollection } from "astro:content";
+import ListLayout from "../../layouts/ListLayout.astro";
+import { attachMeta } from "../../utils/meta";
+import { getTagSlug } from "../../utils/tag-utils";
+import type { ContentEntry, WithMeta } from "../../types";
+
+export async function getStaticPaths() {
+    const posts = await getCollection("blog", ({ data }) => !data.draft);
+
+    const slugToLabel = new Map<string, string>();
+
+    for (const post of posts) {
+        for (const rawTag of post.data.tags) {
+            const tag = rawTag.trim();
+            if (!tag) continue;
+            const slug = getTagSlug(tag);
+            if (slug && !slugToLabel.has(slug)) {
+                slugToLabel.set(slug, tag);
+            }
+        }
+    }
+
+    return Array.from(slugToLabel.entries()).map(([slug, tagLabel]) => {
+        const entries = posts
+            .filter((post) => post.data.tags.some((t) => getTagSlug(t) === slug))
+            .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
+            .map((p) => attachMeta(p));
+
+        return {
+            params: { tag: slug },
+            props: { tagLabel, entries },
+        };
+    });
+}
+
+interface Props {
+    tagLabel: string;
+    entries: WithMeta<ContentEntry>[];
+}
+
+const { tagLabel, entries } = Astro.props;
+---
+
+<ListLayout
+    title={`Tag: ${tagLabel}`}
+    description={`Articles and projects tagged ${tagLabel}.`}
+    entries={entries}
+/>

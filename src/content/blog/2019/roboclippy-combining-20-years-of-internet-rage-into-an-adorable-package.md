@@ -8,7 +8,7 @@ authors:
 pubDate: 2019-04-04T20:34:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-	- project
+  - project
   - engineering
   - azure
   - presentations

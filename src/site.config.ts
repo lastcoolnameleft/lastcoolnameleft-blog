@@ -18,6 +18,12 @@ export const SITE_SETTINGS = {
       handle: "lastcoolnameleft",
     },
     {
+      icon: "discord",
+      label: "Discord",
+      url: "https://discord.gg/nyjS22XThE",
+      handle: "nyjS22XThE",
+    },
+    {
       icon: "meetup",
       label: "NTXMakers",
       url: "https://www.ntxmakers.com/",
