@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-03-11T06:02:20.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 I love it when my expectations of things get thrown away and then replaced by even mo'betta things.
 

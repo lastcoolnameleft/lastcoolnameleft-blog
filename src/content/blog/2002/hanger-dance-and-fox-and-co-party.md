@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-10-22T09:42:03.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 My evening consisted to two totally awesome parties on completely different ends of the spectrum. 
 

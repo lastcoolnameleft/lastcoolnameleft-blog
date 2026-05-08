@@ -8,7 +8,9 @@ authors:
 pubDate: 2004-05-06T09:50:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - humor
+  - personal
 ---
 The weekend that kept getting wackier still lives!
 

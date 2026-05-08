@@ -8,7 +8,9 @@ authors:
 pubDate: 2005-08-15T14:14:37.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - dance
+  - events
 ---
 [![](/images/2005/34185882_386e97fb34_m.jpg)](http://www.flickr.com/photos/snoopykiss/34185882/)
 

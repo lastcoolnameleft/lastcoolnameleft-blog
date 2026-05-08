@@ -8,7 +8,8 @@ authors:
 pubDate: 2005-11-30T19:11:10.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 [![](http://static.flickr.com/24/66817781_63ace59ea8_m.jpg)](http://www.flickr.com/photos/jen-rocks/66817781/)
 

@@ -8,7 +8,7 @@ authors:
 pubDate: 2003-09-04T04:49:49.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 While I was at Kerrville, I did some pondering.  And some stream of consciousness work.  It's amazing what will come out of your head at 5AM.
 

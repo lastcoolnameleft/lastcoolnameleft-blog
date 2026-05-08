@@ -8,8 +8,9 @@ authors:
 pubDate: 2025-11-30T23:55:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
-  - project
+  - engineering
+  - projects
+  - events
 image:
   src: /images/2025/gieqdvc.jpeg
   alt: "Punkin Chunkin"

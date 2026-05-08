@@ -8,7 +8,7 @@ authors:
 pubDate: 2004-11-23T09:34:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 After discovering some recently upsetting news, I asked two friends for some advice and counseling.  I went into the conversation with much anger, frustration and sadness.  I left with a new life goal and inquiry for myself.
 

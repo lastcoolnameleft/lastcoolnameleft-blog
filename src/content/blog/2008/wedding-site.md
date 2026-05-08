@@ -8,7 +8,8 @@ authors:
 pubDate: 2008-03-12T05:44:11.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 The updates...they are a-flowing.
 

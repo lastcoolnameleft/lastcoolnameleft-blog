@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-08-15T00:15:08.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - humor
 ---
 Oh yeah..I forgot some of the quotes that I either overheard or instigated during the exchange:
 

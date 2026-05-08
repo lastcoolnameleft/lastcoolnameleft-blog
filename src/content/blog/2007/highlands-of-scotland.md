@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-04-01T04:21:38.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Nothing brings people together like being confined in a small environment, all with the same goal.  Korean, Russian, Romanian, Canadian, and even a Texan Coonass.
 

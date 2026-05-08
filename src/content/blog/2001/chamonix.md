@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-10-30T01:42:31.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - humor
+  - personal
 ---
 Yes!!!!  My pictures are finally uploaded!  ([Chamonix](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=63905954203), [Paris](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=39831954203), [Italy](http://www.ofoto.com/BrowsePhotos.jsp?UV=358819013459_88951664203&US=0&collid=30953954203))
 

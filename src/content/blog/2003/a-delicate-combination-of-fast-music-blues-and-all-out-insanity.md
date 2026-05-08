@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-08-14T09:34:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 As [Seattle ](http://www.seattlelindyexchange.com/)has been one of the most talked about [Lindy Exchanges ](http://www.lindyexchange.com/)out there, I pondered...who am I to pass up such a great opportunity such as this?  Apparently, about 200-300 people had that exact same thought.  or maybe some deviation of that thought.  or maybe it went along the lines of "Wow, there's going to be some kick'arse women/men there!"  (Including the infamous [Skadoo](http://www.lastcoolnameleft.com/modules.php?set_albumName=album41&id=IMG_0153&op=modload&name=gallery&file=index&include=view_photo.php)) or "Hot Damn!  I feel the need to dance to some 200+ bpm song while totally experiencing the whole tribal rhythym."  or maybe it was just subconcious that anyone who is anyone should be there.  It was all of that and a bag of really finely cooked salmon.
  

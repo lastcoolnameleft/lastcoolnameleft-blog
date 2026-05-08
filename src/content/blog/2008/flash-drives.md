@@ -8,7 +8,7 @@ authors:
 pubDate: 2008-11-13T00:46:57.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 On Monday, for the first time ever, I bought a flash drive.  Considering that I also still don't have a DVD burner, many of my friends could consider this as being "behind the times".  Instead, I think of this as being far ahead of the times.  I've never needed one.
 

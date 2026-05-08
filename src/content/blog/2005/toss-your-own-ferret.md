@@ -8,7 +8,8 @@ authors:
 pubDate: 2005-02-15T00:33:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 So, this weekend, I felt like disappearing and since I had a friend in Tulsa who was celebrating his B-day, I knew my destiny.
 

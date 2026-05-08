@@ -8,7 +8,9 @@ authors:
 pubDate: 2021-08-16T23:20:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - azure
+  - kubernetes
 ---
 This article explains why, when, and how to use self-managed Kubernetes clusters in Azure for testing custom scenarios.
 

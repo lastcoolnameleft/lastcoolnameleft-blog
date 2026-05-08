@@ -93,18 +93,18 @@ export default defineConfig({
       directives: [
         "default-src 'self'",
         "object-src 'self'",
-        "connect-src 'self' https://challenges.cloudflare.com",
+        "connect-src 'self' https://formspree.io",
         "base-uri 'self'",
         "img-src 'self' https://res.cloudinary.com/dellp9a4z/ data:",
         "media-src 'self' https://res.cloudinary.com/dellp9a4z/",
         "font-src 'self' data:",
-        "frame-src 'self' https://challenges.cloudflare.com",
-        "worker-src 'self' blob: https://challenges.cloudflare.com",
-        "child-src 'self' https://challenges.cloudflare.com blob:",
+        "frame-src 'self'",
+        "worker-src 'self' blob:",
+        "child-src 'self' blob:",
         "manifest-src 'none'",
       ],
       scriptDirective: {
-        resources: ["'self'", "https://challenges.cloudflare.com", "blob:"],
+        resources: ["'self'", "blob:"],
         hashes: [
           "sha256-+D181lN2Iw1b9lkNhIL2BSfLXvTnxTpdqxKE5OjSgk0=",
           "sha256-UnpvhDyF7OXferJXLLEvpK6eSVKujiCxuakCMAAfX0k=",

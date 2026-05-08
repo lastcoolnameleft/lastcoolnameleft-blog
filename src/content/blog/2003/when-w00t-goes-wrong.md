@@ -8,7 +8,8 @@ authors:
 pubDate: 2003-11-20T06:04:13.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 One of my small pleasures in life is the art of subtle humor.  My friend [Matt Mussleman](http://www.onomatopoeia.org/) is the supreme king of such humor.  I, on the other hand, tend to keep it to myself and many times too obscure or bizarre.  For example, one of the servers I created at work is named [Tatu](http://www.tatugirls.com/), also one of the tools I wrote generates logs named [TPS reports](http://www.tps-report.com/).  I bond instantly to anyone to pick up on it.
 

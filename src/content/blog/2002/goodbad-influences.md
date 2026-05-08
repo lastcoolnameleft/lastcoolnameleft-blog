@@ -8,7 +8,8 @@ authors:
 pubDate: 2002-09-09T02:29:40.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 You
 know how there are those good influences in your life?  And those bad influences

@@ -8,7 +8,8 @@ authors:
 pubDate: 2005-03-31T09:03:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 Coming from a guy who has a national reputation for licking people, one can imagine that it would take something fierce to really gross me out.
 

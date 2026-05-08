@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-03-04T02:11:52.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 You can find my picture album for this, [here](http://www.ofoto.com/BrowsePhotos.jsp?UV=629551262916_44890265303&US=0&collid=93329165303).
 

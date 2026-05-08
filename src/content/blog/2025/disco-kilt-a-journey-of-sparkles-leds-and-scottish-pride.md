@@ -8,8 +8,9 @@ authors:
 pubDate: 2025-10-16T21:15:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
-  - project
+  - projects
+  - dance
+  - personal
 image:
   src: /images/2025/i1ybj5u.gif
   alt: "Disco Kilt"

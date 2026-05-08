@@ -8,7 +8,9 @@ authors:
 pubDate: 2017-05-14T04:26:26.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - azure
+  - events
 ---
 [//build](https://build.microsoft.com/) is a developer-centric conference Microsoft hosts every year.  Since [I never expected to work for Microsoft](http://www.lastcoolnameleft.com/2016/12/i-work-for-microsoft/), I wasn't even aware of //build.  So, when my manager asked me if I was excited to attend and I told him no, I now know why that was the naive answer.
 

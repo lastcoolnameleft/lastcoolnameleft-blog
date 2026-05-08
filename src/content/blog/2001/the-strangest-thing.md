@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-10-23T01:36:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - dance
+  - travel
 ---
 It
 has taken me a while to get over the homesickness, frustration over how to

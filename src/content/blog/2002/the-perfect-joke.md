@@ -8,7 +8,8 @@ authors:
 pubDate: 2002-06-09T02:22:27.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 Ever
 have one of those moments where people present you with the perfect setup

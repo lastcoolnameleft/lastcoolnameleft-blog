@@ -8,7 +8,9 @@ authors:
 pubDate: 2008-11-19T05:26:01.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - humor
+  - personal
 ---
 6 years is a long time to keep anything going.  Especially an annual event.  True, by the time the next year rolls around, you've forgotten how much work it was, but when you've got something like the Food & Spirits, it becomes with it each time.
 

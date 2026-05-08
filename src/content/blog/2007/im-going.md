@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-02-06T07:58:41.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - personal
 ---
 [![](/images/2007/381432500_d4fc83989e_m.jpg)](http://www.flickr.com/photos/goldmember/381432500/)
 

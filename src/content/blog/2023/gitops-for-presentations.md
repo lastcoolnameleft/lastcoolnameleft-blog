@@ -8,7 +8,9 @@ authors:
 pubDate: 2023-08-04T16:57:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - devops
+  - presentations
 ---
 Yes, I work for Microsoft. No, I do not like PowerPoint. Here’s [my alternative](https://lastcoolnameleft.github.io/marp-template/) with the [source code](https://github.com/lastcoolnameleft/marp-template) which I’ll explain here.
 

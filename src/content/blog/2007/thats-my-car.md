@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-12-11T23:29:16.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 Here's a picture of my car, on Google Maps, behind the old Yahoo Building in Deep Ellum.  Wheee!
 

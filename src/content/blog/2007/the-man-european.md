@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-04-12T18:43:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - personal
 ---
 Even though it can seem expensive, there's something to be said for the Eurorail Pass.  Rick Steves calls it "Forced Luxury", as you can only get it in 1st class.
 

@@ -1,6 +1,7 @@
 ---
 import { SITE_SETTINGS as site } from "../../site.config";
 import { cn } from "../../utils/styles";
+import { url } from "../../utils/url-utils";
 import { Icon } from "astro-icon/components";
 
 type Social = (typeof site)["socials"][number];
@@ -39,7 +40,19 @@ const itemAppearance =
                         )}
                         aria-label={s.label}
                     >
-                        <Icon name={`fa6-brands:${s.icon}`} class="size-7" />
+                        {
+                            s.iconUrl ? (
+                                <img
+                                    src={url(s.iconUrl)}
+                                    alt=""
+                                    aria-hidden="true"
+                                    class="size-9 shrink-0 rounded-sm object-contain"
+                                    loading="lazy"
+                                />
+                            ) : (
+                                <Icon name={`fa6-brands:${s.icon}`} class="size-9 shrink-0" />
+                            )
+                        }
                     </a>
                 </li>
             ))}

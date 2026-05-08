@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-05-01T22:30:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - humor
 ---
 As you can imagine, Germans are quite concerned with their image.  Their BMW and Mercedes-Benz are beautiful pieces of machinery that are known for their style and precision.  Many Germans are also frustrated with one of the typecasts.  But it's not what you're thinking.
 

@@ -8,7 +8,9 @@ authors:
 pubDate: 2006-05-09T23:46:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - humor
 ---
 [![](/images/2006/138900609_12a6377911_m.jpg)](http://www.flickr.com/photos/snoopykiss/138900609/)
 

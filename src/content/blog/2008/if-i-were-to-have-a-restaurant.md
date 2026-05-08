@@ -8,7 +8,8 @@ authors:
 pubDate: 2008-12-06T14:23:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 I attended a friend's Anniv. of the Repeal of Prohibition party on Friday. It was awesome with all of the costumes, libations, and even a secret password which you had to give though a sliding peephole to boot. 
 

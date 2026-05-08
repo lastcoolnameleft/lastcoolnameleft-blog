@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-02-22T06:30:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 7 Marshmellows.  [1 Mouth.  ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album09&id=Fluffy_Bunny_001&op=modload&name=gallery&file=index&include=view_photo.php)6 Fluffy Bunnies.
 

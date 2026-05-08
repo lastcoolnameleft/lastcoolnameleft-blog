@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import Container from "../components/layouts/Container.astro";
+import AboutMeAside from "../components/ui/AboutMeAside.astro";
 import ContentGrid from "../components/layouts/sections/ContentGrid.astro";
 import FeaturedContent from "../components/layouts/sections/FeaturedContent.astro";
 import EmptyState from "../components/ui/EmptyState.astro";
@@ -32,7 +33,7 @@ const hasContent =
     title="LASTCOOLNAMELEFT"
     description="Billionaire, genius, playboy, philanthropist."
 >
-    <Container class="space-y-24 py-12">
+    <Container class="relative space-y-24 py-12">
         {
             hasContent ? (
                 <>
@@ -66,5 +67,11 @@ const hasContent =
                 />
             )
         }
+
+        <div class="pointer-events-none absolute top-12 left-full ml-8 hidden 2xl:block w-80">
+            <div class="pointer-events-auto sticky top-32">
+                <AboutMeAside />
+            </div>
+        </div>
     </Container>
 </BaseLayout>

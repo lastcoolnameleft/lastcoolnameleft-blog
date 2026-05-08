@@ -8,7 +8,9 @@ authors:
 pubDate: 2017-12-11T02:53:59.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - kubernetes
+  - containers
 ---
 Emerging civilizations naturally gravitate towards beds of water.  Growing up in lower Louisiana, the Mighty Mississippi was where my ancestry settled.  It was a source of commerce, livelihood and fisheries which provided sustainability that allowed the surrounding areas to flourish to the ecosystem it is now.
 

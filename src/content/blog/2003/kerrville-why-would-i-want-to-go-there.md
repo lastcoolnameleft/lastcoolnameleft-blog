@@ -8,7 +8,8 @@ authors:
 pubDate: 2003-09-04T17:07:01.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 A while back, my good frirend Teel told me about this place called
 Kerrville.  Being somewhat perceptive, I noticed that [Teel](http://www.lastcoolnameleft.com/modules.php?set_albumName=album45&id=P1010196&op=modload&name=gallery&file=index&include=view_photo.php) seemed to like

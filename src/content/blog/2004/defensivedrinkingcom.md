@@ -8,7 +8,8 @@ authors:
 pubDate: 2004-04-27T07:58:30.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 The process for getting the absurd speeding ticket (65 on the Tollway) has been stretched out to the point where if these were gym shorts, they would no longer fit.  I've failed to see any humor in the situation until I realized how much I loved the Internet, and how it was my friend.
 

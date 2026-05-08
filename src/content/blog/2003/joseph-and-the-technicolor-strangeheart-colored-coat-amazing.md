@@ -8,7 +8,8 @@ authors:
 pubDate: 2003-08-02T22:36:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 Sometimes, there are those days where the World just seems to come at you with no rhyme or reason and you have no idea why.  Well, this wasn’t one of those days.  
 

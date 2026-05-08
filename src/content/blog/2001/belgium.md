@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-11-27T02:01:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - containers
+  - projects
 ---
 Once
 again, I decided to make game of this crazy world and venture off into the

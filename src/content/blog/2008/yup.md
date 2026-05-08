@@ -8,7 +8,8 @@ authors:
 pubDate: 2008-10-14T04:33:45.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 Yes.  I'm married.  It happened.
 

@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-08-25T02:27:37.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - events
+  - personal
 ---
 It's
 been a while since I've updated this place.  Not much has happened, except

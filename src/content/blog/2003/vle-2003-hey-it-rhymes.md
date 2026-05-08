@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-07-18T07:34:58.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 Some hobbies are expensive.  Some cheap.  Others, like swing dancing are cheap, but if you really want to go crazy with it, they can get really expensive.  But now that I think about it, I'm sure you can say the same thing about every hobby.  So, nevermind.
 

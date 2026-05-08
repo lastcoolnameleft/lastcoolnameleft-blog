@@ -8,7 +8,9 @@ authors:
 pubDate: 2006-03-10T09:44:26.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - personal
 ---
 [![](/images/2006/11593653_d357209275_m.jpg)](http://www.flickr.com/photos/mjutabor/11593653/)
 

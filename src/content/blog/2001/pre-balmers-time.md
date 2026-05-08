@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-11-21T01:58:40.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Fortunately, I got my **[pictures up](http://www.ofoto.com/BrowsePhotos.jsp?UV=781424148472_87655536203&US=0&collid=51268436203)**...
 

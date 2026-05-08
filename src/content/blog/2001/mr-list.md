@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-11-16T01:57:46.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 [Amsterdam pictures ](http://www.ofoto.com/BrowsePhotos.jsp?collid=65628436203&sessionid=71518436203&userid=48248084103&sourceid=116039602)are up!!!  (Check out:  [Itchy Bitchy](http://www.ofoto.com/PhotoView.jsp?UV=208396736244_71518436203&US=0&collid=65628436203&photoid=56608436203), and my new hero, who's diary I am now reading:  [Anne Frank](http://www.ofoto.com/PhotoView.jsp?UV=208396736244_71518436203&US=0&collid=65628436203&photoid=88608436203))
 

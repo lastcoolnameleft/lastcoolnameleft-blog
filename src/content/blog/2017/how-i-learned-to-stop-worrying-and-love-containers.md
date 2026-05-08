@@ -8,7 +8,9 @@ authors:
 pubDate: 2017-11-13T22:55:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - containers
+  - devops
 ---
 I was recently invited to participate in the Microsoft Partner blog where I shared my love of containers.  
 

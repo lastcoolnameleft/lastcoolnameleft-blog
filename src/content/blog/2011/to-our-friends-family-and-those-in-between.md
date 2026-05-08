@@ -8,7 +8,9 @@ authors:
 pubDate: 2011-12-27T19:47:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - personal
 ---
 This is the time of year I electronically dust off the addresses of friends and acquaintances, old and new, and ask myself over a cup of hot chocolate, "Do they still live there?  How much is postage these days?  Do I even know how to write something that isn't my signature?  This is to overwhelming.  Maybe I'll do it next year."  This is also where we'd have a picture of our family in front of a christmas tree showing how big Kara has grown and with a message about how great this year has been.
 

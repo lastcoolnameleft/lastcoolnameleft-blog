@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-05-26T02:21:39.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - humor
+  - personal
 ---
 So,
 it's been a while since I've played a prank on anyone, and tonight was the

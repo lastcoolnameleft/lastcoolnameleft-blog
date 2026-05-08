@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-10-17T01:33:24.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Yesterday, I discovered my favorite part of this buisness trip so far: The laundry service.
 

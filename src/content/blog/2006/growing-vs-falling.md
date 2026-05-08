@@ -8,7 +8,9 @@ authors:
 pubDate: 2006-01-13T09:07:59.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - humor
+  - personal
 ---
 [![](/images/2006/20489189_98cd43a448_m.jpg)](http://www.flickr.com/photos/bobspics/20489189/)
 

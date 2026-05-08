@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-11-24T02:00:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - humor
 ---
 If you haven't read [yesterday's jounral entry](http://discostu.radiopossibility.com/2001/11/22), please do so now, because otherwise, you might be lost...
 

@@ -8,7 +8,8 @@ authors:
 pubDate: 2003-08-05T02:26:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 I've
 always known that I'm surrounded by some of the greatest people on Earth.

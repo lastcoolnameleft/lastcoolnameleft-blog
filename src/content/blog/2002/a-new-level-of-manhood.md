@@ -8,7 +8,7 @@ authors:
 pubDate: 2002-11-12T09:00:13.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Grr...I was almost finished writing this post and I accidently hit the back button and lost all of my work.  [Grrrrr](http://www.artdirectonline.co.uk/en/artwork/image_sample.phtml?pid=PID_1388)....
 

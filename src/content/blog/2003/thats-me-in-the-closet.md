@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-12-12T07:04:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 Too many things have happened since I've last posted for me to describe in any great length, so here's the 5 minute ramblings:
 

@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-02-04T00:35:14.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Ok, not yet, but I'm getting there.
 

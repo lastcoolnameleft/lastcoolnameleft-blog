@@ -8,7 +8,9 @@ authors:
 pubDate: 2004-01-28T07:59:59.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 Another weekend, [another party](http://www.lastcoolnameleft.com/modules.php?set_albumName=Smackdown_2004&op=modload&name=gallery&file=index&include=view_album.php).
 

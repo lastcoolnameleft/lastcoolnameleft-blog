@@ -8,7 +8,8 @@ authors:
 pubDate: 2004-11-01T20:33:39.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - personal
 ---
 After a 3-4 week Movie Night hiatus, we started the holiday season off right with Amityville last week and then [Dawn of the Dead](http://www.dawnofthedeadmovie.net/) this week.  This post is mostly about Dawn of the Dead, because it was a fine movie, and it also led to an extremely horrifying experience.
 

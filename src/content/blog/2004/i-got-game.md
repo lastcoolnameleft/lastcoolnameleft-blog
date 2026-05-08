@@ -8,7 +8,7 @@ authors:
 pubDate: 2004-12-04T19:00:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 After a devastating blow to the ego, my mind will often wonder off into the dark land of depression and solidute, wondering if I'm doomed to have all of this potential inside me not be realized and appreciated.
 

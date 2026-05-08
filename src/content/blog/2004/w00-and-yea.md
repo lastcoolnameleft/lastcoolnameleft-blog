@@ -8,7 +8,9 @@ authors:
 pubDate: 2004-05-28T07:53:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 It had been a while since my last Exchange, so when it came time for [Tulsa's](http://www.lolx.org), I knew that I [had to be there](http://www.lastcoolnameleft.com/modules.php?set_albumName=album72&op=modload&name=gallery&file=index&include=view_album.php).  I also brought along [Lee ](http://www.lastcoolnameleft.com/modules.php?set_albumName=album72&id=IMG_0001&op=modload&name=gallery&file=index&include=view_photo.php)and [Miss Heather](http://www.lastcoolnameleft.com/modules.php?set_albumName=album72&id=IMG_0006&op=modload&name=gallery&file=index&include=view_photo.php) who found themselves [.
 

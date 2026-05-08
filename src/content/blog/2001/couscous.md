@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-10-27T01:38:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - personal
 ---
 One
 thing I realized I left out from yesterday's log was that on Wednesday, I

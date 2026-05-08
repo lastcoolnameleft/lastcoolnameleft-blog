@@ -8,7 +8,9 @@ authors:
 pubDate: 2019-08-07T21:08:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - azure
+  - devops
 ---
 [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) (one of the many Serverless Platforms inside Azure) allows you to [use Python as your runtime environment](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-python).
 

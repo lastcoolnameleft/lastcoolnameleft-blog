@@ -8,7 +8,8 @@ authors:
 pubDate: 2002-07-16T02:23:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - personal
 ---
 I
 keep telling people that I haven't been up to much lately; however, as I've

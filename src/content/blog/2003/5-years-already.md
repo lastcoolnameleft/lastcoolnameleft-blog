@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-05-28T08:37:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 Didn't I move to Dallas just a few weeks ago?Didn't I start working for Nortel the day after that?
 Didn't I just buy my house?!

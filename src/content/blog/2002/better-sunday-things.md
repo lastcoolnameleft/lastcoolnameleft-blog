@@ -8,7 +8,7 @@ authors:
 pubDate: 2002-02-26T02:10:35.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Yes, there are things to do on Sunday, but they always seem really boring for me.
 

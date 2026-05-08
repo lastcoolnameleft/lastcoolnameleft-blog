@@ -11,6 +11,33 @@ export const SITE_SETTINGS = {
       url: "https://github.com/lastcoolnameleft",
       handle: "lastcoolnameleft",
     },
+    {
+      icon: "linkedin",
+      label: "LinkedIn",
+      url: "https://www.linkedin.com/in/lastcoolnameleft/",
+      handle: "lastcoolnameleft",
+    },
+    {
+      icon: "meetup",
+      label: "NTXMakers",
+      url: "https://www.ntxmakers.com/",
+      handle: "ntxmakers",
+      iconUrl: "/images/social/ntxmakers-icon.png",
+    },
+    {
+      icon: "facebook",
+      label: "DFW Trebuchet",
+      url: "https://www.dfwtrebuchet.com/",
+      handle: "dfwtrebuchet",
+      iconUrl: "/images/social/dfwtrebuchet-logo-fixed-cutout.png",
+    },
+    {
+      icon: "facebook",
+      label: "Facebook",
+      // Add your final public Facebook profile URL here when ready.
+      url: null,
+      handle: "lastcoolnameleft",
+    },
   ],
 };
 

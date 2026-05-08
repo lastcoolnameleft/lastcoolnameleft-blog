@@ -2,6 +2,7 @@
 import { type LinkVariants, link } from "./link";
 import { cn } from "../../../utils/styles";
 import type { HTMLAttributes } from "astro/types";
+import { url } from "../../../utils/url-utils";
 
 interface Props extends HTMLAttributes<"a">, LinkVariants {}
 
@@ -12,12 +13,17 @@ const isExternal =
     (typeof href === "string" &&
         (href.startsWith("http://") || href.startsWith("https://")));
 
+const resolvedHref =
+    typeof href === "string" && href.startsWith("/")
+        ? url(href)
+        : href;
+
 const computedTarget = target ?? (isExternal ? "_blank" : undefined);
 const computedRel = rel ?? (isExternal ? "noopener noreferrer" : undefined);
 ---
 
 <a
-    {href}
+    href={resolvedHref}
     target={computedTarget}
     rel={computedRel}
     class={cn(link({ variant }), cls)}

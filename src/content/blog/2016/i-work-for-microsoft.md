@@ -8,7 +8,9 @@ authors:
 pubDate: 2016-12-06T19:43:48.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - azure
+  - projects
 ---
 Laziness, Impatience, Hubris
 

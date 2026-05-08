@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-04-11T03:14:08.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - humor
+  - personal
 ---
 On Easter Sunday, I visited not just 1 church, but 3 of them!  She doesn't need to know about the pub afterwards, but I think she'd be more at ease with me participating in that part of the Sunday Catcholic tradition.
 

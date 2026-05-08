@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-12-26T07:09:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - humor
 ---
 Normally if I don't write anything in a while, it's been because not much has happened; however, it's been quite the opposite as of lately.
 

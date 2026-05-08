@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-05-27T05:35:08.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 [![](/images/2005/11326603_44d4edd724_m.jpg)](http://www.flickr.com/photos/lounytoon/11326603/)
 

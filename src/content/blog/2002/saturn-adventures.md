@@ -8,7 +8,8 @@ authors:
 pubDate: 2002-11-19T08:47:08.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - personal
 ---
 As many of you know, I own a [Saturn Sports car](http://saturn.thenetlab.net/sc1/), and love it profusely.  I've [been through a lot with it](http://www.ofoto.com/PhotoView.jsp?collid=66620055503&photoid=48572055503&UV=577276846124_45849087603&US=0&refreshkey=1037688006780), and still hold it, like all things I care for, dear to my heart.
 

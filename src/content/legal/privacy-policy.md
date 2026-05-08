@@ -1,16 +1,15 @@
 ---
 title: Privacy Policy
 description: >-
-  Learn how Daniel Adrian's website collects, uses, and protects your personal
+  Learn how Tommy Falgout's website collects, uses, and protects your personal
   information.
 lastUpdated: 2025-08-01T03:24:00.000Z
 ogImage:
-  src: >-
-    https://res.cloudinary.com/dellp9a4z/image/upload/v1756758390/og-privacy-policy_eekzan.png
+  src: og/privacy-policy-tommy.svg
   alt: >-
     The graphic has a two-column layout on a light blue, gridded background. On
-    the left, it displays a profile picture of a man with the text "Daniel
-    Adrian's SPACE" below. The right side features the large heading "Privacy
+    the left, it displays a profile badge with the text "Tommy Falgout's
+    SPACE" below. The right side features the large heading "Privacy
     Policy" and a brief description of what the policy covers, which is how the
     website collects, uses, and protects personal information.
 ---

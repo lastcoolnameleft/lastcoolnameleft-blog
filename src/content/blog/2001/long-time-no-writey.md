@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-02-09T02:07:52.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - personal
 ---
 Hi
 everyone.  I know it's been a long time since I've written; however, I am

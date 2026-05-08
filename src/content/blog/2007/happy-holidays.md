@@ -8,6 +8,6 @@ authors:
 pubDate: 2007-12-22T08:03:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 and Me!

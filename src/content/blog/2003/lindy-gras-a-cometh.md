@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-02-14T06:27:01.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 For those still not aware of my new habit of going to Lindy Exchanges, get used to me mentioning them.  I should be hitting quite a few this year.  The latest one which I am preparing myself for tonight is [Lindy Gras](http://www.danceneworleans.com/lindygras), hosted in one of my old neigborhoods of [New Orleans](http://www.nola.com).
 

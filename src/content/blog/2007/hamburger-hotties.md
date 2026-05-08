@@ -8,7 +8,7 @@ authors:
 pubDate: 2007-04-23T23:10:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 I went to this fast food burger joint called Max.  I only saw women behind the counter, and they were all gorgeous.  The surreal thing was that it was seriously like walking into the middle of a porn movie.  It's not typical to see model-esque women like that flipping burgers.
 

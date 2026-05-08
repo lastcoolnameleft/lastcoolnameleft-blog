@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-03-31T08:29:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - personal
 ---
 Edinburgh is gorgeous.  Although, a bit cold, even for this Coonass who likes it like that.  Backpacking is an amazing experience where you get to learn a lot about yourself and other people.  However, it does get a bit...well...lonely.
 

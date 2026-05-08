@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-04-15T13:54:09.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 My second International Exchange has been a great adventure.  Although, there are some differences which struck me as odd.
 

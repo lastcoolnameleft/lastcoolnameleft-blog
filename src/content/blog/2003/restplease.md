@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-06-12T04:19:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 They say that God/life will never throw anything at you more than what you can handle.  I agree to that; however, in this past week, I think that I’ve thrown about as much as my body could handle.
 

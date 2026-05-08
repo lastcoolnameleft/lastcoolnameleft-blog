@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-03-04T00:37:40.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 [![](/images/2007/404235004_72d03a2c44_m.jpg)](http://www.flickr.com/photos/snoopykiss/404235004/)
 

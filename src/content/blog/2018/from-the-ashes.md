@@ -8,7 +8,9 @@ authors:
 pubDate: 2018-02-04T16:04:00.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - events
+  - personal
 ---
 This week, I found myself in one of the most unique and challenging situations of my life.  And now that itâ€™s all over, I find myself in tears.  Not because of sadness, but because I now know myself as someone who can actually make a difference is this world, despite the circumstances.
 

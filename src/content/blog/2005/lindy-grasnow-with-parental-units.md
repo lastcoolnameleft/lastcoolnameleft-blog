@@ -8,7 +8,9 @@ authors:
 pubDate: 2005-01-28T02:27:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 Of course, thanks for everyone who helped organize this wonderous event.  It kicked much arse!  Unforunately, I had too much fun and my body's making me pay for it now by being sick and stuff.
 

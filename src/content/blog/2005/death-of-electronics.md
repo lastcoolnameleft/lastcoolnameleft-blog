@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-03-15T16:50:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Strange things are afoot at Chez Falgout.  It started off with my web server eating through 3 different power supplies in 4 days before I gave up and decided to pay someone else to host my site.  (Thus the new design for the somewhat observant.)
 

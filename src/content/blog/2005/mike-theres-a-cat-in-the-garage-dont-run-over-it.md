@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-12-14T03:57:41.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 [![](/images/2005/72870498_f1bd9681a3_m.jpg)](http://www.flickr.com/photos/snoopykiss/72870498/)
 

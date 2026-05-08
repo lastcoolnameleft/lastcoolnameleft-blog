@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-01-03T08:04:25.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - personal
 ---
 New Years are always interesting times.  Finding out that [Dick Clark ](http://www.dickclarkproductions.com/)is [still alive](http://www.cullenfamily.ca/2000_jul_dec.htm), people are coming off of the X-mas hussle and bussle, there are more drunks on the road, people are cheerier than X-mas, and of course, the opprotunity to clear off the slate and start new.
 

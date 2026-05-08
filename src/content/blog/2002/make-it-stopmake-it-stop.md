@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-12-28T06:48:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 Going to visit the family is, of course, always a pleasant thing to do.  Have home cooking from mom, chat about the future with dad, kid around with Michelle, play with the newphews, etc., etc., etc.  However, there is one party of going to Cut Off, which I abolustely despise.  My allergies.  Plain and simple I'm allergic to my hometown, especially my home.
 

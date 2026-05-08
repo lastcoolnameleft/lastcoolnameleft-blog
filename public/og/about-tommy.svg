@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Tommy Falgout About Card</title>
+  <desc id="desc">A two-column About card with Tommy Falgout branding on a gridded, soft blue background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e7edf8" />
+      <stop offset="50%" stop-color="#dde5f3" />
+      <stop offset="100%" stop-color="#e9effb" />
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b6fd4" stop-opacity="1" />
+      <stop offset="100%" stop-color="#3b6fd4" stop-opacity="0" />
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#cad5ea" stroke-opacity="0.55" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="630" fill="url(#grid)"/>
+
+  <line x1="415" y1="0" x2="415" y2="630" stroke="#7d9fdf" stroke-width="2" stroke-opacity="0.45"/>
+  <rect x="0" y="106" width="4" height="420" fill="#3b6fd4" rx="2"/>
+  <rect x="1080" y="32" width="84" height="4" fill="#3b6fd4" rx="2"/>
+  <rect x="465" y="594" width="622" height="3" fill="url(#line)" rx="1.5"/>
+
+  <rect x="164" y="215" width="82" height="82" rx="12" fill="#132036"/>
+  <text x="205" y="265" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">TF</text>
+
+  <text x="206" y="364" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="700" fill="#2f56b8">Tommy Falgout's</text>
+  <text x="206" y="412" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="500" letter-spacing="6" fill="#657894">SPACE</text>
+
+  <text x="462" y="307" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="700" fill="#121e3c">About</text>
+  <text x="462" y="374" font-family="Inter, Arial, sans-serif" font-size="46" font-weight="400" fill="#4d5f7a">Learn more about Tommy Falgout.</text>
+</svg>

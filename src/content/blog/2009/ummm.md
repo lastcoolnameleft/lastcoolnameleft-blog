@@ -8,7 +8,7 @@ authors:
 pubDate: 2009-01-04T06:10:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 I don't have anything special to say.
 

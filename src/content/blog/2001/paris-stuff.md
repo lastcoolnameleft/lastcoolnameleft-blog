@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-10-20T01:35:46.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Last
 night, I had dinner with some friends who went exploring Rome at the same

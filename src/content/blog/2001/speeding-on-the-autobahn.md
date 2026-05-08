@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-11-06T01:57:01.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 More pictures!  Innsbruck and Salzburg, Struttgart and the Porche Museum, and Venice  I recommend reading the story first, tho.
 

@@ -68,7 +68,7 @@ function extractFirstImage(body) {
 
 // Build new frontmatter
 function buildNewFrontmatter(oldFm, body) {
-  const tags = oldFm.categories || ['life'];
+  const tags = oldFm.categories || ['personal'];
   const image = extractFirstImage(body);
   
   const fm = {
@@ -114,7 +114,7 @@ function formatFrontmatter(fm) {
       yaml += `  - ${tag}\n`;
     });
   } else {
-    yaml += `  - life\n`;
+    yaml += `  - personal\n`;
   }
   if (fm.image) {
     yaml += `image:\n`;

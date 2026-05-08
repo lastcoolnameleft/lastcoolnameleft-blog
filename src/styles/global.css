@@ -4,6 +4,38 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
+:root {
+    --page-bg: oklch(92% 0.03 83);
+    --page-bg-gradient: radial-gradient(circle at 10% -8%, oklch(86% 0.09 72 / 40%), transparent 46%),
+        radial-gradient(circle at 100% 0%, oklch(86% 0.07 205 / 30%), transparent 52%),
+        linear-gradient(180deg, oklch(95% 0.022 86), oklch(90% 0.03 88));
+    --surface: oklch(96% 0.018 84);
+    --surface-muted: oklch(92% 0.02 87);
+    --surface-border: oklch(79% 0.02 83);
+    --text-main: oklch(28% 0.015 255);
+    --text-muted: oklch(50% 0.015 260);
+    --accent: oklch(49% 0.13 196);
+    --accent-strong: oklch(43% 0.13 196);
+    --accent-soft: oklch(90% 0.05 196 / 45%);
+    --focus-ring: oklch(64% 0.17 42);
+}
+
+:root.dark {
+    --page-bg: oklch(20% 0.02 258);
+    --page-bg-gradient: radial-gradient(circle at 8% -4%, oklch(36% 0.07 38 / 30%), transparent 45%),
+        radial-gradient(circle at 100% 0%, oklch(31% 0.09 198 / 32%), transparent 50%),
+        linear-gradient(180deg, oklch(21% 0.02 258), oklch(18% 0.02 258));
+    --surface: oklch(26% 0.02 258);
+    --surface-muted: oklch(30% 0.02 258);
+    --surface-border: oklch(38% 0.02 258);
+    --text-main: oklch(95% 0.01 82);
+    --text-muted: oklch(79% 0.01 255);
+    --accent: oklch(83% 0.12 183);
+    --accent-strong: oklch(88% 0.12 183);
+    --accent-soft: oklch(42% 0.09 188 / 38%);
+    --focus-ring: oklch(78% 0.15 52);
+}
+
 html {
     scrollbar-gutter: stable;
 }
@@ -23,6 +55,9 @@ html.overlay-open {
 }
 
 body {
+    background: var(--page-bg-gradient);
+    color: var(--text-main);
+    background-attachment: fixed;
     font-family:
         var(--font-inter),
         -apple-system,
@@ -32,6 +67,21 @@ body {
         Helvetica,
         Arial,
         sans-serif;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: -1;
+    background-image: linear-gradient(
+        to right,
+        color-mix(in oklab, var(--surface-border) 24%, transparent) 1px,
+        transparent 1px
+    );
+    background-size: 26px 26px;
+    opacity: 0.22;
 }
 
 code,
@@ -53,13 +103,6 @@ kbd {
 
 article :where(h2, h3, h4) {
     scroll-margin-top: calc(4rem + 0.75rem);
-}
-
-.turnstile-container-collapsed {
-    height: 0 !important;
-    min-height: 0 !important;
-    overflow: hidden !important;
-    margin: 0 !important;
 }
 
 .medium-zoom-overlay {
@@ -93,11 +136,11 @@ img.no-zoom {
 
 /* Post styling */
 .prose a:not(.anchor) {
-    @apply inline-block text-blue-600 underline decoration-transparent transition-all duration-250 ease-out hover:decoration-current active:scale-95 dark:text-yellow-400;
+    @apply inline-block text-[var(--accent)] underline decoration-transparent transition-all duration-250 ease-out hover:text-[var(--accent-strong)] hover:decoration-current active:scale-95;
 }
 
 .prose .anchor {
-    @apply relative inline-block text-inherit decoration-transparent transition-all duration-250 ease-out hover:text-blue-500 hover:decoration-current active:scale-95 dark:hover:text-yellow-400;
+    @apply relative inline-block text-inherit decoration-transparent transition-all duration-250 ease-out hover:text-[var(--accent)] hover:decoration-current active:scale-95;
 }
 
 .prose .anchor::before {
@@ -143,28 +186,28 @@ img.no-zoom {
 }
 
 .prose mark {
-    @apply rounded-md bg-blue-500/30 px-1 py-0.5 text-blue-900 dark:bg-yellow-400/30 dark:text-yellow-100;
+    @apply rounded-md bg-[var(--accent-soft)] px-1 py-0.5 text-[var(--text-main)];
 }
 
 /* TOC styling */
 /* Active link styling */
 .toc-item-wrapper.is-active > a {
-    @apply font-semibold text-blue-600 dark:text-yellow-400;
+    @apply font-semibold text-[var(--accent-strong)];
 }
 
 /* Read link styling */
 .toc-item-wrapper.is-read > a {
-    @apply text-gray-500 dark:text-neutral-400;
+    @apply text-[var(--text-muted)];
 }
 
 .toc-item-wrapper.is-read > a:hover {
-    @apply text-blue-500 dark:text-yellow-400;
+    @apply text-[var(--accent)];
 }
 
 /* Active section background highlight */
 .toc-item-wrapper.is-active,
 .toc-item-wrapper.has-active-child {
-    @apply bg-blue-500/10 dark:bg-yellow-400/10;
+    @apply bg-[var(--accent-soft)];
 }
 
 .toc-item-wrapper[data-depth="3"].is-active,

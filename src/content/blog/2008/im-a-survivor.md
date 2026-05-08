@@ -8,7 +8,7 @@ authors:
 pubDate: 2008-02-16T21:02:47.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Another company, another round of layoffs.  And I'm still here.
 

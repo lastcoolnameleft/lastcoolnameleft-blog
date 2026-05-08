@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-10-27T11:31:29.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 First off, the title is the beginning of a very interesting story that goes against everything mom brought me up learning.
 

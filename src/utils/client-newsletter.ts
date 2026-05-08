@@ -1,11 +1,5 @@
 import { actions } from "astro:actions";
 
-declare global {
-  interface Window {
-    turnstile?: { reset?: () => void };
-  }
-}
-
 const form = document.querySelector<HTMLFormElement>(
   "[data-newsletter-form][data-newsletter-ajax]",
 );
@@ -54,16 +48,13 @@ if (!form) {
         setIntent("error");
         setMsg(
           code === "BAD_REQUEST"
-            ? message === "Turnstile verification failed."
-              ? "Please complete the Turnstile challenge."
-              : "We could not subscribe this email. Please check and try again."
+            ? "We could not subscribe this email. Please check and try again."
             : "Something went wrong on our side. Please try again later.",
         );
       } else {
         setIntent("success");
         setMsg("Check your inbox to confirm your subscription.");
         form.reset();
-        window.turnstile?.reset?.();
 
         if (btn) {
           const oldText = btn.textContent;

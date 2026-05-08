@@ -8,7 +8,7 @@ authors:
 pubDate: 2006-02-03T07:27:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 [![](/images/2006/13851278_5c2fa82a0a_m.jpg)](http://www.flickr.com/photos/mjutabor/13851278/)
 

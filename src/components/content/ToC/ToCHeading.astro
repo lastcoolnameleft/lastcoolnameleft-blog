@@ -12,10 +12,10 @@ const {
 
 <li class="toc-item-wrapper" data-depth={depth}>
     <a
-        href=`#${slug}`
+        href={`#${slug}`}
         data-slug={slug}
         class:list={[
-            "relative block truncate py-1.5 transition duration-250 ease-out hover:text-blue-600 dark:text-gray-300 dark:hover:text-yellow-400",
+            "relative block truncate py-1.5 text-[var(--text-muted)] transition duration-250 ease-out hover:text-[var(--accent)]",
             {
                 "pl-3": [2, 3].includes(depth),
                 "pl-10": depth === 4,
@@ -24,7 +24,6 @@ const {
     >
         {text}
     </a>
-
     {
         subheadings && subheadings.length > 0 && (
             <ul class="mt-1">

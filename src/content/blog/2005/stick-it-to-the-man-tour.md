@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-08-09T09:40:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 [![](http://photos22.flickr.com/32296282_2daae4f4d5_m.jpg)](http://www.flickr.com/photos/rebba/32296282/)
 

@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-10-24T03:27:08.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - personal
 ---
 Many years ago, some friends of mine and I created a monster.  This monster has become known throughout the globe as Disco Stu.  Disco Stu, some say, is my alter ego.  But I tell you, ladies and gentlemen, that Disco Stu is more than an alter ego.  He's a modern Disco diety.  And all the women worship him.
 

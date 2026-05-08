@@ -8,7 +8,8 @@ authors:
 pubDate: 2008-03-09T06:35:05.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 No big hooplah.
 

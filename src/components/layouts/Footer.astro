@@ -12,7 +12,7 @@ const currentYear = new Date().getFullYear();
 ---
 
 <footer
-    class="relative z-50 mt-24 border-t border-neutral-200 bg-gray-50 dark:border-neutral-700 dark:bg-neutral-950"
+    class="relative z-50 mt-24 border-t border-[var(--surface-border)] bg-[var(--surface-muted)]"
 >
     <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div class="py-16">
@@ -30,7 +30,7 @@ const currentYear = new Date().getFullYear();
                             Stay Updated
                         </h3>
                         <p
-                            class="mt-4 text-sm text-gray-700 dark:text-gray-300"
+                            class="mt-4 text-sm text-[var(--text-muted)]"
                         >
                             Subscribe to my newsletter for latest updates.
                         </p>
@@ -46,7 +46,7 @@ const currentYear = new Date().getFullYear();
                     <h2 class="text-lg font-semibold">
                         {site.title}
                     </h2>
-                    <p class="text-sm text-gray-700 dark:text-gray-300">
+                    <p class="text-sm text-[var(--text-muted)]">
                         {site.description}
                     </p>
 
@@ -80,7 +80,7 @@ const currentYear = new Date().getFullYear();
         </div>
 
         <!-- Bottom Bar -->
-        <div class="border-t border-neutral-300 py-8 dark:border-neutral-700">
+        <div class="border-t border-[var(--surface-border)] py-8">
             <div
                 class="flex flex-col items-center justify-between gap-4 sm:flex-row"
             >

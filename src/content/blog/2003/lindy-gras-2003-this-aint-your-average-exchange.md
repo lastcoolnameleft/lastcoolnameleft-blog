@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-02-19T09:58:35.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - events
 ---
 Now that I have been exposed to the deep, dark underground that is Swing Exchanges, I will admit that I have become addicted.  On Feb 14-17th, I danced and partied my arse off in New Orleans for their first exchange, Lindy Gras.
 

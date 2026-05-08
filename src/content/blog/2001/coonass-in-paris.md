@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-10-09T01:27:20.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 So! I finally made it to Paris. This is just a quick note before I head off and do some real work in [Nortel](http://www.nortelnetworks.com/).  Thank you all for your support and I will keep all of your updated on my adventures.  I've seen some interesting sites!
 

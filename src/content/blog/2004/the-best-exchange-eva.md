@@ -8,7 +8,9 @@ authors:
 pubDate: 2004-03-31T10:03:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 Another month, another exchange. (Although that ratio is a lot lower this year.)
 

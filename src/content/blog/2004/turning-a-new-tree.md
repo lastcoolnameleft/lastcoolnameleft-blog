@@ -8,7 +8,8 @@ authors:
 pubDate: 2004-12-04T19:42:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 Greetings Tommy-party enthusiasts,
 

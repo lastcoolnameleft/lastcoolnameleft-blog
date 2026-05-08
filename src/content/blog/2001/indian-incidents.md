@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-10-13T01:31:40.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Yesterday was definitely and interesting day, worthy of a story. Check out: [Indian Incidents](http://www.lastcoolnameleft.com/modules.php?name=News&file=article&sid=39) for more info.
 

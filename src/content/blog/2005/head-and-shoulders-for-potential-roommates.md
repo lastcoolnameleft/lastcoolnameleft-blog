@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-05-03T06:56:27.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 [![](/images/2005/3511327_41c73e346c_m.jpg)](http://www.flickr.com/photos/jonlucas/3511327/)
 

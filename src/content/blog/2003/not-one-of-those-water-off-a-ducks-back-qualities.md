@@ -8,7 +8,7 @@ authors:
 pubDate: 2003-08-28T07:46:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 There are those things [ that you can shake off](http://moofie.lastcoolnameleft.com/modules.php?name=News&file=article&sid=63), given enough time and perseverance.  They're usually things pertaining to your ego, identity or self-esteem.  However, there are things that you hear or see that stay with you.  Things that you keep replaying in your mind in such a way that it does nothing to invoke a deep sense of helplessness upon you.
 

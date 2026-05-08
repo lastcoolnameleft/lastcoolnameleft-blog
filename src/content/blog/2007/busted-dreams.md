@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-05-01T22:34:47.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - travel
+  - personal
 ---
 I love Legos.  I've never stopped loving Legos.  On the hypothetical deserted island, I'd have a crate full of Legos.  In fact, it's pretty disappointing for me that on this trip yet, I haven't been to LegoLand yet.  But this story isn't about Legos.  It's about how playing with Legos all the time inspired me to grow up into an Architect.  But with one careful sentence, that dream bubble was popped as I was told, "You need to know how to draw."
 

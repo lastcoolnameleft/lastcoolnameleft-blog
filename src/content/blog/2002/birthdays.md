@@ -8,7 +8,8 @@ authors:
 pubDate: 2002-03-10T02:14:02.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 Birthdays. 
 You get one once a year.  And after a while, you get numb to them, and I've

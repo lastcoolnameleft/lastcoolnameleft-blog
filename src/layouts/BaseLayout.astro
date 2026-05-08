@@ -3,8 +3,8 @@ import "../styles/global.css";
 
 import { Font } from "astro:assets";
 import { SITE_SETTINGS } from "../site.config";
+import { url } from "../utils/url-utils";
 
-import TurnstileController from "../components/integrations/turnstile/TurnstileController.astro";
 import SkipLinkBtn from "../components/ui/SkipLinkBtn.astro";
 import ScrollToTop from "../components/ui/ScrollToTop.astro";
 import Header from "../components/layouts/Header.astro";
@@ -24,12 +24,12 @@ const {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
-<html lang="en" class="scroll-smooth">
+<html lang="en" class="scroll-smooth dark">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-        <link rel="alternate icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/svg+xml" href={url("/favicon.svg")} />
+        <link rel="alternate icon" type="image/x-icon" href={url("/favicon.ico")} />
         <meta name="generator" content={Astro.generator} />
 
         <Font cssVariable="--font-inter" />
@@ -75,21 +75,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
         <script is:inline>
             try {
                 const stored = localStorage.getItem("theme");
-                const prefersDark = window.matchMedia(
-                    "(prefers-color-scheme: dark)",
-                ).matches;
-                const isDark = stored ? stored === "dark" : prefersDark;
+                const isDark = stored ? stored === "dark" : true;
                 document.documentElement.classList.toggle("dark", isDark);
             } catch {}
         </script>
-
-        <TurnstileController />
-
-        <script
-            src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&onload=onTurnstileAPILoad"
-            defer
-            referrerpolicy="origin"
-            crossorigin="anonymous"></script>
 
         <script src="../utils/overlay.ts"></script>
 
@@ -97,7 +86,7 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </head>
 
     <body
-        class="bg-white text-neutral-950 dark:bg-neutral-900 dark:text-neutral-50"
+        class="bg-[var(--page-bg)] text-[var(--text-main)]"
     >
         <SkipLinkBtn />
 

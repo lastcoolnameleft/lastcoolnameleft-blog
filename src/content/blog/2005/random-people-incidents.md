@@ -8,7 +8,8 @@ authors:
 pubDate: 2005-11-24T08:25:38.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 Tis the season, yo.  It's time where we all get jollified and make conversations with strangers.  In the past 24 hours, I've had two that just made my day:
 

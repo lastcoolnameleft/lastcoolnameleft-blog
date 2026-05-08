@@ -8,6 +8,6 @@ authors:
 pubDate: 2002-02-15T02:09:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Much Love, everyone...much love.

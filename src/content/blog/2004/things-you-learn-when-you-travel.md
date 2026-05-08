@@ -8,7 +8,8 @@ authors:
 pubDate: 2004-12-21T06:28:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Blurting out "Speaking of Jesus" is quite an effective way to transistion between two completely unrelated subjects.
 If ever there is a [position ](http://www.ebaumsworld.com/bangbangbang.shtml) which seems impossible, but amusing, I will always [enlist my friends](http://www.lastcoolnameleft.com/modules.php?set_albumName=album99&id=Picture_070&op=modload&name=gallery&file=index&include=view_photo.php) to help me try it out.

@@ -8,7 +8,9 @@ authors:
 pubDate: 2004-10-05T08:38:11.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - dance
+  - personal
 ---
 Long time...no post.  Yeah.  I know.  This is me being concerned.
 

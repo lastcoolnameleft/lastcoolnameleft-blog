@@ -8,7 +8,8 @@ authors:
 pubDate: 2004-01-13T07:49:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Last year, I resolved to: "Not make any New Years Resolutions."  I'm not sure if I either totally succeeded, or completely failed.  So, this year, I decided to put some effort into this.  About 2 minutes later, I sneezed and the feeling went away.
 

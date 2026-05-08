@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-05-05T15:41:50.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 As they say, breaking up is hard to do.  But one thing that's worse than losing your significant other is losing your significant other in Paris.  Thankfully, after checking my email at the airport and getting the correct airline, and therefore the correct Terminal, I found a very relived Kathy and all was well.
 

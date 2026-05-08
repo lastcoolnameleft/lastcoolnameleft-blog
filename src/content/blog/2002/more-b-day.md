@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-03-25T02:19:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - humor
+  - personal
 ---
 I don't have a really smashing opening for this entry, so I'll just say this.  I had an AMAZING time for my birth-weekend.  It started out with a pub crawl down in Deep Ellum.
 

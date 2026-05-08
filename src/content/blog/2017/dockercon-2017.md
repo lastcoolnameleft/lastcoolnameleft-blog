@@ -8,7 +8,9 @@ authors:
 pubDate: 2017-04-20T19:41:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - containers
+  - events
 ---
 After hearing about it for years, I was fortunate enough to attend [DockerCon](http://2017.dockercon.com/) this time around.  Since joining Microsoft as a Open Source Technical Evangelist, 80% of my job is either learning or teaching.  This was my first OSS conference since joining Microsoft, and I was eager to share with others my experiences.
 

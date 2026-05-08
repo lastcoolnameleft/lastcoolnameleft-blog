@@ -8,7 +8,7 @@ authors:
 pubDate: 2004-12-27T07:05:58.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 I questioned whether I should go home to Cut Off this year.  I'm allergic to my hometown (all the mold and mildew of the swamps).  I don't keep in touch with anyone back there (I was a social outcast back in high school).  However, the family wants me.  So, I'm there babye.
 

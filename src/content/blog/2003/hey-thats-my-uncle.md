@@ -8,7 +8,8 @@ authors:
 pubDate: 2003-09-20T20:50:48.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 [http://www.msnbc.com/news/967824.asp?0cl=c3&cp1=1](http://www.msnbc.com/news/967824.asp?0cl=c3&cp1=1)
 

@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-10-03T01:26:05.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - humor
+  - personal
 ---
 Every
 now and then a dream pops into the mind.  Usually, the dream is killed off

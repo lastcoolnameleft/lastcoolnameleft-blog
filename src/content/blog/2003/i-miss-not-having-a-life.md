@@ -8,7 +8,7 @@ authors:
 pubDate: 2003-12-16T04:44:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 So many great games out there.  So little time to play.  [Lee](http://moofie.lastcoolnameleft.com) tells me about [Star Wars: Knights of the Old Republic](http://www.lucasarts.com/products/swkotor/) and how great it is, how I should play it; however, I'm pretty sure that I'll never finish it.
 

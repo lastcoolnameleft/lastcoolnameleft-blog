@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-10-31T07:27:12.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - presentations
+  - dance
+  - personal
 ---
 They make movies about people fighting for what they believe in.  There's usually some battle anthem with an emotional score and actors playing out well defined parts.  Maybe someone dies or suffers a personal injury.  And you often to get watch it from the comfort of your home and feel inspired to do something...anything.  And have that thing be something that brings out a new beginning.
 

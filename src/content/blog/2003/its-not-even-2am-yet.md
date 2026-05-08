@@ -8,7 +8,7 @@ authors:
 pubDate: 2003-08-22T08:36:51.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Ok, I'm upset.  Pissed.  Fuming.  Raging.  Why you ask?
 

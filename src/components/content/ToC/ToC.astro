@@ -18,19 +18,19 @@ if (toc.length === 0) return null;
 <toc-sidebar>
     <aside
         id="toc-sidebar"
-        class="fixed top-16 right-0 z-50 h-[calc(100vh-4rem)] w-full max-w-xs translate-x-full overflow-y-auto bg-white p-8 shadow-xl transition-transform duration-300 ease-in-out sm:w-80 lg:w-96 dark:bg-neutral-800"
+        class="fixed top-16 right-0 z-50 h-[calc(100vh-4rem)] w-full max-w-xs translate-x-full overflow-y-auto border-l border-[var(--surface-border)] bg-[var(--surface)] p-8 shadow-xl transition-transform duration-300 ease-in-out sm:w-80 lg:w-96"
     >
         <nav id="toc">
             <div class="mb-4 flex items-center justify-between">
                 <h2
-                    class="text-lg font-semibold tracking-wider text-neutral-900 uppercase dark:text-white"
+                    class="text-lg font-semibold tracking-wider text-[var(--text-main)] uppercase"
                 >
                     On this page
                 </h2>
                 <button
                     id="close-toc-button"
                     aria-label="Close table of contents"
-                    class="relative inline-block cursor-pointer rounded-full text-neutral-600 transition duration-250 ease-out before:absolute before:-inset-x-1.75 before:-inset-y-2.5 before:content-[''] hover:text-blue-500 active:scale-95 dark:text-neutral-400 dark:hover:text-yellow-400"
+                    class="relative inline-block cursor-pointer rounded-full text-[var(--text-muted)] transition duration-250 ease-out before:absolute before:-inset-x-1.75 before:-inset-y-2.5 before:content-[''] hover:text-[var(--accent)] active:scale-95"
                 >
                     <Icon name="lucide:x" class="size-6" />
                 </button>

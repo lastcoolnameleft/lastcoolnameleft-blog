@@ -8,7 +8,7 @@ authors:
 pubDate: 2007-07-09T14:25:05.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Today, I start my new job at Yahoo!
 

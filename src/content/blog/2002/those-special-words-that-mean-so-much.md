@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-10-30T09:57:28.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - projects
+  - travel
+  - events
 ---
 In this society of uncertainty and [insecurity of ones future](http://www.stanford.edu/dept/helpcenter/Orgchange.html), there are always those little things that managers can say to you that have you realize that they're not going to lay you off anytime soon.  Today, I heard those special words...
 

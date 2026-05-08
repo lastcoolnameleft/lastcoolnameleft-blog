@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-09-22T22:40:45.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 [![](/images/2007/170818064_4dcbcda97e_m.jpg)](http://www.flickr.com/photos/davidbanks/170818064/)
 

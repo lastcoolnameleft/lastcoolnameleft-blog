@@ -8,7 +8,9 @@ authors:
 pubDate: 2017-07-23T21:25:46.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - azure
+  - humor
 ---
 Like most children of the 80's, I loved playing with LEGO.  By mixing and matching bricks, you could physically manifest your imagination.  
 

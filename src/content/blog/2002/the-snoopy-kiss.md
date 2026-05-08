@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-07-22T02:25:14.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 Ever
 had one of those days where everything went your way?  Where you were on

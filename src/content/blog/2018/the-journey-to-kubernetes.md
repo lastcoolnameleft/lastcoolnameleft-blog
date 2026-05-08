@@ -8,7 +8,9 @@ authors:
 pubDate: 2018-07-25T18:45:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - kubernetes
+  - containers
 ---
 I created this article with the intent of explaining the migration journey from deploying a legacy application with manual steps to an automated [Kubernetes](https://kubernetes.io/) deployment with proper DevOps practices.  Its intent is not to help you understand Kubernetes deeper ([thereâ€™s an abundance of materials out there already](https://www.katacoda.com/)).
 

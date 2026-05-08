@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-04-06T03:48:35.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - humor
 ---
 I arrived in Glasgow (Still in Scotland) after finding a hostel w/ wireless Internet (Yea modern world!).
 

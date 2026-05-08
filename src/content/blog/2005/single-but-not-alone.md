@@ -8,7 +8,9 @@ authors:
 pubDate: 2005-03-24T01:13:43.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 After going through enough 100+ people parties, there comes a time where one realizes that there is a core group of people who are not just your party buddies, but people who you can really depend on.  Those are the people I wanted around me for my St. Patrick's B-day.
 

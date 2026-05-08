@@ -8,7 +8,9 @@ authors:
 pubDate: 2007-04-05T07:09:33.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - personal
 ---
 I've barely been here a week and already so much has happened.  Good lord, this is not a boring adventure.  (I never took a shower until the 5th day.)
 

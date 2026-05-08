@@ -8,7 +8,8 @@ authors:
 pubDate: 2005-08-11T19:04:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 [![](/images/2005/33170787_b41933e365_m.jpg)](http://www.flickr.com/photos/snoopykiss/33170787/)
 

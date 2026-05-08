@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-10-06T08:24:12.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 At one of my last parties, I realized
 that I had thrown enough parties designed to get wild and meet lots

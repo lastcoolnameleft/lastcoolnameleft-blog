@@ -8,7 +8,8 @@ authors:
 pubDate: 2005-02-06T09:36:19.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 Have I stressed enough how much I love my friends?  My very diverse set of friends.  Well, at least as diverse one can be while living in a city pretty much comprised of computer geeks?
 

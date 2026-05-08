@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-03-17T01:04:26.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Session Start (discostu_2000@hotmail.com:Leigh): Wed Mar 16 14:58:21 2005
 Leigh: "I put my hand up on your hip and when I dip you dip we dip"

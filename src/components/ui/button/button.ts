@@ -7,9 +7,9 @@ export const button = cva(
     variants: {
       intent: {
         primary:
-          "bg-blue-600 text-white shadow-sm hover:bg-blue-500 focus-visible:outline-blue-600 active:bg-blue-500 dark:bg-yellow-400 dark:text-black dark:shadow-[0_0_18px_-6px_rgba(251,191,36,0.12),0_0_42px_-4px_rgba(251,191,36,0.12)] dark:hover:bg-yellow-300 dark:focus-visible:outline-yellow-400 dark:active:bg-yellow-300",
+          "bg-[var(--accent)] text-[var(--surface)] shadow-sm hover:bg-[var(--accent-strong)] focus-visible:outline-[var(--focus-ring)] active:bg-[var(--accent-strong)]",
         secondary:
-          "border border-blue-600 bg-transparent text-blue-600 hover:bg-blue-50 dark:border-yellow-400 dark:text-yellow-400 dark:hover:bg-yellow-400/10",
+          "border border-[var(--accent)] bg-transparent text-[var(--accent)] hover:bg-[var(--accent-soft)]",
         unstyled: "",
       },
     },

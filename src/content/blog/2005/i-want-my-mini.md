@@ -8,7 +8,7 @@ authors:
 pubDate: 2005-04-08T23:14:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 My finances can be best described as:  Feast or Famine.
 

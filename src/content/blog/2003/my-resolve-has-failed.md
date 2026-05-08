@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-11-09T21:31:23.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - humor
 ---
 On many different levels.
 

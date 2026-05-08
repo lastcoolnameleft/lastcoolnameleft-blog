@@ -8,7 +8,9 @@ authors:
 pubDate: 2022-03-11T18:44:47.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - engineering
+  - azure
+  - kubernetes
 ---
 This walkthrough shows how to setup a Private Link Service with an AKS cluster and create a Private Endpoint in a separate Vnet.
 

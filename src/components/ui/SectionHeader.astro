@@ -10,9 +10,9 @@ const { title, href, viewAllText = "View all &rarr;" } = Astro.props;
 ---
 
 <div class="mb-12 flex items-center justify-between">
-    <h2 class="text-3xl font-bold">{title}</h2>
+    <h2 class="text-3xl font-bold text-[var(--text-main)]">{title}</h2>
 
-    <Link variant="hover-reveal" {href}>
+    <Link variant="hover-reveal" {href} class="font-semibold">
         {viewAllText}
     </Link>
 </div>

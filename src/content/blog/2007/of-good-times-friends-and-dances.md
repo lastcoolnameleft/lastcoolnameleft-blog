@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-07-01T20:33:37.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Rollercoaster rides happen all the time in life.  I've gotten to the point where I can see mine coming, so I have some time to either tense up, or throw my hands up in the air and go Wheeeeeeee!!!!
 

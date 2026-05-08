@@ -8,7 +8,7 @@ authors:
 pubDate: 2009-02-12T05:37:06.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Yesterday, I did something I do only about 2-3 times a year, but would like to do more.  I lead a Tech Talk which went very well.  
 

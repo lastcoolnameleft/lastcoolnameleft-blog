@@ -8,7 +8,7 @@ authors:
 pubDate: 2008-09-05T19:02:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 I truly have some of the most amazing friends.  I don't know really know what I would have done without them.
 

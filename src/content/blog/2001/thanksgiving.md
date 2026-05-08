@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-11-23T01:59:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 As
 the previous entries describe, last weekend, I spent it in Interlaken (which

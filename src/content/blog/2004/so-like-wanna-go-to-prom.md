@@ -8,7 +8,8 @@ authors:
 pubDate: 2004-06-22T09:19:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - personal
 ---
 High school.  4 tortureous years, drenched in loneliness, angst and depression.  Something I never wish to repeat.  Amidst the teenage awkwardness, there's supposed to be a night of freedom, a time of youthful revelry.  This so-called Prom.
 

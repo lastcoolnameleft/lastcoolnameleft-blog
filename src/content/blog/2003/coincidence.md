@@ -8,7 +8,8 @@ authors:
 pubDate: 2003-04-09T07:19:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 WARNING:  This post links to some pretty graphic stuff.  Don't say I didn't warn you.
 

@@ -8,7 +8,8 @@ authors:
 pubDate: 2002-10-25T07:33:32.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 A good friend of mine, Amanda, and I heard of a really interesting idea.  It's called a Leftover Party.  The name's not too appealing, but the idea is definitely curious enough to have me throw one.
 

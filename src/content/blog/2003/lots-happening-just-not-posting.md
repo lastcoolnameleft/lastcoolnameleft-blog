@@ -8,7 +8,7 @@ authors:
 pubDate: 2003-03-28T07:52:06.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Bonsoir tout la monde,
 

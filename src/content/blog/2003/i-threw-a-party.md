@@ -8,7 +8,8 @@ authors:
 pubDate: 2003-12-22T09:18:53.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 Wacky antics ensued.
 

@@ -1,15 +1,14 @@
 ---
 draft: false
 title: Terms of Service
-description: Read the terms and conditions for using Daniel Adrian's website and services.
+description: Read the terms and conditions for using Tommy Falgout's website and services.
 lastUpdated: 2025-08-01T03:20:00.000Z
 ogImage:
-  src: >-
-    https://res.cloudinary.com/dellp9a4z/image/upload/v1756758388/og-terms-of-service_l6gfoa.png
+  src: og/terms-of-service-tommy.svg
   alt: >-
     The graphic has a two-column layout on a light blue, gridded background. On
-    the left, it displays a profile picture of a man with the text "Daniel
-    Adrian's SPACE" below. The right side features the large heading "Terms of
+    the left, it displays a profile badge with the text "Tommy Falgout's
+    SPACE" below. The right side features the large heading "Terms of
     Service" and a brief description inviting users to read the terms and
     conditions for using the website and its services.
 ---

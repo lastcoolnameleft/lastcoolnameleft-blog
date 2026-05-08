@@ -8,7 +8,7 @@ authors:
 pubDate: 2002-03-30T02:20:45.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Sometimes,
 I wish that this "journal" wasn't online for everyone to see.  And I also

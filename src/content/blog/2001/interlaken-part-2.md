@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-12-04T02:06:11.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 NOTE: 
 Pictures are not up yet.  Check back in a few days.  That's also why the

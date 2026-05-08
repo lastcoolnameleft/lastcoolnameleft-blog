@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-05-17T15:43:38.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 When you go outside your routine, you often expect to see new ways of doing things.  However, when you embark on a journey to completely remove yourself from everything you've grown accustomed to, you learn that the standards which you've held to and which you have been held to, are just part of your environment.
 

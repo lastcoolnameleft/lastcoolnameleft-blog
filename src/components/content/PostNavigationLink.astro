@@ -1,5 +1,6 @@
 ---
 import type { ContentEntry } from "../../types";
+import { url } from "../../utils/url-utils";
 
 interface Props {
     direction: "previous" | "next";
@@ -10,10 +11,10 @@ const { direction, post } = Astro.props;
 ---
 
 <a
-    href={`/${post.collection}/${post.id}`}
-    class="group flex flex-col rounded-lg border border-neutral-200 p-6 transition duration-250 hover:border-blue-500 active:scale-95 dark:border-neutral-700 dark:hover:border-yellow-400"
+    href={url(`/${post.collection}/${post.id}`)}
+    class="group flex flex-col rounded-lg border border-[var(--surface-border)] p-6 transition duration-250 hover:border-[var(--accent)] active:scale-95"
 >
-    <span class="mb-2 text-sm text-gray-700 dark:text-gray-300">
+    <span class="mb-2 text-sm text-[var(--text-muted)]">
         {
             direction === "previous"
                 ? `← Previous ${post.collection}`
@@ -21,7 +22,7 @@ const { direction, post } = Astro.props;
         }
     </span>
     <span
-        class="text-lg font-medium transition-colors duration-250 group-hover:text-blue-500 dark:group-hover:text-yellow-400"
+        class="text-lg font-medium transition-colors duration-250 group-hover:text-[var(--accent)]"
     >
         {post.data.title}
     </span>

@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-11-03T12:17:58.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - humor
+  - personal
 ---
 [](http://http://www.lastcoolnameleft.com/modules/gallery/album08/P1010002)[](http://www.lastcoolnameleft.com/modules/gallery/album08/P1010034)I'll write about the amazing Halloween event later, but I've gotta get the Studio 54 party out on paper (be it electronic, or whatnot) while it's still fresh in my head.
 

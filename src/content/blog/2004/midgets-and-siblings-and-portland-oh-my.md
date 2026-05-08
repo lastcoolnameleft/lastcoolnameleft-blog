@@ -8,7 +8,8 @@ authors:
 pubDate: 2004-08-19T21:07:36.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Pop:  Portland.
 

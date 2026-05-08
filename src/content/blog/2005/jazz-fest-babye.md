@@ -8,7 +8,9 @@ authors:
 pubDate: 2005-04-28T04:57:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - humor
+  - personal
 ---
 [![](/images/2005/10809578_af623e2984_m.jpg)](http://www.flickr.com/photos/snoopykiss/10809578/)
 

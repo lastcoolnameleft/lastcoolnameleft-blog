@@ -8,8 +8,9 @@ authors:
 pubDate: 2020-02-26T21:41:56.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
-  - project
+  - engineering
+  - projects
+  - travel
 image:
   src: /images/2020/gphoto-e53c3bf086.jpg
   alt: "LED Lanyard"

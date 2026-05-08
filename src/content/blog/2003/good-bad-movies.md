@@ -8,7 +8,7 @@ authors:
 pubDate: 2003-01-04T23:06:09.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 [](http://www.dotvsdot.co.uk/vs/0/741.html)One of the traits I feel I'm blessed with is the ability to laugh as most any situation.  This comes especially in handy with bad movies.  I'm not talking about Bad Movies like, "[Waterworld](http://www.mca.com/unicity/waterworld/)" or "[Toys](http://www.mrcranky.com/movies/jakobtheliar/4.html)", but BADDDDD MOVIES like, "[Jack Frost 2:  Revent of the Mutant Killer Snowman](http://www.stomptokyo.com/movies/j/jack-frost-2.html)", "[Tromeo and Julliet](http://www.troma.com/movies2/tromeoandjuliet/content.html)", or "[Jason X](http://www.jasonx.com/)".  The "straight to video" movies.
 

@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-09-30T21:21:00.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - presentations
+  - dance
+  - events
 ---
 Apparently, it was that time of the month for me.  I was a bit late; however, that was ok; because I was able to resolve some personal issues since the last time.  And once it happened, it was a big relief for me.  I was starting to get really worried.
 

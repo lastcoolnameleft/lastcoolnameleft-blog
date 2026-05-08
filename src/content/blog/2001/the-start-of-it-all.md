@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-08-12T01:24:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 So,
 This is the beginning of it all.  Soon, there will be discussions about the

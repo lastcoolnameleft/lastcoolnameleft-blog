@@ -1,6 +1,5 @@
 ---
 import { actions } from "astro:actions";
-import TurnstileWidget from "../integrations/turnstile/TurnstileWidget.astro";
 import Button from "../ui/button/Button.astro";
 import { InputField, ResponseMessage } from "../ui/form";
 import Link from "../ui/link/Link.astro";
@@ -11,7 +10,6 @@ interface Props {
     showLegal?: boolean;
     showResult?: boolean;
     class?: string;
-    turnstileClass?: string;
     result?: { data?: any; error?: { code?: string; message?: string } };
 }
 
@@ -20,7 +18,6 @@ const {
     showLegal = false,
     showResult = false,
     class: cls,
-    turnstileClass,
     result,
 } = Astro.props;
 
@@ -44,7 +41,6 @@ const row =
         ) : (
             <form
                 method="POST"
-                data-requires-turnstile
                 data-newsletter-form
                 {...(showResult
                     ? { action: actions.newsletterSubscribe }
@@ -75,15 +71,10 @@ const row =
                         autocapitalize="off"
                         spellcheck="false"
                     />
-                    <Button type="submit" data-newsletter-btn disabled>
+                    <Button type="submit" data-newsletter-btn>
                         Subscribe
                     </Button>
                 </div>
-
-                <TurnstileWidget
-                    action="newsletter"
-                    class={cn("mt-4", turnstileClass)}
-                />
 
                 {!showResult && (
                     <p

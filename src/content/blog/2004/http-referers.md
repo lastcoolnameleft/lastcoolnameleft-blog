@@ -8,7 +8,7 @@ authors:
 pubDate: 2004-08-20T11:34:42.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 Aside from finding out how much traffic I actually get on this side, one of my favorite things to do is see how people discover this site.  This is done by HTTP Referer logs, which I keep.
 

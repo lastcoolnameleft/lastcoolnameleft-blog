@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-08-12T23:04:44.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 As some might have noticed, my site has been down for a while.  This seems to happen right after exchanges.  Which is, of course, the worst time for it to go down since I'm ready to start posting pics ASAP for all to see.  Hopefully, I will have the Seattle Exchange pics up by tonight for your viewing pleasure.
 

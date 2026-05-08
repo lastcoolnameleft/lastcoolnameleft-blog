@@ -5,6 +5,7 @@ import FeaturedTag from "./FeaturedTag.astro";
 import FormattedDate from "./FormattedDate.astro";
 import Series from "./Series.astro";
 import Tags from "./Tags.astro";
+import { url } from "../../utils/url-utils";
 
 interface Props {
     entry: WithMeta<ContentEntry>;
@@ -24,14 +25,16 @@ const {
     tags,
 } = data;
 const { readingTimeText } = meta || {};
+const hasImage = Boolean(image);
+const noImageTeaser = meta?.plainText?.trim() || description;
 
 const displayDate = updatedDate ?? pubDate;
 ---
 
-<article class="group relative flex flex-col">
+<article class="group relative flex h-full flex-col rounded-xl border border-[var(--surface-border)] bg-[var(--surface-muted)] p-3 shadow-[0_10px_24px_-20px_rgba(0,0,0,0.5)]">
     {featured && <FeaturedTag class="absolute top-1 left-1 z-10" />}
 
-    {image ? (
+    {image && (
         <OptimizedImage
             src={image.src}
             alt={image.alt}
@@ -42,30 +45,35 @@ const displayDate = updatedDate ?? pubDate;
             wrapperClass="mb-4 aspect-video rounded-lg"
             imageClass="transition duration-250 ease-out group-hover:scale-105 group-active:scale-105"
         />
-    ) : (
-        <div class="mb-4 aspect-video rounded-lg bg-gray-100 dark:bg-gray-800" />
     )}
 
     <h3
-        class="mb-2 line-clamp-2 text-xl font-semibold transition-colors duration-250 ease-out group-hover:text-blue-500 group-active:text-blue-500 dark:group-hover:text-yellow-400 dark:group-active:text-yellow-400"
+        class:list={[
+            "mb-2 text-xl font-semibold transition-colors duration-250 ease-out group-hover:text-[var(--accent)] group-active:text-[var(--accent)]",
+            hasImage && "line-clamp-2",
+        ]}
     >
         <a
-            href={`/${collection}/${id}`}
+            href={url(`/${collection}/${id}`)}
             class="after:absolute after:inset-0 after:content-['']"
         >
             {title}
         </a>
     </h3>
-    <p class="line-clamp-3 text-gray-700 dark:text-gray-300">
-        {description}
-    </p>
+    {
+        hasImage ? (
+            <p class="line-clamp-3 text-[var(--text-muted)]">{description}</p>
+        ) : (
+            <p class="line-clamp-10 text-[var(--text-muted)]">{noImageTeaser}</p>
+        )
+    }
 
     <div class="mt-3.5 flex flex-col items-start gap-y-4">
         {series && <Series {series} class="relative z-10" />}
         {tags.length > 0 && <Tags {tags} class="relative z-10" />}
 
         <div
-            class="flex items-center gap-x-2 text-sm text-gray-700 dark:text-gray-300"
+            class="flex items-center gap-x-2 text-sm text-[var(--text-muted)]"
         >
             <FormattedDate date={displayDate} />
             {

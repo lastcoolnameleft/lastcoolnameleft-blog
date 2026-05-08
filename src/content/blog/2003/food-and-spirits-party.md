@@ -8,7 +8,9 @@ authors:
 pubDate: 2003-02-25T08:53:24.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - humor
 ---
 Being from Louisiana, food is a major topic of conversation with me and my friends, and I constantly hear, "You know, I make the best " Well, I gave those people a chance to put their food where their mouths are.  Or someone else's mouth to their food...anyway, you get the picture.  Plus, I made it into a contest with prizes!
 

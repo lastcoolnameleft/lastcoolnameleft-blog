@@ -13,7 +13,7 @@ const { tags, class: cls = "" } = Astro.props;
     {
         tags.map((tag) => (
             // href={`/search?tags=${encodeURIComponent(tag)}`}
-            <span class="rounded-md bg-neutral-200 px-2 py-1 text-sm text-neutral-950 dark:bg-neutral-700 dark:text-neutral-50">
+            <span class="rounded-md border border-[var(--surface-border)] bg-[var(--surface)] px-2 py-1 text-sm text-[var(--text-main)]">
                 {tag}
             </span>
         ))

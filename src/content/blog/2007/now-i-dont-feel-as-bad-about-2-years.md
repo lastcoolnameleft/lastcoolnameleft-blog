@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-04-22T21:47:22.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - events
+  - personal
 ---
 In talking to the Sweed in my night sleeper, I found out some very interesting factoids about Swedish couplehood.  We talked for a while and he mentioned his wife.  And a bit later, he mentioned his girlfriend.  Ah ha!  So the Sweeds DO get to have it all.  The beautiful scenery, the beautiful women, and multiples of each!
 

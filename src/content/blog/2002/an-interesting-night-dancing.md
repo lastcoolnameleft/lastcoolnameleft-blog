@@ -8,7 +8,8 @@ authors:
 pubDate: 2002-12-06T09:23:18.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 As of yesterday, it had been way too long since I had been dancing.  And I was itching to change that.
 

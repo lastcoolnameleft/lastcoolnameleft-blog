@@ -8,7 +8,9 @@ authors:
 pubDate: 2004-03-16T21:18:30.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - events
+  - personal
 ---
 Yet another [weekend ](http://www.evite.com/pages/invite/viewInvite.jsp?event=WNFWSYKMWPXWEZMXAXRX&showResponse=null) proving that I have the coolest friends this side of the universe.
 

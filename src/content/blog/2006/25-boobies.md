@@ -8,7 +8,8 @@ authors:
 pubDate: 2006-02-21T05:34:06.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - humor
+  - personal
 ---
 [![](http://static.flickr.com/20/74025758_e4d055d783_m.jpg)](http://www.flickr.com/photos/malingering/74025758/)
 

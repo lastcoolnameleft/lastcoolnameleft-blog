@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-10-12T01:30:16.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - humor
 ---
 Hemang
 and I bought tickets for this weekend to go to the small villas in Italy.

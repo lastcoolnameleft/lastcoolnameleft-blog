@@ -3,10 +3,11 @@ import Link from "../ui/link/Link.astro";
 import ThemeIcon from "../ui/ThemeIcon.astro";
 import { header as headerNavLinks } from "../../site.config";
 import { Icon } from "astro-icon/components";
+import { url } from "../../utils/url-utils";
 ---
 
 <header
-    class="sticky top-0 z-60 border-b border-neutral-200 bg-white dark:border-neutral-700 dark:bg-neutral-900"
+    class="sticky top-0 z-60 border-b border-[var(--surface-border)] bg-[var(--surface)] backdrop-blur-sm"
 >
     <nav class="mx-auto max-w-350 px-4 sm:px-6 lg:px-8">
         <div class="flex h-16 items-center justify-between">
@@ -31,8 +32,8 @@ import { Icon } from "astro-icon/components";
             <!-- Right controls -->
             <div class="flex items-center gap-x-3 lg:gap-x-6">
                 <a
-                    href="/search"
-                    class="flex items-center rounded-lg p-2 transition-transform duration-250 ease-out active:scale-95 sm:bg-neutral-200 dark:sm:bg-neutral-600"
+                    href={url("/search")}
+                    class="flex items-center rounded-lg p-2 transition-transform duration-250 ease-out active:scale-95 sm:bg-[var(--surface-muted)]"
                     aria-label="Search"
                     data-astro-prefetch="hover"
                 >
@@ -42,7 +43,7 @@ import { Icon } from "astro-icon/components";
                     />
                     <span class="hidden pr-4 pl-2 sm:block">Search...</span>
                     <kbd
-                        class="hidden rounded-md bg-black px-2 py-0.5 text-neutral-50 sm:block dark:bg-white dark:text-neutral-950"
+                        class="hidden rounded-md bg-[var(--text-main)] px-2 py-0.5 text-[var(--surface)] sm:block"
                         >&#47;</kbd
                     >
                 </a>
@@ -52,7 +53,7 @@ import { Icon } from "astro-icon/components";
                 <!-- Mobile menu toggle  -->
                 <button
                     type="button"
-                    class="mobile-menu-button relative size-12 hover:text-blue-500 active:scale-95 active:text-blue-500 lg:hidden dark:hover:text-yellow-400 dark:active:text-yellow-400"
+                    class="mobile-menu-button relative size-12 hover:text-[var(--accent)] active:scale-95 active:text-[var(--accent)] lg:hidden"
                     aria-controls="mobile-menu"
                     aria-expanded="false"
                 >
@@ -70,7 +71,7 @@ import { Icon } from "astro-icon/components";
             data-state="closed"
         >
             <div
-                class="pointer-events-auto flex flex-col space-y-1 border-b border-neutral-200 bg-white px-2 pt-2 pb-3 lg:hidden dark:border-neutral-700 dark:bg-neutral-900"
+                class="pointer-events-auto flex flex-col space-y-1 border-b border-[var(--surface-border)] bg-[var(--surface)] px-2 pt-2 pb-3 lg:hidden"
             >
                 {
                     headerNavLinks.map((item) => (

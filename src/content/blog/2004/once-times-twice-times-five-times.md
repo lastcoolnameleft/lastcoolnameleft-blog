@@ -8,7 +8,7 @@ authors:
 pubDate: 2004-11-30T05:00:11.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - personal
 ---
 For the longest time, I waited for the world to change, so that I could be happier.  I knew that I wasn't happy where I was at, and my frustration was usually focused at external sources.  I overcame that mountain and now people know me as "The guy that never not smiles."  What a great place to be.
 

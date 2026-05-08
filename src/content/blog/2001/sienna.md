@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-10-17T01:34:07.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 This morning, I came back from my trip to Italy.
 

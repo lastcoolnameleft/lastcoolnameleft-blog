@@ -8,7 +8,8 @@ authors:
 pubDate: 2001-11-30T02:05:30.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 Today,
 miracles of miracles, M. Barney "I don't need to travel." Falgout landed

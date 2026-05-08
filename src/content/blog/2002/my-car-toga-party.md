@@ -8,7 +8,9 @@ authors:
 pubDate: 2002-08-26T02:28:55.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - events
+  - humor
 ---
 So many events...so little time that it happened in...I'll try to be as brief as possible, but good Gaud!...So much happened.
 

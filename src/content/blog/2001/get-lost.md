@@ -8,7 +8,9 @@ authors:
 pubDate: 2001-10-26T01:37:32.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - dance
+  - travel
+  - humor
 ---
 For those of you that just want the answer to this question without having to read the whole story, here it is:  GET LOST!
 

@@ -8,7 +8,8 @@ authors:
 pubDate: 2007-04-22T17:14:40.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
+  - travel
+  - personal
 ---
 After spending the night with my newfound Dutch friend, Henk, I learned how perfect Ikea fits into the European home.  Amsterdam is a beautiful and decadent city with sightseeing in the morning for the grey-hairs and enough sex toys and shops to make my mom blush.  Not that it would take much.
 

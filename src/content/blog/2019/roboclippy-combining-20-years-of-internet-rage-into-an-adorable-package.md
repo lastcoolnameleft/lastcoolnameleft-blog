@@ -8,8 +8,9 @@ authors:
 pubDate: 2019-04-04T20:34:34.000Z
 license: cc-by-nc-sa-4-0
 tags:
-  - life
-  - project
+  - engineering
+  - azure
+  - presentations
 image:
   src: /images/2019/gphoto-e4fb4ed657.jpg
   alt: "RoboClippy"
