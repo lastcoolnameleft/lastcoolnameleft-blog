@@ -2,8 +2,7 @@ export const SITE_SETTINGS = {
   title: "LASTCOOLNAMELEFT",
   description: "Journaling of an overly curious maker",
   owner: "Tommy Falgout",
-  ogImages:
-    "https://res.cloudinary.com/dellp9a4z/image/upload/v1756758385/og-home_ejuqq8.png",
+  ogImages: "/images/social/og-home-v2.png",
   socials: [
     {
       icon: "github",
