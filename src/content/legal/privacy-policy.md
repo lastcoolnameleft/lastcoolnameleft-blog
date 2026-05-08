@@ -18,17 +18,11 @@ used when you interact with this site.
 
 ## Contact Form
 
-When you use the contact form, your name, email address, and message are sent directly to me so that I can respond. This information is not stored on the site after the message is delivered.
+When you use the contact form, your name, email address, and message are processed by Formspree and forwarded to me so that I can respond. This information is not stored on the site after the message is delivered.
 
 ## Emails
 
-Transactional emails, such as confirmations or replies, are sent using Resend. Your email address is processed only to deliver these messages. I may also reply from my personal email account, but your information is not shared with any other party.
-
-## Newsletter
-
-If you subscribe to the newsletter, your email address is collected by ConvertKit. It is
-used only to send you updates and is handled according to their privacy policy. You can
-unsubscribe at any time.
+I may reply from my personal email account after receiving your contact request. Your information is used only to communicate with you about your message and is not shared with any other party except service providers needed to deliver the form and email functionality.
 
 ## Real User Measurements
 

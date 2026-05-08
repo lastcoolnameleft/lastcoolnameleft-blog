@@ -58,10 +58,6 @@ export const header = [
     name: "Contact",
     url: "/contact",
   },
-  {
-    name: "Newsletter",
-    url: "/newsletter",
-  },
 ];
 
 export const footer = [
@@ -92,10 +88,6 @@ export const footer = [
       {
         name: "Contact",
         url: "/contact",
-      },
-      {
-        name: "Newsletter",
-        url: "/newsletter",
       },
       {
         name: "RSS",

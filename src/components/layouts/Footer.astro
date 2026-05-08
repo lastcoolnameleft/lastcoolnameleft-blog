@@ -1,6 +1,4 @@
 ---
-import NewsletterForm from "../forms/NewsletterForm.astro";
-import BuyMeACoffee from "../integrations/BuyMeACoffee.astro";
 import Link from "../ui/link/Link.astro";
 import SocialLinks from "../ui/SocialLinks.astro";
 import {
@@ -19,30 +17,8 @@ const currentYear = new Date().getFullYear();
             <div
                 class="flex flex-wrap gap-x-12 gap-y-10 sm:flex-row sm:items-start sm:justify-between lg:flex-nowrap"
             >
-                <!-- Newsletter -->
-                <div
-                    class="order-1 basis-full lg:order-3 lg:flex-none lg:shrink-0 lg:basis-82"
-                >
-                    <div>
-                        <h3
-                            class="text-sm font-semibold tracking-wider uppercase"
-                        >
-                            Stay Updated
-                        </h3>
-                        <p
-                            class="mt-4 text-sm text-[var(--text-muted)]"
-                        >
-                            Subscribe to my newsletter for latest updates.
-                        </p>
-                        <div class="mt-4">
-                            <NewsletterForm />
-                        </div>
-                    </div>
-
-                </div>
-
                 <!-- Brand -->
-                <div class="order-2 max-w-2xs space-y-4 lg:order-1">
+                <div class="order-1 max-w-2xs space-y-4 lg:order-1">
                     <h2 class="text-lg font-semibold">
                         {site.title}
                     </h2>
@@ -56,7 +32,7 @@ const currentYear = new Date().getFullYear();
                 <!-- Footer Link Sections -->
                 {
                     footerLinkSections.map((section) => (
-                        <div class="order-3 flex-1 basis-0 lg:order-2 lg:flex-none lg:basis-auto">
+                        <div class="order-2 flex-1 basis-0 lg:order-2 lg:flex-none lg:basis-auto">
                             <h3 class="text-sm font-semibold tracking-wider uppercase">
                                 {section.title}
                             </h3>
