@@ -2,7 +2,7 @@ export const SITE_SETTINGS = {
   title: "LASTCOOLNAMELEFT",
   description: "Journaling of an overly curious maker",
   owner: "Tommy Falgout",
-  ogImages: "/images/social/og-home-v2.png",
+  ogImages: "/images/social/og-home-v2.png?v=20260508",
   socials: [
     {
       icon: "github",
