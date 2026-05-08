@@ -11,120 +11,112 @@ import Header from "../components/layouts/Header.astro";
 import Footer from "../components/layouts/Footer.astro";
 
 interface Props {
-    title: string;
-    description?: string;
-    ogImage?: string;
+  title: string;
+  description?: string;
+  ogImage?: string;
 }
 
 const {
-    title = SITE_SETTINGS.title,
-    description = SITE_SETTINGS.description,
-    ogImage = SITE_SETTINGS.ogImages,
+  title = SITE_SETTINGS.title,
+  description = SITE_SETTINGS.description,
+  ogImage = SITE_SETTINGS.ogImages,
 } = Astro.props;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageHref = ogImage
-    ? /^https?:\/\//.test(ogImage)
-        ? new URL(ogImage, Astro.url)
-        : new URL(url(ogImage), Astro.url)
-    : null;
+  ? /^https?:\/\//.test(ogImage)
+    ? new URL(ogImage, Astro.url)
+    : new URL(url(ogImage), Astro.url)
+  : null;
 ---
 
 <html lang="en" class="scroll-smooth dark">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="icon" type="image/svg+xml" href={url("/favicon.svg")} />
-        <link rel="alternate icon" type="image/x-icon" href={url("/favicon.ico")} />
-        <meta name="generator" content={Astro.generator} />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href={url("/favicon.svg")} />
+    <link rel="alternate icon" type="image/x-icon" href={url("/favicon.ico")} />
+    <meta name="generator" content={Astro.generator} />
 
-        <Font cssVariable="--font-inter" />
-        <Font cssVariable="--font-jet-brains-mono" />
+    <Font cssVariable="--font-inter" />
+    <Font cssVariable="--font-jet-brains-mono" />
 
-        <title>{title}</title>
-        <meta name="description" content={description} />
-        <link rel="canonical" href={canonicalURL} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalURL} />
 
-        <meta property="og:title" content={title} />
-        <meta property="og:description" content={description} />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content={canonicalURL} />
-        <meta property="og:site_name" content={SITE_SETTINGS.title} />
-        {
-            ogImageHref && (
-                <>
-                    <meta
-                        property="og:image"
-                        content={ogImageHref}
-                    />
-                    <meta property="og:image:width" content="1200" />
-                    <meta property="og:image:height" content="630" />
-                    <meta
-                        property="og:image:alt"
-                        content="Lastcoolnameleft - Builder Notes and Project Logs"
-                    />
-                </>
-            )
-        }
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content={SITE_SETTINGS.title} />
+    {
+      ogImageHref && (
+        <>
+          <meta property="og:image" content={ogImageHref} />
+          <meta property="og:image:width" content="1200" />
+          <meta property="og:image:height" content="630" />
+          <meta
+            property="og:image:alt"
+            content="Lastcoolnameleft - Journalizing of an overly curious maker"
+          />
+        </>
+      )
+    }
 
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={description} />
-        <meta name="twitter:creator" content="@lastcoolnameleft" />
-        {
-            ogImageHref && (
-                <>
-                    <meta
-                        name="twitter:image"
-                        content={ogImageHref}
-                    />
-                    <meta
-                        name="twitter:image:alt"
-                        content="Lastcoolnameleft - Builder Notes and Project Logs"
-                    />
-                </>
-            )
-        }
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:creator" content="@lastcoolnameleft" />
+    {
+      ogImageHref && (
+        <>
+          <meta name="twitter:image" content={ogImageHref} />
+          <meta
+            name="twitter:image:alt"
+            content="Lastcoolnameleft - Journalizing of an overly curious maker"
+          />
+        </>
+      )
+    }
 
-        <link rel="sitemap" href="sitemap-index.xml" />
-        <link
-            rel="alternate"
-            type="application/rss+xml"
-            title="RSS"
-            href="rss.xml"
-        />
+    <link rel="sitemap" href="sitemap-index.xml" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="RSS"
+      href="rss.xml"
+    />
 
-        <script is:inline>
-            try {
-                const stored = localStorage.getItem("theme");
-                const isDark = stored ? stored === "dark" : true;
-                document.documentElement.classList.toggle("dark", isDark);
-            } catch {}
-        </script>
+    <script is:inline>
+      try {
+        const stored = localStorage.getItem("theme");
+        const isDark = stored ? stored === "dark" : true;
+        document.documentElement.classList.toggle("dark", isDark);
+      } catch {}
+    </script>
 
-        <script src="../utils/overlay.ts"></script>
+    <script src="../utils/overlay.ts"></script>
 
-        <slot name="head" />
-    </head>
+    <slot name="head" />
+  </head>
 
-    <body
-        class="bg-[var(--page-bg)] text-[var(--text-main)]"
+  <body class="bg-[var(--page-bg)] text-[var(--text-main)]">
+    <SkipLinkBtn />
+
+    <Header />
+
+    <main id="main" class="min-h-[calc(100vh-12rem)]">
+      <slot />
+    </main>
+
+    <Footer />
+
+    <div
+      id="overlay"
+      class="pointer-events-none invisible fixed inset-0 z-40 bg-black/50 opacity-0 transition-all duration-500"
     >
-        <SkipLinkBtn />
+    </div>
 
-        <Header />
-
-        <main id="main" class="min-h-[calc(100vh-12rem)]">
-            <slot />
-        </main>
-
-        <Footer />
-
-        <div
-            id="overlay"
-            class="pointer-events-none invisible fixed inset-0 z-40 bg-black/50 opacity-0 transition-all duration-500"
-        >
-        </div>
-
-        <ScrollToTop />
-    </body>
+    <ScrollToTop />
+  </body>
 </html>
