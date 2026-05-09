@@ -1,8 +1,8 @@
 ---
 draft: false
 featured: "none"
-title: "How I built a super cool LED Lanyard"
-description: "I scoffed when I heard wearable technology was an upcoming \"big thing\" for fashion. However, since basking in the warm glowing, warming glow of my first…"
+title: "DIY LED Lanyard Build with WS2812B and Raspberry Pi"
+description: "DIY LED lanyard build using WS2812B strips and Raspberry Pi, with parts, power lessons, and assembly tips for wearable conference projects."
 authors:
   - Tommy Falgout
 pubDate: 2020-02-26T21:41:56.000Z
@@ -12,6 +12,10 @@ tags:
   - engineering
   - projects
   - travel
+  - led wearables
+  - ws2812b
+  - raspberry pi
+  - diy
 image:
   src: /images/2020/gphoto-e53c3bf086.jpg
   alt: "LED Lanyard"
@@ -27,6 +31,8 @@ I got tired of boring lanyards, so I made my own. [pic.twitter.com/LPd8Roi6rd](h
 > â€” Tommy Falgout (@lastcoolname) [June 5, 2019](https://twitter.com/lastcoolname/status/1136092293801418753?ref_src=twsrc%5Etfw)
 
 We iterated over and over until we streamlined the design to be portable enough to fit behind the badge.  After rigorous field-testing (i.e.: lot of tech conferences), the design now fits in a small travel case and can be assembled in minutes.
+
+Years later, I used many of these same wearable LED lessons in my [Disco Kilt LED costume build](/blog/2025/disco-kilt-a-journey-of-sparkles-leds-and-scottish-pride/).
 
 If you are interested in building your own, you should know a few things about the build and procurement process:
 
@@ -65,6 +71,24 @@ There are many LED options, but the ones we wanted were [WS2812B](https://cdn-sh
 ## Battery
 
 Come to find out, managing electricity is hard.  We lost many hours debugging why the LED would power off when changing patterns.  Cheap wires were the culprit as the controller couldn't pull enough current for some configurations (e.g. all white LED).  A credit-card battery worked best because of the bendable power cord which was useful in the tight space of the controller box and minimized our wire problems.
+
+## FAQ for LED lanyard build
+
+### What LED strip should you use for a DIY LED lanyard
+
+WS2812B strips worked best for this project because they are individually addressable, bright, and widely supported by affordable controllers.
+
+### Can beginners build this wearable LED project
+
+Yes. Start with a simple RF controller setup first, then move to Raspberry Pi customization once you are comfortable with power and wiring basics.
+
+### What is the biggest technical issue in this build
+
+Power delivery is the most common problem. Cheap wires can cause voltage drop or unstable behavior, especially with bright patterns.
+
+### What is a good next project after this LED lanyard
+
+If you want to scale the same concepts into a larger wearable, check out the [Disco Kilt LED costume project](/blog/2025/disco-kilt-a-journey-of-sparkles-leds-and-scottish-pride/).
 
 ## Summary
 

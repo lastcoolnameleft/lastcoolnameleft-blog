@@ -1,8 +1,8 @@
 ---
 draft: false
 featured: "2"
-title: "Disco Kilt: A Journey of Sparkles, LEDs, and Scottish Pride"
-description: "Where Heritage Meets the Dance Floor I love kilts. I now own six of them, which feels appropriate given that I'm a quarter Scottish. But I also love…"
+title: "DIY LED Disco Kilt: Wearable Costume for Dancing and Going Out"
+description: "Build a wearable LED disco kilt for dancing, parties, and festivals. Complete guide to materials, LED wiring, sewing, and power management for mobile LED costumes."
 authors:
   - Tommy Falgout
 pubDate: 2025-10-16T21:15:07.000Z
@@ -12,6 +12,9 @@ tags:
   - projects
   - dance
   - personal
+  - dragoncon
+  - led wearables
+  - diy
 image:
   src: /images/2025/i1ybj5u.gif
   alt: "Disco Kilt"
@@ -24,7 +27,9 @@ I love kilts. I now own six of them, which feels appropriate given that I'm a qu
 
 ![Disco Stu](/images/2025/qeeldh5.jpeg)
 
-My new mission in life was to debut a disco kilt in time for [DragonCon](https://www.dragoncon.com). I was already presenting on [LED wearables](https://ledlanyard.com/), and I knew this project would be the perfect showpiece. Plus, I was confident that people would go crazy for the sparkles and shine. What I didn't anticipate was just how challenging (and rewarding) the journey would be.
+My goal was to build a disco kilt I could actually wear dancing, going out, and to events. DragonCon seemed like the perfect debut venue since I was already presenting on [LED wearables](/blog/2020/how-i-built-a-super-cool-led-lanyard/). I was confident that people would go crazy for the sparkles and shine. What I didn't anticipate was just how challenging (and rewarding) the journey would be.
+
+If you want a deeper hardware breakdown for LEDs, controllers, and power tradeoffs, check out my [DIY LED lanyard build guide](/blog/2020/how-i-built-a-super-cool-led-lanyard/).
 
 ## Failed Attempts and Valuable Lessons
 
@@ -95,6 +100,24 @@ Was it perfect? Not quite. It was occasionally awkward to dance in, and the wiri
 Overall, this was an amazing project. I learned so much about sewing, LEDs, voltage, persistence, and problem-solving. I'm grateful for everyone who helped me along the way and for all the encouragement I received.
 
 Most importantly, I love that I can express myself so vividly through disco, dance, and my Scottish heritage. The disco kilt isn't just a costume. It's a celebration of everything that makes me, me.
+
+## FAQ for disco kilt build
+
+### What materials worked best for this disco kilt project
+
+Sewing disco fabric onto a real kilt was the best balance of durability, shine, and movement. Glass tiles and mylar prototypes looked promising but failed in comfort and safety.
+
+### How many LEDs and wires are in the final kilt
+
+The final build used more than 30 feet of LEDs and about 200 feet of wiring. I placed LEDs behind pleats so each strip lights the next pleat from behind.
+
+### Was this wearable LED costume hard to build
+
+Yes, especially for a first sewing-heavy project. The biggest learning curve was pleat alignment, power distribution, and avoiding voltage-drop issues across long LED runs.
+
+### Where to start if you want to build a beginner LED wearable
+
+Start with a smaller project like my [LED lanyard tutorial](/blog/2020/how-i-built-a-super-cool-led-lanyard/) to learn controller, battery, and strip basics before scaling up to a larger costume.
 
 Now, who's ready to dance?
 
