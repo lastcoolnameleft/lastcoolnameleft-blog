@@ -1,6 +1,6 @@
 ---
 draft: false
-featured: "none"
+featured: "3"
 title: "RoboClippy - Combining 20 years of Internet rage into an adorable package."
 description: "The internetâ€™s a weird place. We already knew that, yet it keeps finding new ways to amaze me. Someone thought it would be a novel idea to incorporate…"
 authors:

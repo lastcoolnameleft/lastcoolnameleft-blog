@@ -1,6 +1,6 @@
 ---
 draft: false
-featured: "3"
+featured: "none"
 title: "How I built a super cool LED Lanyard"
 description: "I scoffed when I heard wearable technology was an upcoming \"big thing\" for fashion. However, since basking in the warm glowing, warming glow of my first…"
 authors:

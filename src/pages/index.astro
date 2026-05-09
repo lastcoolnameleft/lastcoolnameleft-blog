@@ -8,6 +8,13 @@ import EmptyState from "../components/ui/EmptyState.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { attachMeta } from "../utils/meta";
 
+const PROJECT_IDS = new Set([
+    "2025/2025-lewisville-punkin-chunkin",
+    "2025/disco-kilt-a-journey-of-sparkles-leds-and-scottish-pride",
+    "2019/roboclippy-combining-20-years-of-internet-rage-into-an-adorable-package",
+    "2020/how-i-built-a-super-cool-led-lanyard",
+]);
+
 const allPosts = await getCollection("blog", ({ data }) => !data.draft);
 
 const sortedPosts = allPosts.sort(
@@ -16,9 +23,9 @@ const sortedPosts = allPosts.sort(
 
 const latestPosts = sortedPosts.slice(0, 3).map((post) => attachMeta(post));
 const latestProjects = allPosts
-    .filter((p) => p.data.tags.includes("project"))
+    .filter((p) => PROJECT_IDS.has(p.id))
     .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-    .slice(0, 2)
+    .slice(0, 3)
     .map((project) => attachMeta(project));
 
 const featured = allPosts
@@ -56,7 +63,7 @@ const hasContent =
                             href="/projects"
                             viewAllText="View all projects →"
                             items={latestProjects}
-                            class="grid grid-cols-1 gap-8 md:grid-cols-2"
+                            class="grid grid-cols-1 gap-8 md:grid-cols-3"
                         />
                     )}
                 </>
