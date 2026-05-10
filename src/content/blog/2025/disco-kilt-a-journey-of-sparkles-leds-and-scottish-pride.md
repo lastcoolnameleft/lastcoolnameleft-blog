@@ -16,10 +16,10 @@ tags:
   - led wearables
   - diy
 image:
-  src: /images/2025/i1ybj5u.webp
+  src: /images/2025/i1ybj5u.gif
   alt: "Disco Kilt"
 ogImage:
-  src: /images/2025/i1ybj5u.webp
+  src: /images/2025/i1ybj5u.gif
 ---
 ## Where Heritage Meets the Dance Floor
 
@@ -77,7 +77,7 @@ By the time I finished, I'd added over [15 feet of LEDs](https://amzn.to/42LdTbI
 
 ![Color](/images/2025/28hdgxw.jpeg)
 
-![LED](/images/2025/i1ybj5u.webp)
+![LED](/images/2025/i1ybj5u.gif)
 
 I also created an LED sporran to accentuate the overall effect. 
 
