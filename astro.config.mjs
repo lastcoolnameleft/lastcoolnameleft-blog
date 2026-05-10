@@ -8,28 +8,10 @@ import expressiveCode from "astro-expressive-code";
 import { pluginLineNumbers } from "@expressive-code/plugin-line-numbers";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeSlug from "rehype-slug";
-import { visit } from "unist-util-visit";
-
-const BASE = "/lastcoolnameleft-blog";
-
-/** Prepend base path to absolute /images/ URLs in markdown (temp for GH Pages subpath) */
-function rehypeBasePath() {
-  return (tree) => {
-    visit(tree, "element", (node) => {
-      if (node.tagName === "img" && node.properties?.src?.startsWith("/images/")) {
-        node.properties.src = BASE + node.properties.src;
-      }
-      if (node.tagName === "a" && node.properties?.href?.startsWith("/images/")) {
-        node.properties.href = BASE + node.properties.href;
-      }
-    });
-  };
-}
-
 // https://astro.build/config
 export default defineConfig({
-  site: "https://lastcoolnameleft.github.io",
-  base: BASE,
+  site: "https://lastcoolnameleft.com",
+  base: "/",
 
   fonts: [
     {
@@ -84,7 +66,6 @@ export default defineConfig({
           properties: { className: ["anchor"] },
         },
       ],
-      rehypeBasePath,
     ],
   },
 
