@@ -177,7 +177,7 @@ $ curl 10.0.0.5:9898
 "version": "6.0.3",
 "revision": "",
 "color": "#34577c",
-"logo": "/images/2022/cuddle_clap.gif",
+"logo": "/images/2022/cuddle_clap.webp",
 "message": "podinfo-internal-lb",
 "goos": "linux",
 "goarch": "amd64",
