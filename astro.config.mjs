@@ -74,9 +74,9 @@ export default defineConfig({
       directives: [
         "default-src 'self'",
         "object-src 'self'",
-        "connect-src 'self' https://formspree.io",
+        "connect-src 'self' https://formspree.io https://www.google-analytics.com https://region1.google-analytics.com",
         "base-uri 'self'",
-        "img-src 'self' https://res.cloudinary.com/dellp9a4z/ data:",
+        "img-src 'self' https://res.cloudinary.com/dellp9a4z/ https://www.google-analytics.com data:",
         "media-src 'self' https://res.cloudinary.com/dellp9a4z/",
         "font-src 'self' data:",
         "frame-src 'self'",
@@ -85,7 +85,7 @@ export default defineConfig({
         "manifest-src 'none'",
       ],
       scriptDirective: {
-        resources: ["'self'", "blob:"],
+        resources: ["'self'", "blob:", "https://www.googletagmanager.com"],
         hashes: [
           "sha256-+D181lN2Iw1b9lkNhIL2BSfLXvTnxTpdqxKE5OjSgk0=",
           "sha256-UnpvhDyF7OXferJXLLEvpK6eSVKujiCxuakCMAAfX0k=",

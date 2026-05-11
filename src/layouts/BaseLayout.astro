@@ -21,6 +21,7 @@ const {
   description = SITE_SETTINGS.description,
   ogImage = SITE_SETTINGS.ogImages,
 } = Astro.props;
+const GA_MEASUREMENT_ID = "G-P6KHPJWZ21";
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const ogImageHref = ogImage
   ? /^https?:\/\//.test(ogImage)
@@ -67,6 +68,7 @@ const ogImageHref = ogImage
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:creator" content="@lastcoolnameleft" />
+    <meta name="ga-measurement-id" content={GA_MEASUREMENT_ID} />
     {
       ogImageHref && (
         <>
@@ -96,6 +98,7 @@ const ogImageHref = ogImage
     </script>
 
     <script src="../utils/overlay.ts"></script>
+    <script src="../utils/ga.ts"></script>
 
     <slot name="head" />
   </head>
