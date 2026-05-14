@@ -11,11 +11,12 @@ tags:
   - travel
   - japan
 image:
-  src: /images/2026/2478385D-4979-454A-9066-A8C0CCBA1E5C_1_105_c.jpg
-  alt: "Three friends in Japan"
+  src: /images/2026/50F33028-4C46-4514-BED0-089C9ECDF07A_1_105_c.jpg
+  alt: "Okunoin Cemetery"
 ogImage:
-  src: /images/2026/2478385D-4979-454A-9066-A8C0CCBA1E5C_1_105_c.jpg
-  alt: "Three friends in Japan"
+  src: /images/2026/50F33028-4C46-4514-BED0-089C9ECDF07A_1_105_c.jpg
+  alt: "Okunoin Cemetery"
+
 ---
 
 # Turning 50 in Japan Was the Best Decision I Ever Made
