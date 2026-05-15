@@ -161,7 +161,7 @@ Our last night in Kyoto we went to a distillery sampler that I have no idea how 
 
 ## Koyasan
 
-We rented a car to make the temple stay work, which turned out to be a great decision for more than one reason. [Eko-in](https://www.ekoin.jp/en/) in [Koyasan](https://maps.google.com/?q=Koyasan,+Wakayama,+Japan) is a Buddhist monastery that takes guests. The monks serve you food and show you how to meditate and participate in this morning ceremony.
+We rented a car to make the temple stay work, which turned out to be a great decision for more than one reason. [Eko-in](https://www.ekoin.jp/en/) in [Koyasan](https://maps.google.com/?q=Koyasan,+Wakayama,+Japan) is a Buddhist monastery that takes guests. The monks serve you food and show you how to meditate and participate in the morning ceremony.
 
 ![Eko-in Monastery](/images/2026/E6C4F271-68EF-4ADE-98A1-0B342CDBC847_1_105_c.jpg)
 
