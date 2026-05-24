@@ -1,12 +1,10 @@
 ---
 import Container from "../components/layouts/Container.astro";
-import Button from "../components/ui/button/Button.astro";
-import { InputField, TextArea } from "../components/ui/form";
 import PageTitle from "../components/ui/PageTitle.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 
-// Formspree form ID from https://formspree.io/forms
-const FORMSPREE_ID = "mpqbqqrz";
+const emailUser = "tommy";
+const emailDomain = "lastcoolnameleft.com";
 ---
 
 <BaseLayout
@@ -16,121 +14,28 @@ const FORMSPREE_ID = "mpqbqqrz";
     <Container class="mx-auto max-w-2xl py-12">
         <PageTitle title="Get in Touch" />
 
-        <div id="success-message" class="hidden">
-            <div class="rounded-lg border border-green-300 bg-green-50 p-6 text-center dark:border-green-700 dark:bg-green-900/20">
-                <h2 class="text-xl font-semibold">Thank You!</h2>
-                <p class="mt-2">Your message has been sent!</p>
-                <button id="send-another" class="mt-4 text-base underline">Send another message</button>
-            </div>
-        </div>
+        <p class="mt-6 text-lg leading-8">
+            Have a question or just want to say hi? Send me an email:
+        </p>
 
-        <form
-            id="contact-form"
-            method="POST"
-            action={`https://formspree.io/f/${FORMSPREE_ID}`}
-        >
-            <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
-                <div>
-                    <label
-                        for="name"
-                        class="block text-sm leading-6 font-semibold"
-                    >
-                        Name
-                    </label>
-                    <div class="mt-2.5">
-                        <InputField
-                            name="name"
-                            placeholder="Your Name"
-                            required
-                            maxlength="100"
-                        />
-                    </div>
-                </div>
-
-                <div>
-                    <label
-                        for="email"
-                        class="block text-sm leading-6 font-semibold"
-                    >
-                        Email
-                    </label>
-                    <div class="mt-2.5">
-                        <InputField
-                            type="email"
-                            name="email"
-                            placeholder="your@email.com"
-                            required
-                            maxlength="254"
-                            autocomplete="email"
-                            autocapitalize="off"
-                            spellcheck="false"
-                        />
-                    </div>
-                </div>
-            </div>
-
-            <div class="mt-8">
-                <label
-                    for="message"
-                    class="block text-sm leading-6 font-semibold"
-                >
-                    Message
-                </label>
-                <div class="mt-2.5">
-                    <TextArea
-                        name="message"
-                        required
-                        maxlength="5000"
-                        rows="4"
-                        placeholder="How can I help?"
-                    />
-                </div>
-            </div>
-
-            <!-- Formspree honeypot field for spam prevention -->
-            <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off" />
-
-            <div class="mt-8">
-                <Button type="submit" class="w-full">
-                    Send
-                </Button>
-            </div>
-        </form>
+        <p class="mt-4 text-center">
+            <a
+                id="email-link"
+                class="inline-block rounded-lg bg-primary px-6 py-3 text-lg font-semibold text-white no-underline transition-colors hover:opacity-90"
+                href="#"
+            >
+                <span id="email-text">Loading...</span>
+            </a>
+        </p>
     </Container>
 </BaseLayout>
 
-<script is:inline>
+<script is:inline define:vars={{ emailUser, emailDomain }}>
     (function () {
-        const form = document.getElementById("contact-form");
-        const successMsg = document.getElementById("success-message");
-        const sendAnother = document.getElementById("send-another");
-        if (!form) return;
-
-        form.addEventListener("submit", function (e) {
-            e.preventDefault();
-            const data = new FormData(form);
-            fetch(form.action, {
-                method: "POST",
-                body: data,
-                headers: { Accept: "application/json" },
-            })
-                .then(function (response) {
-                    if (response.ok) {
-                        form.style.display = "none";
-                        successMsg.classList.remove("hidden");
-                        form.reset();
-                    } else {
-                        alert("Something went wrong. Please try again.");
-                    }
-                })
-                .catch(function () {
-                    alert("Could not send message. Please try again later.");
-                });
-        });
-
-        sendAnother.addEventListener("click", function () {
-            successMsg.classList.add("hidden");
-            form.style.display = "";
-        });
+        const link = document.getElementById("email-link");
+        const text = document.getElementById("email-text");
+        const addr = emailUser + "@" + emailDomain;
+        link.href = "mailto:" + addr;
+        text.textContent = addr;
     })();
 </script>
