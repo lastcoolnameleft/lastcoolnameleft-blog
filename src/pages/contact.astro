@@ -38,13 +38,11 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     </Container>
 </BaseLayout>
 
-<script is:inline>
-    (function () {
-        var u = "tommy", d = "lastcoolnameleft.com";
-        var link = document.getElementById("email-link");
-        var text = document.getElementById("email-text");
-        var addr = u + "@" + d;
-        link.href = "mailto:" + addr;
-        text.textContent = addr;
-    })();
+<script>
+    const u = "tommy", d = "lastcoolnameleft.com";
+    const link = document.getElementById("email-link");
+    const text = document.getElementById("email-text");
+    const addr = u + "@" + d;
+    if (link) link.setAttribute("href", "mailto:" + addr);
+    if (text) text.textContent = addr;
 </script>
