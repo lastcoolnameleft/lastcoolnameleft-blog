@@ -1,10 +1,8 @@
 ---
 import Container from "../components/layouts/Container.astro";
 import PageTitle from "../components/ui/PageTitle.astro";
+import SocialLinks from "../components/ui/SocialLinks.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
-
-const emailUser = "tommy";
-const emailDomain = "lastcoolnameleft.com";
 ---
 
 <BaseLayout
@@ -14,27 +12,38 @@ const emailDomain = "lastcoolnameleft.com";
     <Container class="mx-auto max-w-2xl py-12">
         <PageTitle title="Get in Touch" />
 
-        <p class="mt-6 text-lg leading-8">
-            Have a question or just want to say hi? Send me an email:
-        </p>
+        <div class="mt-10 rounded-xl border border-neutral-200 bg-neutral-50 p-8 dark:border-neutral-700 dark:bg-neutral-800/50">
+            <h2 class="text-xl font-semibold">Send me an email</h2>
+            <p class="mt-2 text-neutral-600 dark:text-neutral-400">
+                Have a question, want to collaborate, or just want to say hi?
+            </p>
+            <p class="mt-4">
+                <a
+                    id="email-link"
+                    class="inline-flex items-center gap-2 rounded-md bg-neutral-200 px-5 py-3 text-lg font-medium text-neutral-950 no-underline transition duration-250 hover:bg-neutral-300 active:scale-95 dark:bg-neutral-700 dark:text-neutral-50 dark:hover:bg-neutral-600"
+                    href="#"
+                >
+                    ✉️ <span id="email-text"></span>
+                </a>
+            </p>
+        </div>
 
-        <p class="mt-4 text-center">
-            <a
-                id="email-link"
-                class="inline-block rounded-lg bg-primary px-6 py-3 text-lg font-semibold text-white no-underline transition-colors hover:opacity-90"
-                href="#"
-            >
-                <span id="email-text">Loading...</span>
-            </a>
-        </p>
+        <div class="mt-10">
+            <h2 class="text-xl font-semibold">Find me elsewhere</h2>
+            <p class="mt-2 text-neutral-600 dark:text-neutral-400">
+                You can also connect with me on these platforms.
+            </p>
+            <SocialLinks class="mt-4" appearance={"chip"} />
+        </div>
     </Container>
 </BaseLayout>
 
-<script is:inline define:vars={{ emailUser, emailDomain }}>
+<script is:inline>
     (function () {
-        const link = document.getElementById("email-link");
-        const text = document.getElementById("email-text");
-        const addr = emailUser + "@" + emailDomain;
+        var u = "tommy", d = "lastcoolnameleft.com";
+        var link = document.getElementById("email-link");
+        var text = document.getElementById("email-text");
+        var addr = u + "@" + d;
         link.href = "mailto:" + addr;
         text.textContent = addr;
     })();
