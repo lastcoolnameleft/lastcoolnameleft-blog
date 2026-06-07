@@ -2,7 +2,7 @@
 draft: false
 featured: "3"
 title: "RoboClippy - Combining 20 years of Internet rage into an adorable package."
-description: "The internetâ€™s a weird place. We already knew that, yet it keeps finding new ways to amaze me. Someone thought it would be a novel idea to incorporate…"
+description: "The internet's a weird place. We already knew that, yet it keeps finding new ways to amaze me. Someone thought it would be a novel idea to incorporate…"
 authors:
   - Tommy Falgout
 pubDate: 2019-04-04T20:34:34.000Z
@@ -18,9 +18,9 @@ image:
 ogImage:
   src: /images/2019/gphoto-e4fb4ed657.jpg
 ---
-The internetâ€™s a weird place. We already knew that, yet it keeps finding new ways to amaze me.
+The internet's a weird place. We already knew that, yet it keeps finding new ways to amaze me.
 
-Someone thought it would be a novel idea to incorporate Alexa with a novelty electronic fish ([Big Mouth Billy Bass](https://en.wikipedia.org/wiki/Big_Mouth_Billy_Bass)).  Now you can [ask a fish for the current weather](https://www.youtube.com/watch?v=aW5TvT1mo9k) and the fish can tell you if itâ€™s a good day to catch its brethren.
+Someone thought it would be a novel idea to incorporate Alexa with a novelty electronic fish ([Big Mouth Billy Bass](https://en.wikipedia.org/wiki/Big_Mouth_Billy_Bass)).  Now you can [ask a fish for the current weather](https://www.youtube.com/watch?v=aW5TvT1mo9k) and the fish can tell you if it's a good day to catch its brethren.
 
 I take that back.  The world is a weird place.  And I embrace it and want to leave my mark on it.
 

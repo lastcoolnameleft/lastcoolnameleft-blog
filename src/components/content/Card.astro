@@ -27,7 +27,7 @@ const {
 const { readingTimeText } = meta || {};
 const cardImage = image ?? meta?.previewImage;
 const hasImage = Boolean(cardImage);
-const noImageTeaser = meta?.plainText?.trim() || description;
+const noImageTeaser = (meta?.plainText?.trim() || description).replace(/\n{3,}/g, "\n\n");
 
 const displayDate = updatedDate ?? pubDate;
 ---
@@ -65,7 +65,7 @@ const displayDate = updatedDate ?? pubDate;
         hasImage ? (
             <p class="line-clamp-3 text-[var(--text-muted)]">{description}</p>
         ) : (
-            <p class="line-clamp-10 text-[var(--text-muted)]">{noImageTeaser}</p>
+            <p class="line-clamp-10 whitespace-pre-line text-[var(--text-muted)]">{noImageTeaser}</p>
         )
     }
 

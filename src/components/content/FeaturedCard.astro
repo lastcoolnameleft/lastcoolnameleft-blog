@@ -86,17 +86,6 @@ const hasImage = Boolean(image);
         />
     )}
 
-    <span
-        class:list={[
-            "z-50 inline-block rounded-md px-3 py-1.5 text-xs font-medium capitalize sm:text-sm",
-            hasImage
-                ? "absolute top-0 left-0 m-2 bg-black/70 text-white md:m-2.5"
-                : "relative bg-[var(--surface)] text-[var(--text-muted)]",
-        ]}
-    >
-        {collection}
-    </span>
-
     <div class:list={[hasImage ? textBox({ size }) : "relative z-20 mt-4"]}>
         <h3
             class:list={[
