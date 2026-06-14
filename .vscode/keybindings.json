@@ -1,0 +1,7 @@
+[
+  {
+    "key": "cmd+alt+v",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Optimize and Insert Image"
+  }
+]
