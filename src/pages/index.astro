@@ -40,44 +40,48 @@ const hasContent =
     title="LASTCOOLNAMELEFT"
     description="Journaling of an overly curious maker"
 >
-    <Container class="relative space-y-24 py-12">
-        {
-            hasContent ? (
-                <>
-                    {featured.length > 0 && (
-                        <FeaturedContent items={featured} />
-                    )}
+    <Container class="py-12">
+        <div class="2xl:grid 2xl:grid-cols-[minmax(0,1fr)_18rem] 2xl:gap-8">
+            <div class="space-y-24">
+                {
+                    hasContent ? (
+                        <>
+                            {featured.length > 0 && (
+                                <FeaturedContent items={featured} />
+                            )}
 
-                    {latestPosts.length > 0 && (
-                        <ContentGrid
-                            title="Latest Posts"
-                            href="/blog"
-                            viewAllText="View all posts →"
-                            items={latestPosts}
+                            {latestPosts.length > 0 && (
+                                <ContentGrid
+                                    title="Latest Posts"
+                                    href="/blog"
+                                    viewAllText="View all posts →"
+                                    items={latestPosts}
+                                />
+                            )}
+
+                            {latestProjects.length > 0 && (
+                                <ContentGrid
+                                    title="Latest Projects"
+                                    href="/projects"
+                                    viewAllText="View all projects →"
+                                    items={latestProjects}
+                                    class="grid grid-cols-1 gap-8 md:grid-cols-3"
+                                />
+                            )}
+                        </>
+                    ) : (
+                        <EmptyState
+                            title="Nothing here yet..."
+                            message="Check back soon for new items!"
                         />
-                    )}
+                    )
+                }
+            </div>
 
-                    {latestProjects.length > 0 && (
-                        <ContentGrid
-                            title="Latest Projects"
-                            href="/projects"
-                            viewAllText="View all projects →"
-                            items={latestProjects}
-                            class="grid grid-cols-1 gap-8 md:grid-cols-3"
-                        />
-                    )}
-                </>
-            ) : (
-                <EmptyState
-                    title="Nothing here yet..."
-                    message="Check back soon for new items!"
-                />
-            )
-        }
-
-        <div class="pointer-events-none absolute top-12 left-full ml-8 hidden 2xl:block w-80">
-            <div class="pointer-events-auto sticky top-32">
-                <AboutMeAside />
+            <div class="hidden 2xl:block">
+                <div class="sticky top-32">
+                    <AboutMeAside />
+                </div>
             </div>
         </div>
     </Container>
