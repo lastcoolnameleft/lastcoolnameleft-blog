@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Shingles at 50: Symptoms, Eye Risk, Recovery, and What I Wish I Knew"
-description: "A personal shingles story with early symptoms, eye risk, pain and sleep challenges, treatment timeline, and why fast medical care matters."
+title: "Shingles Near My Eye at 50: Symptoms, Eye Risk, Recovery Timeline, and What I Wish I Knew"
+description: "A personal shingles story about shingles near the eye, early symptoms, eye risk, pain and sleep challenges, recovery timeline, and why fast medical care matters."
 authors:
   - Tommy Falgout
 pubDate: 2026-06-07T21:24:51.000Z
@@ -14,7 +14,7 @@ tags:
   - recovery
 ---
 
-# Shingles at 50: My Experience and Recovery Timeline
+# Shingles Near My Eye at 50: My Experience and Recovery Timeline
 
 Note: I normally include lots of photos in my posts, but I am sparing everyone this time. Since these involved blisters on my eyelids, some of them are pretty gruesome.
 
@@ -66,11 +66,9 @@ The pain got less intense, less frequent, and shorter. But I seemed to have a se
 
 It is hard to sleep when you are constantly moving from scratching, itching, or pain. For roughly the next week, I could not fall asleep until around 4 AM.
 
-By day six, Kathy came to check on me and found me crying on the couch.
+By day six, Kathy came to check on me and found me crying on the couch as I felt that I was starting to lose my sanity.
 
-I went back to my doctor and explained what was happening. We increased gabapentin to 300 mg and added trazodone. That first night, I got six hours of sleep. The next night, I slept ten hours and woke up feeling human for the first time in weeks.
-
-This was not college-level sleep deprivation. The combination of pain and no sleep made that first normal morning feel huge.
+I went back to my doctor and explained what was happening. She increased gabapentin to 300 mg and added trazodone. That first night, I got six hours of sleep. The next night, I slept ten hours and woke up feeling human for the first time in weeks.
 
 ## Mental and emotional impact
 
@@ -82,9 +80,10 @@ During recovery, people started sharing their friends/relatives/personal shingle
 
 My month was pretty awful. But hearing what others went through reminded me how severe this can get when diagnosis or treatment is delayed.
 
+
 ## What to do if you suspect shingles
 
-If you are close to vaccine age, ask questions early and be persistent about access.
+If you are close to vaccine age, ask questions early.
 
 If a rash appears near your eye, treat it as urgent.
 
@@ -98,13 +97,25 @@ If you want a lighter read from the same "turning 50" season of my life, here is
 
 ## Frequently asked questions
 
-### What did shingles pain feel like for me?
+### What did shingles pain feel like?
 
 For me, it felt like electrical jolts or lightning through my scalp and face every few seconds. It later abated to a dull ache with occasional sharp bursts. It was constant and intense enough to disrupt sleep and daily activities.
 
 ### When should shingles near the eye be treated as urgent?
 
 Immediately. If you have rash or pain near the eye, contact a medical professional quickly and ask whether ophthalmology follow-up is needed.
+
+### How long did shingles pain last for me?
+
+Months. (As of this post, I still feel the discomfort occasionally.) 
+
+The worst of it lasted through most of May after I got shingles at the end of April.
+The pain gradually improved after treatment adjustments and acupuncture. The 100 mg dose of gabapentin did not seem to do much for me, but the 300 mg dose made a big difference in both sleep and pain.
+
+The first round of acupuncture brought my pain down from about a 7-8 to a 4-5. It crept up a bit between sessions, and the next treatment brought it down again to about a 3-4.
+After that, the benefit tapered off, but it still helped keep the pain closer to a 1-3.
+
+Recovery was gradual rather than immediate and continued into June.
 
 ### What helped most during recovery?
 
@@ -114,7 +125,7 @@ Fast diagnosis, medical follow-up, sleep support, and a treatment plan that adju
 
 - [CDC: Shingles (Herpes Zoster)](https://www.cdc.gov/shingles/index.html)
 - [CDC: Shingles Vaccination (Shingrix)](https://www.cdc.gov/shingles/vaccines/index.html)
-- [American Academy of Ophthalmology: Herpes Zoster Ophthalmicus](https://www.aao.org/eye-health/diseases/shingles-herpes-zoster-ophthalmicus)
+- [American Academy of Ophthalmology: Herpes Zoster Ophthalmicus](https://eyewiki.org/Herpes_Zoster_Ophthalmicus)
 
 ## Medical disclaimer
 
