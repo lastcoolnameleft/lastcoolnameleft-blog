@@ -10,10 +10,10 @@ tags:
   - personal
   - bucket-list
 image:
-  src: "https://i.redd.it/frkmql8oy9bc1.png"
+  src: "/images/2026/my-bucket-list-money-time-energy.png"
   alt: "Money, Time, Energy Venn diagram"
 ogImage:
-  src: "https://i.redd.it/frkmql8oy9bc1.png"
+  src: "/images/2026/my-bucket-list-money-time-energy.png"
 ---
 
 # My Bucket List
@@ -26,7 +26,7 @@ This is a living document. I'll add to it, cross things off, and fail miserably 
 
 My goal is to aim at the cool stuff while I still have the time, health, and curiosity to chase it.
 
-![Money, Time, Energy](https://i.redd.it/frkmql8oy9bc1.png)
+![Money, Time, Energy](/images/2026/my-bucket-list-money-time-energy.png)
 
 ## Misc
 

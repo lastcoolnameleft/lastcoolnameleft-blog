@@ -9,7 +9,6 @@ import Button from "../ui/button/Button.astro";
 import OptimizedImage from "../ui/OptimizedImage.astro";
 import Tooltip from "../ui/Tooltip.astro";
 import { formatDate } from "../../utils/formatDate";
-import type { CldImageProps } from "astro-cloudinary";
 import { Icon } from "astro-icon/components";
 import type { ContentEntry, ImageLoading, WithMeta } from "../../types";
 import { SITE_SETTINGS } from "../../site.config";
@@ -17,7 +16,7 @@ import { SITE_SETTINGS } from "../../site.config";
 interface Props {
     entry: WithMeta<ContentEntry>;
     loading?: ImageLoading;
-    fetchpriority?: CldImageProps["fetchpriority"];
+    fetchpriority?: "high" | "low" | "auto";
 }
 
 const { entry, loading = "eager", fetchpriority = "high" } = Astro.props;

@@ -11,6 +11,5 @@ const posts = (await getCollection("blog", ({ data }) => !data.draft))
 <ListLayout
     title="Blog"
     description="A collection of my articles."
-    ogImage="https://res.cloudinary.com/dellp9a4z/image/upload/v1756758389/og-blog_gnqmat.png"
     entries={posts}
 />

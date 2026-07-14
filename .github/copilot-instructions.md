@@ -26,7 +26,7 @@ This creates `src/content/blog/{year}/{slug}.md` with frontmatter template. Post
 - **Framework**: Astro 6 with Tailwind CSS 4, deployed to GitHub Pages via GitHub Actions
 - **Content**: Astro Content Collections using glob loaders (Markdown only, no MDX)
 - **Search**: Pagefind (static search index built at build time)
-- **Images**: Cloudinary for hosted media (`res.cloudinary.com/dellp9a4z/`), Sharp for local optimization
+- **Images**: Local hosted media under `/images/...` in `public/`, with Sharp for local optimization
 - **Code blocks**: Expressive Code with `aurora-x` theme and line numbers plugin
 - **Icons**: `astro-icon` with `@iconify-json/lucide` and `@iconify-json/fa6-brands`
 - **CSP**: Content Security Policy is configured in `astro.config.mjs` with script/style hashes — new inline scripts require adding their hash

@@ -1,10 +1,9 @@
 ---
-import { isCloudinaryUrl, lqip } from "../../utils/cloudinary";
+import type { HTMLAttributes } from "astro/types";
 import { cn } from "../../utils/styles";
 import { url } from "../../utils/url-utils";
-import { CldImage, type CldImageProps } from "astro-cloudinary";
 
-interface Props extends CldImageProps {
+interface Props extends HTMLAttributes<"img"> {
     wrapperClass?: string;
     imageClass?: string;
 }
@@ -22,10 +21,8 @@ const {
 const fetchPriorityVal =
     loading === "eager" ? (fetchpriority ?? "high") : undefined;
 
-const useCloudinaryImage = isCloudinaryUrl(src);
 const isPublic = src.startsWith("/");
 const resolvedSrc = isPublic ? url(src) : src;
-const lqipUrl = useCloudinaryImage ? lqip(src) : undefined;
 ---
 
 <div
@@ -35,43 +32,14 @@ const lqipUrl = useCloudinaryImage ? lqip(src) : undefined;
     )}
 >
     {
-        lqipUrl && (
-            <img
-                data-pagefind-ignore
-                src={lqipUrl}
-                alt=""
-                aria-hidden="true"
-                class={cn(
-                    "absolute inset-0 h-full w-full scale-105 object-cover blur-xl",
-                    imageClass,
-                )}
-                loading="eager"
-                decoding="async"
-            />
-        )
-    }
-
-    {
-        useCloudinaryImage ? (
-            <CldImage
-                src={src}
-                alt={alt}
-                class={cn("absolute inset-0 h-full w-full object-cover", imageClass)}
-                loading={loading}
-                fetchpriority={fetchPriorityVal}
-                format="auto"
-                quality="auto"
-                {...rest}
-            />
-        ) : (
-            <img
-                src={resolvedSrc}
-                alt={alt}
-                class={cn("absolute inset-0 h-full w-full object-cover", imageClass)}
-                loading={loading}
-                fetchpriority={fetchPriorityVal}
-                decoding="async"
-            />
-        )
+        <img
+            src={resolvedSrc}
+            alt={alt}
+            class={cn("absolute inset-0 h-full w-full object-cover", imageClass)}
+            loading={loading}
+            fetchpriority={fetchPriorityVal}
+            decoding="async"
+            {...rest}
+        />
     }
 </div>
